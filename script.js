@@ -105,8 +105,10 @@ function applyRules(word) {
                 letterUsed[k] = true;
         }
     }
+    let finalTranscription = transcription.join("")
+    finalTranscription = finalTranscription.replaceAll(/ɝ(?=ɑ|æ|ʌ|ɔ|a|ɛ|ɝ|e|ɪ|i|o|ʊ|u|ə)/g, "ɝr");
     return {
-        "result": "/" + transcription.join("") + "/",
+        "result": "/" + finalTranscription + "/",
         "logs": logs.join("<br>")
     };
 }
