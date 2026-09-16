@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Test G2P</title>
+    <style>
+        :root {
+            font-family: system-ui, -apple-system, sans-serif;
+            color-scheme: light dark;
+        }
+
+        body {
+            margin: 40px auto;
+            padding: 0 16px;
+            line-height: 1.5;
+            text-align: center;
+        }
+
+        input,
+        button {
+            font: inherit;
+            padding: 8px 12px;
+            border: 1px solid #ccc;
+            border-radius: 6px;
+        }
+
+        button {
+            cursor: pointer;
+            background: #0066cc;
+            color: #fff;
+            border-color: transparent;
+        }
+
+        button:hover {
+            background: #0052a3;
+        }
+
+        #transcription {
+            margin-top: 24px;
+            font-size: 1.2rem;
+        }
+
+        #container{
+            display: flex;
+  justify-content: center;
+        }
+
+        #logs {
+            font-family: monospace;
+            font-size: 0.9rem;
+            color: gray;
+            margin-top: 16px;
+            text-align: left;
+        }
+
+        #highlight{
+            color: white;
+        }
+
+        #midlight{
+            color: lightskyblue;
+            white-space: pre;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>test-g2p</h1>
+    <input type="text" id="input" placeholder="Enter word">
+    <button id="transcribe-btn">Transcribe</button>
+    <h2 id="transcription">Press Enter or the transcribe button to transcribe</h2>
+    <div id="container"><div id="logs"></div></div>
+    <script src="script.js"></script>
+</body>
+
+</html>

@@ -84,6 +84,7 @@ function applyRules(word) {
     const trimmed = "^" + word.trim() + "'";
     let letterUsed = [];
     let transcription = [];
+    let logs = []
     for (let i = 0; i < trimmed.length; i++) {
         letterUsed.push(false);
         transcription.push("");
@@ -98,11 +99,44 @@ function applyRules(word) {
             if (letterUsed.slice(pos, pos + matchLen).some(Boolean))
                 continue;
             transcription[pos] = getIPA(rules[i][3]);
+            logs.push(
+                `<code id="midlight">Rule ${String(i).padStart(4, ' ')}: </code><i>${positions[j] >= 1 ? " " + trimmed.substring(1, positions[j]) : ""}</i><u id="midlight">${rules[i][0]}</u><b id="highlight">${rules[i][1]}</b><u id="midlight">${rules[i][2]}</u><i>${positions[j] + match.length <= trimmed.length - 1 ? trimmed.substring(positions[j] + match.length, trimmed.length - 1) + " " : ""}</i><code id="midlight"> &rarr;</code> <code id="highlight">/${transcription[pos]}/</code>`);
             for (let k = pos; k < pos + matchLen; k++)
                 letterUsed[k] = true;
         }
     }
     return {
         "result": "/" + transcription.join("") + "/",
+        "logs": logs.join("<br>")
     };
 }
+
+
+function transcribe() {
+    const word = document.getElementById("input").value.trim().toLowerCase();
+    if(!/^[a-z']+$/.test(word)){
+        document.getElementById("transcription").innerHTML = "Invalid input";
+        document.getElementById("logs").innerHTML = "<b id='highlight'>Please enter a word with only letters and apostrophes.</b>";
+        return;
+    }
+    const result = applyRules(word);
+    document.getElementById("transcription").innerHTML = result["result"];
+    document.getElementById("logs").innerHTML = result["logs"];
+}
+
+document.addEventListener("DOMContentLoaded", () => {
+    const btn = document.getElementById("transcribe-btn");
+    const input = document.getElementById("input");
+
+    if (btn) {
+        btn.addEventListener("click", transcribe);
+    }
+
+    if (input) {
+        input.addEventListener("keydown", (event) => {
+            if (event.key === "Enter") {
+                transcribe();
+            }
+        });
+    }
+});
