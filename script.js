@@ -100,7 +100,7 @@ function applyRules(word) {
                 continue;
             transcription[pos] = getIPA(rules[i][3]);
             logs.push(
-                `<code id="midlight">Rule ${String(i).padStart(4, ' ')}: </code><i>${positions[j] >= 1 ? " " + trimmed.substring(1, positions[j]) : ""}</i><u id="midlight">${rules[i][0]}</u><b id="highlight">${rules[i][1]}</b><u id="midlight">${rules[i][2]}</u><i>${positions[j] + match.length <= trimmed.length - 1 ? trimmed.substring(positions[j] + match.length, trimmed.length - 1) + " " : ""}</i><code id="midlight"> &rarr;</code> <code id="highlight">/${transcription[pos]}/</code>`);
+                `<code id="midlight">Rule ${String(i).padStart(4, ' ')}: </code><i>${positions[j] >= 1 ? " " + trimmed.substring(1, positions[j]) : ""}</i><code id="midlight">${rules[i][0]}</code><u><b id="highlight">${rules[i][1]}</b></u><code id="midlight">${rules[i][2]}</code><i>${positions[j] + match.length <= trimmed.length - 1 ? trimmed.substring(positions[j] + match.length, trimmed.length - 1) + " " : ""}</i><code id="midlight"> &rarr;</code> <code id="highlight">/${transcription[pos]}/</code>`);
             for (let k = pos; k < pos + matchLen; k++)
                 letterUsed[k] = true;
         }
