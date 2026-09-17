@@ -3,8 +3,9 @@
 	iterranea		?tR8nY?
 	azerbaija		@zRb9jA
 	charlotte		SArl?t
-	eterosexu		EtROsEkS?w
+	agnoses		IgnOsYz
 	onnaissa		An?s?
+	onverti	bl	?nvRt?
 	claughli		?glAkl?
 	edetermi		YdYtRmI
 	ultimatu		?lt?m8t?
@@ -57,16 +58,16 @@
 	eculiar		IkyWlyR
 	eservoi		EzRvwA
 	andreas	'	Andr8?s
-	espiona		EspY?nA
+	inburg	h	?nbRO
 	agenda		?jEnd?
 	uquerqu		?kRkY
 	ierarch		9rArk
 	ompanio		?mp@ny?
 	audaci		Ad@s?
 	egypti		IjIpS
-	agnoses		IgnOsYz
+s	ocrate		Akr?tY
 	champag		S@mp8
-	onverti	bl	?nvRt?
+	ouquet		Wk8
 	ologna		?lOnY
 r	imente		?m?nt?
 	ancien		8nc?n
@@ -83,7 +84,7 @@ r	imente		?m?nt?
 	ommuni	c	?myWn?
 	episco	pal'	IpIsk?
 	episcopa		IpIsk?p8
-s	ocrate		Akr?tY
+	ypocri	s	IpAkr?
 	equili		Ykw?lI
 	aspara	g	?spEr?
 	uprema	cy	?prEm?
@@ -104,11 +105,11 @@ m	assage		?sAZ
 	oundla		?ndl?
 	apoleo		?pOlY?
 	javier		hAvYEr
-	osques		4sks
+	ebasti		?b@sc
 	ontagi		?nt8j
-	uhamma		UhAm?
+	ourmet		Urm8
 	akista		@kIst@
-	ypocri	s	IpAkr?
+	elebri		?lEbrI
 	ypocri		Ip?krI
 	abunda		?bXnd?
 	oversi	a	?vRS
@@ -119,7 +120,7 @@ ns	ylvani	a'	?lv8ny
 	ojecte		?jEkt?
 	ingeri	e	AnZR8
 	incide	d	?ns9d?
-	uchana		yWk@n?
+	eault		O
 	osteri	o	4stIry
 	ontrea		?ntrY4
 	experi	menti	EkspEr?
@@ -138,28 +139,28 @@ p	olita		Al?t?
 	enviro		Inv9r?
 	ouflag		?flAZ
 ^	alias		8lY?s
-	inburg	h	?nbRO
+	otoma		?tOm?
 	omobil		?mObYl
 	itade		It?dE
 	uganda		yWg@ndA
-	ouquet		Wk8
+i	n	iz	n
 	ouglas		Xgl?s
-	ebasti		?b@sc
+	osque	s	4sk
 	ountry		XntrY
-	uangzh		w@Nz
+	angzh		@Nz
 	ubsta	ntiv	Xbst?
-	elebri		?lEbrI
+	ougar		WgR
 	obnoxi		AbnAkS
 	epitom		IpIt?mY
 	ateur		?cR
 	arrage		RAZ
 	ichae		9k?
-	expre	ssl	EksprE
+	sales		s8lz
 	ecompo		Yk?mpO
 	equire	m	Ikw9r
 	indne	s	9ndn?
 	omeno		Am?nA
-	ourmet		Urm8
+^	thera		TEr?
 	uerto		4rtR
 	olice		?lYs
 	olossa		?lAs?
@@ -183,7 +184,7 @@ l	isbur		zbR
 	asylu		?s9l?
 	alleg	ia	?lYj
 r	eathe		YD
-	urugu		yR?gw
+	aniar		@nyR
 	orith		RID?
 n	omena		Am?n?
 	uenos		w8nOs
@@ -195,12 +196,13 @@ n	omena		Am?n?
 	onvey		?nv8
 	adequ		@d?kw
 p	itali	t	?t@l?
-	otoma		?tOm?
+	ontri	butio	Antr?
 	ultra	so	?ltr?
 	ultra	v	?ltr?
 	inori		9n4r?
 	ebris		?brY
 	ussei		Ws8
+	eferr		IfR
 	endea		IndE
 	antoi		AntwA
 	issou		?zU
@@ -208,7 +210,7 @@ p	itali	t	?t@l?
 	anoma	l	?nAm?
 	ocaus		?k4s
 	harmo	ny	hArm?
-	iques		Yks
+	rrhea		RY?
 	giorg		j4rj
 	itali	t	9t@l?
 	nchor		NkR
@@ -253,13 +255,13 @@ r	wanda		?wAnd?
 	schoe		SO
 	eloci		?lAs?
 	baret		bR8
-t	inui	t	?nW?
+	inui	t	?nW?
 	ontinu		?ntInyW
 	ynony	mo	?nAn?
 	eopar		EpR
-	exper	t	EkspR
+	onopo		?nAp?
 	ulini		y?lIn?
-	sales		s8lz
+	atien		8S?n
 kh	alifa		?lYf?
 	uddha		Wd?
 	enevo		?nEv?
@@ -279,17 +281,17 @@ kh	alifa		?lYf?
 	osqui		?skY
 i	cheli		S?l?
 	thele		D?lE
-	ulitz		Ul?ts
+	eced	en	EsId
 	cques		k
 	ahara	s	AhRA
 	gilli	an	jIlY
 	orori		R4r?
 d	olphi		Alf?
-^	thera		TEr?
+	unde	rr	?ndR
 	efuge		EfyWj
 	ourte	s	Rt?
-	aniar		@nyR
-	rrhea		RY?
+	arri	v	R9
+	ique	s	Yk
 ^c	umula		yWmy?l?
 s	a	lt	4
 	isaia		9z8?
@@ -298,16 +300,16 @@ s	a	lt	4
 	abbas	'	?bAs
 	altar		4ltR
 	olumn		Al?m
-	eault		O
+	ucha	n	yWk@
 erb	yshir		YSR
-	ontri	butio	Antr?
+	ella	ne	?l8
 	evela	n	Yvl?
 	etire	m	Yt9R
 	unani		yWn@n?
 v	ocate		?k8t
 	enoug		InXf
-	eferr		IfR
-	ougar		WgR
+	isla	n	9l?
+	oler	a	AlR
 c	ousi		Xz?
 	anoni	c	?nAn?
 	omage		Am?j
@@ -319,16 +321,16 @@ d	ebut		8byW
 t	itle		9t?l
 lum	inate	d	?n8t?
 	elias		?l9?s
-	onopo		?nAp?
+i	ngra	m	Ngr?
 	sien	t	Z?n
-	atien		8S?n
+	uisi	ne	wIzY
 	iply		?pl9
-	sephi	ne	s?fY
+i	cien		S?n
 cr	imea		9mY?
 t	able	t	@bl?
 	isaa	c	9zI
 	haris	ma'	RIz
-	arri	v	R9
+	egra	da	Egr?
 	anti	nop	@nt?
 g	andh		And
 	ifia		?f9?
@@ -338,7 +340,7 @@ r	azor		8zR
 ac	hill		IlY
 d	ante		Ant8
 	edar		YdR
-	isla	n	9l?
+ass	a	r	A
 	adob		?dObY
 c	olog	n	?lO
 	oshu		ASW
@@ -385,11 +387,11 @@ d	ura	nc	R?
 ^	they		D8
 n	scie	nc	S?
 	amoa		?mO?
-h	oste	l	Ast?
+	ehra		8rA
 l	osso		As?
 ^	apro		8pr?
-	uisi	ne	wIzY
-s	almo		@m?
+	etro	sp	Etr?
+d	ouch		WS
 	scie	ntio	SY
 	hoir		w9R
 	i	ett	Y
@@ -402,15 +404,19 @@ r	eady		EdY
 	o	ncil	?
 	onci		?ns9
 ^	affo		?f4
+b	edie		YdY?
 r	affi	t	?fY
+	sury		ZRY
 	ibio	t	Yb9A
 	outi	ne	WtY
 i	ncol		Nk?
 l	ondo	n	Xnd?
+b	ados		8dOs
 	thou	'	D#
 	opho	m	Af
-	oler	a	AlR
-	onve	ne	?nvY
+	abra	h	8br?
+ro	sexu		sEkS?w
+r	etro		EtrO
 ^	anne	t	?nE
 	abba	s	AbA
 ^f	arre	l	ErI
@@ -428,13 +434,15 @@ o	sexu	al'	sEkS?w
 m	achi		?SY
 	onno	ll	4n?
 	whom		hWm
-e	rida		rId?
+	abra	m	8br?
 	rror		rR
 	agos		8g4s
 e	rizo		r9z?
+	aneo		8nY
 l	etha	l	YT?
 	epot		YpO
 	aaro		Er?
+	rich	o	rIk
 	hone	st	An?
 	ulmo	n	Ulm?
 	onfe	re	Anf
@@ -448,7 +456,7 @@ t	onne		Xn
 l	unar		WnR
 d	emis	e	Im9z
 	ioux		W
-	ella	ne	?l8
+	ramo	n	r?mO
 i	cida		?s9d?
 	ousa		#z?
 ins	ecur	e	?kyR
@@ -463,14 +471,14 @@ h	assa		?sA
 	efus		IfyWz
 l	esti	ne	?st9
 	erie	n	IrY?
-	anis	at	?nIz
+p	asta		Ast?
 on	itor		?tR
 p	onge		Xnj
 e	ices		s
 	expe	d	Eksp?
 	jaim	e	h9mY
 r	adie		8dY?
-	aneo		8nY
+e	nge	l	Ng?
 cr	ises		9sYz
 	inal	e	?n@lY
 	orce	st	U
@@ -480,15 +488,15 @@ cr	ises		9sYz
 	alle	nger'	@lI
 	alle	ng	@l?
 	alle	gi	?lE
-m	aher		Ar
+	joha	nn'	yOhA
 	erea	l	IrY?
-	egra	da	Egr?
+	atia		8S?
 ^	audi	ts	Ad?
 	audi	tin	Ad?
 	audi	tors	Ad?
-i	ngra	m	Ngr?
-	abra	h	8br?
-	abra	m	8br?
+	joha	n'	yOhA
+a	r	os'	r
+e	rida		rId?
 tr	ange		8nj
 nt	leme		?lmI
 	ange	l'	8nj?
@@ -497,7 +505,7 @@ nt	leme		?lmI
 	dulu		j?l?
 	atre	d	8tr?
 	ecue		IkyW
-	unde	rr	?ndR
+	apri	l	8pr?
 e	remo		r?mO
 	mete	ry	EmItE
 	acou		?kW
@@ -508,7 +516,7 @@ cl	othe		OD
 	esar		YzR
 a	gazi		g?zY
 	obli	gato	?blI
-	eced	en	EsId
+or	ough		O
 	area		ErY?
 m	aple		8p?l
 	olec	ule	Al?ky
@@ -516,11 +524,12 @@ m	aple		8p?l
 	ipli	ne	?pl?
 g	auge		8j
 	onsi	e	?sy
+n	eyar		yR
 sc	onsi		Ans?
 st	aple		8p?l
 	osla		OslA
 	ongu		XN
-d	ouch		WS
+^	tho	'	DO
 	athe	d	?TY
 	athe	i	8TY
 	athe	te	@T?
@@ -528,67 +537,69 @@ d	ouch		WS
 e	ave	n	v?
 	avens		8v?nz
 	tsch		c
-	ramo	n	r?mO
+^r	ough		Xf
 	ocie	ta	?s9I
 	ocie		?s9?
 oh	amma		AmE
 	enow	n	In#
-b	edie		YdY?
+c	ough		4f
 	epri	va	Epr?
-	sury		ZRY
-	apri	l	8pr?
+	pse	u	s
+^r	ally		@lY
 	omac	h	Xm?k
 	exca		Eksk?
-	rich	o	rIk
-b	ados		8dOs
-	joha	nn'	yOhA
+kl	aus		#s
+t	ough		Xf
+m	aher		Ar
 	eaux		O
-p	asta		Ast?
-	etro	sp	Etr?
-r	etro		EtrO
+p	apa	'	Ap?
+l	ieu		W
+	onve	ne	?nvY
 ^	ally		@l9
-	joha	n'	yOhA
+	ici	ne	?s?
 ^t	ally		@lY
-^r	ally		@lY
-	atia		8S?
-i	cien		S?n
+	uha	m	UhA
+	uru	g	yR?
+ss	acr		?kR
 	ompi	la	Amp?
-^r	ough		Xf
+	oci	o	OsY
 il	ippi	n	?pY
-n	eyar		yR
+g	eor		4r
 	nki	nd	nk9
 	alsa		4ls?
-	ehra		8rA
-	eis	'	Yz
-or	ough		O
+ole	sce		Es?
+rh	ino		9nO
+	apa	nes	@p?
 p	earl		Rl
-om	aha		?hA
+e	apo	n	p?
 	ewar	k	yWR
 hr	ough		W
 e	sde		zdI
 tir	red		d
-	oci	o	OsY
-	ami	re	?mI
+v	ior		yR
+s	acre		8krI
 	ami	en	8mY
 p	ami		?mY
 nj	ami		?m?
 f	oot		Ut
 ur	ope		?p
-	epu	ta	Epy?
-c	ough		4f
+arq	uis		Y
+	olu	b	Aly?
 c	ulu		y?l?
-	pse	u	s
+	ino	sa	9n?
 	aho	n	8?
-	opa	g	Ap?
-	pn	eu	n
-t	ough		Xf
+	olu	nteeri	4l?
+	olu	n	Al?
+	usa	b	yWz?
+hei	ght		t
+^	psi		s9
 	aba	m	?b@
 tl	ema		m?
 	ade	lp	?dE
-	epu	ty	EpyW
+	ami	re	?mI
 	xur		gZR
 	ene	al	YnYA
-	enea		InY
+ai	ght		t
 i	sma	l	zm?
 	ene	va	?nY
 r	ene	e	?n8
@@ -596,18 +607,37 @@ r	ene	e	?n8
 lc	oho		?hA
 th	ano	l	?n4
 	dso	m	s?
+	acre		8kR
 	aur	or	R
 m	pbe		b?
 	oux		W
-^m	abe	l'	8b?
+drou	ght		t
 	su	ltat	s?
 	ons	ult	?ns
+	aya	k	9@
+	evo	n'	Ev?
+	yth	mi	ID
+t	tor		R
+gra	ham		m
 a	ssu	r	SU
 	ssur		SR
-cr	epa		Ep?
-n	epa		?p4
+^q	uay	'	Y
+h	yth		ID?
+	ooo		W
 nsequ	enc	es	Ens?
+	ody	s	Ad?
+	avi	v	AvY
+	uta	h	yWt4
+	efi	ne	If9
+^l	iar		9R
+r	egg	i	Ej
+	ough	t	4
+d	ough		O
+p	ilo		9l?
+	exe	m	IgzE
 em	atu		?cU
+	efi	nitio	Ef?
+	rew	'	rW
 m	atu	r	?tyU
 i	atu	re	?cU
 el	ica	t	?k?
@@ -615,31 +645,38 @@ ntr	ica		?k?
 	out	ub	Wty
 	outu		WtU
 	ture		cR
-	gir	a	jR
+	epu	ta	Epy?
 	ote	stan	At?
+	ce	ani	SY
+	cea	n	S?
 rkan	sas		sA
 ^	a	mal	?
 	ama	l	?mA
-	usa	b	yWz?
+x	avi		8vy
+	abw		Abw8
+	igi	ns	?jI
 t	tir		9R
 k	iew		?v
-^l	ife		9f
-	unk	n	?n
+om	aha		?hA
+	epu	ty	EpyW
 ^	the	m'	DE
 	the	mse	DE
 ^	the	n	DE
-g	eor		4r
-o	tio	nall	S
+^la	ugh		f
+	augh		4
 	iha	nn	YhA
 	iha	d	YhA
 	onu	s	On?
 d	onu		On?
 	inu	s	9n?
-	yth	mi	ID
+a	ch	ev	c
+	elo	nga	Il4
 a	che	lo	c?
+	a'a		@
 	bach		bAk
-h	yth		ID?
-	ooo		W
+he	avy		vY
+cr	epa		Ep?
+n	epa		?p4
 b	eta	'	8t?
 z	zo	'	O
 	azzo		AtsO
@@ -649,51 +686,57 @@ g	eta	b	t?
 	tt	'	t
 r	t	led	t?
 hor	t		t
+	oca	c	?k?
 or	oth		T
-	omo	rr	WmA
-	hed	u	Ej
+	th	ia	T
+	efa	mati	Ef?
 	ece	nt'	Ys?
 	ece	ssa	Es?
-ole	sce		Es?
-^r	oth		4T
+^m	abe	l'	8b?
+e	sam		s?mY
+	che	ste	cE
 l	oth	i	OD
 c	cer		R
-e	apo	n	p?
+^r	oth		4T
 	who	e	hW
 	who	'	hW
+t	itu	s	9t?
 	who	l	hO
 p	izz		Yts
 cr	owl		#l
 m	a	st	@
 	tmas		m?s
+	ota	to	?t8
 	tch		c
 l	aci	er	8S
 ^	thy	'	D9
+^tr	oug		4f
 r	ebe	l	IbE
-c	upi		y?p9
-p	upi		yWp?
+	jos	e'	hOz8
+	ough		#
 ^	ais	l	9
 ^	isl	e	9l
 	isl	e'	9l
 rce	des		8dYz
-^	eye		9
-	eva	le	Ev?
+	eur	s	R
+	eur	'	R
 	org	ett	Rg
 	odi	g	Ad?
 ir	ewa		wA
-l	evi	ne	?vY
-gra	ham		m
-	uli	nar	yWlI
-c	uli		y?l?
-ns	uli		?l?
+e	ans	i	nz
+l	icy		?sY
+b	icy		9sI
+^l	ife		9f
+j	ava		Av?
 h	oeb		YbY
-	efa	mati	Ef?
-	evi	'	Yv9
+o	tio	nall	S
+	iss	u	IS
 ll	eti		It?
-	uta	h	yWt4
-	a'a		@
-	igi	ns	?jI
-	ssi	a	S
+cl	imb		9m
+	nga	g	ng8
+	iri	s	9rI
+r	oug		WZ
+enn	edy		?dY
 	isi	s	9s?
 n	isi	a	YZ
 il	ipp	e	Yp8
@@ -707,30 +750,31 @@ ev	ery		rY
 ydr	oge		?j?
 g	aza		Az?
 l	ipi	d'	9p?
-arq	uis		Y
+	her	bs'	R
+	hed	u	Ej
 t	eri	na	r?
-	evo	n'	Ev?
+p	upi		yWp?
 ey	onc		y4ns8
-t	tor		R
+d	ess	er	Iz
 	oli	tary	Al?
 	oli	cin	?lY
 	oli	tu	Al?
-	oli	tics	Al?
+	uli	tz	Ul?
 as	oli		?lY
 r	oli	na	?l9
 	oli	ticia	Al?
 g	ina	b	?n?
 	ina	tr	?nA
-ch	ina		9n?
-	umn	'	?m
-^l	iar		9R
-^la	ugh		f
-	augh		4
+nin	gle		l?
+^c	ute		yWt
+^distrib	ute	d	y?t?
+	oli	tics	Al?
+c	upi		y?p9
 	ele	ve	YlE
 	ele	ng	lE
-	exe	m	IgzE
-	nga	g	ng8
-	jos	e'	hOz8
+	jua		wA
+ch	ina		9n?
+c	oul	d	U
 	ela	tiv	El?
 r	ela	n	l?
 	eci	li	IsY
@@ -739,155 +783,162 @@ c	eci	l	Ys?
 	ura	ni	yR8
 cc	ura		yR?
 t	eph	e	Yv
-	oil		/l
+	gir	a	jR
 c	ure		yUr
 p	ure		yUr
-l	icy		?sY
-b	icy		9sI
-	odu	cts	Ad?
-	odu	ct'	Ad?
-	her	bs'	R
+f	aca		?sA
+	hei	r	E
+du	ras		r?s
+	opa	g	Ap?
+^	v		v
 ^est	her		R
 ep	her		R
 	her	esa	R
 n	sci	o	S
-ss	acr		?kR
-s	acre		8krI
-il	ien		y?n
-l	ien	t	9?n
-^	tho	'	DO
+	mmm		m
+	hei	m	h9
+	aca	nt'	8k?
+	aca	nc	8k?
+w	ei	s	9
 	e	than'	Y
 	elizabe		IlIz?bI
 	var	d	vR
-rh	ino		9nO
-	ino	sa	9n?
-	ody	s	Ad?
-	avi	v	AvY
+	eis	'	Yz
+nf	ini	te	?n?
+h	oul	d'	U
+w	oul		U
 	eu	rosc	yU
 n	eu	r	U
 	ineu		9n?
 r	agu	a	Agw
-v	ior		yR
-^w	est		Est
-p	ilo		9l?
+	eso	na	Ez?
+	avo	u	8v
+mou	ths		Dz
 	hi	bitio	?
-b	ath	i	8D
+	hae	o	Y
+o	uri	t	RI
 oh	ibi		Ib?
+b	eco	m	IkX
 ^p	ira		9r?
 	exh		Igz
 ip	all		l
 l	eig	h'	Y
 un	iqu		Yk
 p	ira	l	9r?
-x	avi		8vy
-	acre		8kR
-nin	gle		l?
+ort	ois		?s
+ll	ege		Ij
+	one	sel	w?n
 	yza		Iz?
-l	ieu		W
-drou	ght		t
-	ough	t	4
-d	ough		O
-hei	ght		t
-ai	ght		t
+	ego	ti	IgO
+	oba	g	?b8
+	uli	nar	yWlI
+c	uli		y?l?
+ns	uli		?l?
+	asi	l'	@z?
 ^	ado	lf	8dA
-	iss	u	IS
-	aca	nt'	8k?
-	aca	nc	8k?
-f	aca		?sA
-kl	aus		#s
+d	eni	a	In9
+il	ien		y?n
+l	ien	t	9?n
+^c	one		On
+w	eso		s?
 	iru		9r?
-	arr	ay	R
-	arr	ang	R
+ie	rra		Er?
+	olo	mbo	?lX
 	eigh		8
-l	ily		IlY
+	one	th	?n
 r	opu		?pX
 t	opu		?pU
-p	ove	ri	Av
-	aya	k	9@
-d	eni	a	In9
+b	ury		ErY
+	ede	str	?dE
+	aer		Er
 p	eni	s	YnI
+a	tth		Ty
+u	ger		gR
 	eni	or	Yny
 	eni	se	InY
+	oil		/l
 g	eni	o	Yny
 d	eni	e	In9
-l	uth		WT
+^	ego		YgO
 ncomp	ete	n	?t?
 p	ete	n	?tI
-^b	ias		9?s
-	efi	ne	If9
+	olo	ne	R
+	olo	mbi	?lX
 	ive	sto	9v
-r	egg	i	Ej
-	oca	c	?k?
+l	ood		Xd
+	olo	u	Xl
 ^m	anu	e	Anw
 	anu	ck	?nX
-p	apa	'	Ap?
-h	iro		IrO
-	efi	nitio	Ef?
-^c	ute		yWt
-^distrib	ute	d	y?t?
+ent	ago		IgA
+	obe	rto	ObE
+i	fle		f?l
+	umn	'	?m
+l	ily		IlY
 f	ive		9v
 e	atr	e	?tR
-	mmm		m
-	apa	nes	@p?
-o	uri	t	RI
-ll	ege		Ij
+	aph	ae	Af9
+	evi	'	Yv9
+^s	oo		W
+	olo	n'	Ol?
 du	nca		Nk?
 a	nca	s	Nk?
 	esi	denti	EzI
 	eside	n	EzId?
 ^	chi	c'	SY
 	chi	cag	S?
-	ota	to	?t8
+	eij	in	8Z
 	ooh		W
-j	ava		Av?
+il	ico	n'	?k?
 ^	aux	'	O
-^tr	oug		4f
-	ough		#
-a	tth		Ty
-	olu	b	Aly?
-	olu	nteeri	4l?
-	olu	n	Al?
-r	oug		WZ
+	eau	ty	yW
+l	evi	ne	?vY
+n	xie		z9?
+	unk	n	?n
+	uni	or	Wny
+	omo	rr	WmA
+b	ath	i	8D
 	uto	pi	yWtO
-^	psi		s9
-b	eco	m	IkX
+	sua	r	swA
+c	cus	e	yWz
 	iza	bl	9z?
-l	ibe	l	9b?
-	ede	str	?dE
-e	ans	i	nz
-ie	rra		Er?
-	hei	r	E
-	hae	o	Y
-d	ess	er	Iz
+llo	wer		R
+	hou	e	?w
+	arr	ang	R
+	arr	ay	R
+	ea	me	Y
+	ame	n'	AmE
+	odu	cts	Ad?
 	er	ger	R
 bom	ber		R
-	jua		wA
-	oba	g	?b8
-	aer		Er
+	oti	a	OS
+t	obi	o	?b9
+l	uth		WT
 v	enu	s	Yn?
 g	enu	s	Yn?
-	asi	l'	@z?
-	aph	ae	Af9
+	eau	'	O
+	ega	lit	Yg@
+	odu	ct'	Ad?
 blo	wer		R
 nt	ima	c	?m?
 l	ima	te	9mI
-	or	inth	R
-	iri	s	9rI
+c	oti	n	?tY
+	ide	nts	?d?
 	sth	m	z
-llo	wer		R
+p	ove	ri	Av
 iq	uor		R
-du	ras		r?s
-^q	uay	'	Y
+	hou	r	#
+	eou	l	O
 slo	wer		R
-	abw		Abw8
-mou	ths		Dz
-^	ego		YgO
-n	xie		z9?
-	ici	ne	?s?
-b	ury		ErY
+b	esi	t	Ys?
+^s	ati	n	@t?
+v	omi		Am?
+	ave	ra	@v
+l	ibe	l	9b?
+n	ega	l	?g4
+^ligh	t		t
 	tsh	i	c
-e	sam		s?mY
-	ego	ti	IgO
+	ena	mel	In@
+	ati	nu	@t
 w	ifi		9f9
 if	ie		9
 d	ifi		?f?
@@ -897,314 +948,332 @@ meg	a		?
 	egas		8g?s
 u	ida	n	9d?
 r	ida	l	9d?
-	eij	in	8Z
-	eso	na	Ez?
-	avo	u	8v
-	obe	rto	ObE
-urp	ose		?s
-	eur	s	R
-	eur	'	R
+v	aga		?g?
+d	ape		?pE
+	omi	nic'	Am?
+h	iro		IrO
+r	ipo	l	Ip?
+^	eye		9
+	are	ntal	RE
 t	ida		9d?
-ac	ula	t	yWlI
-l	ose	t	Az?
+urp	ose		?s
+hr	ase		8z
 	age	o	8j
 s	advanta		?dv@nI
-w	eso		s?
-c	oti	n	?tY
-	ena	mel	In@
-	oti	a	OS
-t	obi	o	?b9
+g	are	t'	rI
+	ong	oi	4n
+	ali	ve	?l9
+w	ise		9z
+^	eli	'	Yl9
 uff	ice		9s
-^s	ati	n	@t?
-cl	imb		9m
+ph	ase		8z
+ti	ali	t	Y@l?
 	sea	n'	S4
-b	esi	t	Ys?
+xu	ali		@l?
 	orr	os	R
-enn	edy		?dY
+	imo	n'	9m?
 s	id	ua	Ij
 	esi	du	Ez?
-w	orr		R
-	orr	up	R
-	elo	nga	Il4
+ig	iou		?
+	ali	va'	?l9
+	ale	nci	?lE
 ff	ice	s	?s
-	ega	lit	Yg@
+e	l	ing	l
 	eli	p	?lY
-c	cus	e	yWz
+ac	ula	t	yWlI
 ^	eli	t	8lY
 qu	eli		?lI
 	eli	za'	Il9
-g	are	t'	rI
+	orr	up	R
 u	tle	d	tlI
-n	ega	l	?g4
-u	ger		gR
+w	orr		R
+	ech	anic	Ik
+	ovi	den	Av?
+^l	att	e'	At8
+y	ora		R?
+	a	lue	@
+r	iou		Y?
 	eli	se	?lY
-	ati	nu	@t
-^	eli	'	Yl9
-	ame	n'	AmE
-	omi	nic'	Am?
-v	omi		Am?
 	l	ike'	l
 k	eli		lY
-	eau	ty	yW
-	eau	'	O
-	olo	n'	Ol?
-	olo	mbo	?lX
-	olo	ne	R
-	olo	mbi	?lX
-^r	eve	re	IvI
-	ide	nts	?d?
-	olo	u	Xl
-	ech	anic	Ik
-t	itu	s	9t?
-	are	ntal	RE
-t	isa		?z?
 ^	ach	in	8k
+pic	iou		?
+tr	ata		@t?
+	egi	men	Ej?
+	ovi	ce	Av?
+k	err	'	R
+	ale	b	8l?
+d	ata		8t?
+	ere	sy	Er?
+	aro	n'	Er?
+	anc	oi	Ans
+ich	ita		?t4
+t	isa		?z?
+a	s	i'	s
 d	ach		8k
 y	ach		A
 ^	ach	e'	8k
 sa	fe		f
 	afe	t	@f?
-	one	th	?n
-^c	one		On
-v	aga		?g?
-	one	sel	w?n
-	hou	e	?w
+d	ona	te	On8
+	egi	m	8ZY
+	our	naments	R
+w	are		Er
+l	ose	t	Az?
 	ea	uti	y
 b	eau		O
-	sua	r	swA
-h	oul	d'	U
-w	oul		U
-c	oul	d	U
-	uni	or	Wny
-	hou	r	#
+b	aro	n	Er?
+rt	ine	n	InI
+	ome	dies	Am?
+ou	bt		t
+	ime	ntat	?m?
+	bb		b
 	s	iak	s
 	esi	a	YZ
 nv	alu		@ly
-ph	ase		8z
-nn	amo		?m?
-r	ipo	l	Ip?
-xu	ali		@l?
-	ali	ve	?l9
-	ali	va'	?l9
-ti	ali	t	Y@l?
-nf	ini	te	?n?
+emen	ta	r	t
+lin	ear		YR
+l	ace	b	?sY
+	ero	ic	IrO
+	ome	ba	Xm
+	oo	s	W
+	eme	die	Em?
+	ita	niu	9t8
+^	any		EnY
 d	amo		8m?
-k	err	'	R
-l	ood		Xd
-	ave	ra	@v
-	ovi	den	Av?
+	osi	tiv	Az?
+nr	age		8j
+um	be	s	?
+	btle		t?l
 b	o	lic	A
 	etabo		?t@b?
 	oo	'	W
 ^w	oo		U
 	olly		AlY
-	ovi	ce	Av?
-ort	ois		?s
-hr	ase		8z
-pic	iou		?
-r	iou		Y?
-ig	iou		?
+^h	ang		@N
+	ang	st'	ANk
+w	oj		/
+^b	ias		9?s
+	co	up	k
+	ear	li	R
 	err	ed	R
-	ale	nci	?lE
-d	ape		?pE
-	ale	b	8l?
+	ome	dy	Am?
+^t	ime		9m
+	ara	bia	?r8
 	r	ano'	r
+ur	da	y'	d
 c	ara		Er?
 	ameli		?mYly
-ent	ago		IgA
-	eou	l	O
-b	aro	n	Er?
+l	yo		9?
+	ine	te	9n
+mp	ari	s	Er?
 iam	e	t	?
 	iame		?m?
 gn	ora		R?
-^l	att	e'	At8
-y	ora		R?
-he	avy		vY
+h	bo	urs	b
+ym	ns		z
+c	age		8j
 	ame	te	@m?
-	aro	n'	Er?
-tg	ome		Xm
-^	any		EnY
-	imo	n'	9m?
-d	ata		8t?
-tr	ata		@t?
 	ora	tiv	r?
-il	ico	n'	?k?
-d	ari	u	R9
-	ong	oi	4n
-	eme	die	Em?
-	ari	stot	Er?
+tg	ome		Xm
+pla	id		d
 p	ari	t	Er?
-	ara	o	Er
-mp	ari	s	Er?
+	xs		ks
 	ari	ner	Er?
+	ine	ap	9n
 t	ari	f	Er?
-	ome	ba	Xm
+d	ari	u	R9
+a	hm	'	m
+nsen	su	a	sW
+em	ine		?n?
+f	ine	st	9n?
+	ara	o	Er
+ir	age		AZ
+	r	do'	r
+	ei	del	9
+	do	nna	dA
+^	lb		p#nd
 	ou	si	#
 	usi	ne	Iz
 	o	bu	O
 	aco	b	8k?
-	ome	dy	Am?
-	anc	oi	Ans
+ucl	ear		YR
+m	bi	ng	I
 	ara	th	Er?
-	ome	dies	Am?
-l	ace	b	?sY
-^h	ang		@N
-	our	naments	R
-	egi	men	Ej?
-rt	ine	n	InI
+	gi	gan	j9
+	du	is	jW
+	jj		j
+ha	lv		v
+	gi	br	jI
+or	ps	'	z
+or	gi	a	j
 ^re	id		d
-	ere	sy	Er?
-	ang	st'	ANk
+	pn	eu	n
+	ari	stot	Er?
 	e	lli'	E
 p	ace		8s
-	eba	n	Eb?
-lin	ear		YR
-ucl	ear		YR
-	ero	ic	IrO
-	ara	bia	?r8
-ha	lv		v
+	gg	e	g
+	gi	bl	j?
+fun	gi		j9
+	gi	ant	j9
+n	xi		kS
+	tt	end	t
 	dt	'	t
 ch	ard		Rd
-	ine	ap	9n
-d	ona	te	On8
-	egi	m	8ZY
-nr	age		8j
+	sz		S
+	du	len	j?
+rc	hi	d	?
+	a	mc	@
 	ara	m	Er?
-	osi	tiv	Az?
-ir	age		AZ
-^t	ime		9m
-	ime	ntat	?m?
-pla	id		d
-	ita	niu	9t8
-ou	bt		t
-e	bt		t
-f	ine	st	9n?
-ur	da	y'	d
+n	im	e	Im8
+n	su	a	S?w
+r	tg	a	g
+	ps	al	s
+r	jo	r	j
+^	kn		n
+e	si	ra	z9
+	nobe		nObE
+^c	hi	'	9
+	te	ou	c
 	an	gl	@N
 ^w	ang		@N
 l	ang		@N
-em	ine		?n?
-c	age		8j
-	xs		ks
-ich	ita		?t4
+	pp		p
+cc	hi		Y
+o	hm		m
+e	sir		z9R
 er	am	en	m
-^	lb		p#nd
+at	tr		r
+^a	lm	ond'	m
+^e	xi	t	gzI
+c	hi	v	9
+	aa		A
 pr	ix		Y
-	ine	te	9n
-r	tg	a	g
-	tt	em	t
 c	hi	te	?
-	btle		t?l
+	to	uc	t
 c	af	e	@f8
 emp	era		R?
-	gi	ant	j9
+^	rh		r
+a	ok		YOkY
+	ex	cis	Ek
 	ea	ry	I
 w	ea	r	E
 ar	i	ll	I
 	ari	l	Er?
-	bt	l	t?
-	gi	br	jI
+	ight		9t
+	op	f'	4
 	o	nauts	?
+th	ol	i	l
 r	onau	t	?nA
 	ai	o	9
 r	rai		8
-cal	ly		Y
-or	gi	a	j
-emen	ta	r	t
-	gi	gan	j9
-	gi	bl	j?
-fun	gi		j9
+	ex	am	Igz
+	sp	b	z
+	tt	em	t
+	ol	ume	Aly
+a	nd	t	n
+	gu	ard	g
 	ex	ot	Igz
 l	ex	a	Igz
 	ow	ski	4f
+	go	vernmenta	g?
 br	ow		#
 ro	wer		R
 	ex	act	Igz
 	ex	ert	Igz
-	tt	end	t
+occ	ol		l
 	ep	ow	p
 	ep	ara	Ep
 	ep	uti	Epy
 p	ep	e'	EpY
-	ex	am	Igz
-	aa		A
-	go	vernmenta	g?
+	ol	iticall	l
+coa	t		t
+	xx		ks
 del	hi		Y
-	ex	cis	Ek
-rc	hi	d	?
-cc	hi		Y
-e	si	ra	z9
-e	sir		z9R
-^c	hi	'	9
-	sp	b	z
+th	og	e	?j
+h	ol	as	l
+^	gn		n
+^s	wo	rd	4
+lc	ol		?
+	oe	hr	4
+	og	ies	?j
+	oe	hl	O
 	tt	ai	t
-	sz		S
+us	cl		?l
 pol	og		?j
-co	up	'	W
+m	oi	'	wA
 	og	et	?g
 	og	is	?j
-th	og	e	?j
-	oe	sn'	X
+in	ee	re	Y
+a	si	b	z?
 e	si	tat	z?
 	go	ver	gX
-c	hi	v	9
+	yo	d	yO
 tr	og	e	?j
-	co	up	k
+^m	ee		Y
 	a	daptations	@
 	ada	ptat	@d?
-	jj		j
-	oe	hr	4
+	iy		Y
+s	ee		Y
 	oe	nix	Y
-th	ol	i	l
-occ	ol		l
+ve	gg		j
+ai	gn		n
 ea	li	t	@l?
 	l	itie	l
 	equali	t	IkwAl?
 ^fid	eli		El?
 f	ide	l	IdE
-	ol	ume	Aly
-r	jo	r	j
-	ao	m	8O
+oi	gn		ny
+o	hn	e	n
+	on	gressi	?n
 sh	oe		W
 es	al		8l
+	ao	m	8O
 	oeh		O
-	ai	i	9
-h	ol	as	l
-^	ur	i	yR
-^	rh		r
-	ol	iticall	l
-lc	ol		?
-m	bi	ng	I
 en	ur		yR
-ym	ns		z
+	wi	ne	w9
+^	ur	i	yR
+	oe	sn'	X
+e	am	t	m
+b	ee	n'	I
+l	et	t	E
+	hu	e'	hyW
+	mh	er	m
+pe	wr		r
 pe	op		p
 	ur	p	R
+e	bt		t
+nj	ur		R
+h	ai	n	8
+	eer		Ir
 as	ur	i	R
 fig	ur		yR
-nj	ur		R
-u	si	b	z?
+o	ngre		Ngr?
+	ai	i	9
 und	ai		8
+	tt	es	t
 sal	i	ne	Y
 	a	lina	?
 	sali	n	sAlY
 ortr	ai		?
-	ju	ng'	yU
+nrea	so	nable	z
 'g	ai		E
-	og	ies	?j
+u	si	b	z?
 	ai	pe	9
 	ai	w	9
 	ai	ro	9
 k	ai	s	9
 	ai	r	E
 t	hai		9
-at	tr		r
+	oh	n	A
+a	sc	is	S
 	o	vince'	A
 	ovi	nce	Av?
 	ais	'	8
 cel	ai		?
 s	ai	d	E
 berl	ai		I
-rit	ai		?
+ne	du		jU
 ll	ai		?
 n	ai	v	9Y
 unt	ai		?
@@ -1212,24 +1281,24 @@ apl	ai		?
 	ai	nf	8
 ncert	ai		?
 urt	ai	n	?
-	ju	nt	hU
+	sc	i	s
 rg	ai		I
-or	ps	'	z
+su	me		m
 ^cert	ai		?
-pt	ai		?
-	ps	al	s
-	du	is	jW
-	hu	e'	hyW
-	bb		b
-us	cl		?l
-	du	len	j?
-a	si	b	z?
-d	uo		WO
-	iy		Y
-m	oi	'	wA
-^	th	is'	D
-l	yo		9?
-ne	du		jU
+co	up	'	W
+	ve	nin	v
+hat	ha	m	?
+	cu	mu	yW
+	ha	mme	h@
+oh	am		AmE
+gl	ea		Y
+	easo		Yz?
+t	ha	me	E
+	oh	h	O
+fo	lk		k
+o	lk	'	k
+rit	ai		?
+	ha	ot	8
 	us	iasts	Wz
 	us	iast'	Wz
 	enthus		InTWz
@@ -1237,52 +1306,55 @@ ne	du		jU
 	ear	t	R
 te	n	d	n
 as	ten		?n
-	yo	mi	9O
-o	hm		m
-a	hm	'	m
-omel	a		@
-e	la	'	l?
-^	of	'	Xv
-in	ee	re	Y
+n	ha	m'	?
+	sc	e	s
+d	ha	rm	A
+	ju	ng'	yU
+an	sw	er	s
+fau	lk		k
+	xi	ao	Z
+in	ds	o	z
 	au	gustu	A
 	augu	s	4g?
 ball	et		8
 	rc	io	RS
-	oh	h	O
+d	ha	m	?
 a	m	i	m
 al	am		?m
-^	au	s'	#
+urr	ay		Y
 	t	iat	S
 i	tia		S?
-e	am	t	m
-s	ee		Y
-r	us	e	Wz
-smoo	th		D
-	ga	lo	g?
-	ao	rd	4
-^m	ee		Y
-nrea	so	nable	z
-	easo		Yz?
-b	us	y	Iz
-b	ee	n'	I
+br	oa	d	4
+	ss	io	S
+	ss	olv	z
+ur	ha		?
+cal	ly		Y
+mi	on		OnY
+inc	et		t
+rc	ha	i	8
+thu	mb		m
+	ju	nt	hU
+t	eu		/
 r	ou	s'	?
 mul	a	s	?
 	ula	s	yWl?
-	ti	al	S
+em	oi		wA
 sh	ea	r	I
 	arous		R#z
 	ear	n	R
-	ys	iq	?z
+^ce	me		ImE
+or	th	y	D
 ut	i	ful'	?
 ut	ifu		?f
 oo	th	i	D
-u	th	erf	T
-or	th	y	D
+	rr	i'	r
+g	iu	m	?
+	giu		jW
 	c	ter'	k
 ^c	harac		Er?k
 	hara	c	ErI
-ta	rr		r
-	eer		Ir
+	ca	e	s
+pt	ai		?
 s	us	ie	Wz
 ^	th	an'	D
 	tha	n'	T?
@@ -1290,24 +1362,24 @@ s	us	ie	Wz
 ^	th	us	D
 ben	a		?
 n	az	i	Ats
-	th	ine	D
+arg	ot		O
 ^	th	ee'	D
-	th	ose	D
-^	th	at'	D
+	bt	l	t?
+ss	il		?l
 n	th	e	T
 	th	e'	D
 	n	gert	N
 xh	au		4
 ^	ang	er	@Ng
-	rr	i'	r
-ut	il	e	?l
+smoo	th		D
+c	au	t	4
 	i	nell	I
 	arine		RYn
 ^v	ita		9t?
 	ita	ll	?t?
 b	au		#
 u	sba		zb?
-^a	lm	ond'	m
+	au	dition'	A
 	urr		R
 	au	bu	A
 ^	au	'	O
@@ -1316,12 +1388,15 @@ h	au	s	#
 	au	gm	A
 kr	au		#
 	au	e	#
-'c	au		?
-c	au	t	4
+b	us	y	Iz
+^	th	is'	D
+^	th	at'	D
+	ii		Y
+s	eu		Y?
 r	au	s	#
-	st	ling	s
+	ga	lo	g?
 b	ang		@N
-par	th		t
+p	ec	ie	YS
 	us	ie	Iz
 	au	sc	#
 	au	i	#
@@ -1329,233 +1404,293 @@ w	ea	t	E
 	eath	i	YD
 s	au		4
 	au	te	#
+	th	ose	D
 ^	au	dib	A
-em	oi		wA
+n	eu		W
+	ao	rd	4
 	au	ckl	A
+u	th	erf	T
 l	au	b	#
-arg	ot		O
+nn	ip		Ip?
 	au	be	#
-^	gn		n
-ro	ba	b	b?
-	pp		p
+	ey	not	Y
+cl	eu		Y?
+	ca	st	k@
 ^i	n	e	n
 	ine	b	9n
 	au	'	#
-	au	dition'	A
-ens	ig		?
+r	us	e	Wz
+	zh	o	Z
 hind	us		Wz
-n	xi		kS
-um	be	s	?
-hat	ha	m	?
-	xi	ao	Z
-in	ds	o	z
-	ha	mme	h@
-oh	am		AmE
-ai	gn		n
-g	il	e'	?l
-ss	il		?l
-oi	gn		ny
-^	kn		n
-	ey	man	8
-	nobe		nObE
-	ig	nm	9
+hr	op		?p
+l	eu		W
+z	eu		W
+ai	th		T
+en	us		yWz
+^	au	s'	#
+am	il	ie	l
+r	eu	d	/
+	zh	an	Z
+n	ey		Y
+d	eu		/
+br	eu		W
+c	eu		W
+llio	us	'	s
+^ac	tu	al'	S
+	ey	ma	8
+^ind	ic	t	9
+^com	pa	ra	p
 ^pr	ey		8
-g	iu	m	?
-	giu		jW
-es	ig	n	9
-	ey	not	Y
-a	sc	is	S
-v	ei		8
-	on	gressi	?n
+	ic	ule	?ky
+'c	au		?
+	yr	n	R
+ro	ba	b	b?
+	ei	be	9
+r	eu	t	/
+	ay	a'	9
+rt	yr		R
 	ey	on	I
 ^l	ey		8
-^tr	ey		8
+^	ay	e	9
 arv	ey		Y
 eap	e	s	I
 	ape	st	@p?
 ^h	ey		8
-^n	ig	e	9j
+ei	pt		t
+	ey	o	8
 ^b	ey		8
-s	eu		Y?
+plu	mb		m
+	ti	al	S
+^tr	ey		8
 ^ob	ey		8
-ter	ey		8
+v	ei		8
 	ey	ton	8
 gr	ey		8
-u	ng	er	Ng
-o	ngre		Ngr?
-	ey	d	8
-^e	xi	t	gzI
+ci	ss	o	z
+oc	oa		O
+	ey	n	8
+ic	he	n	?
+	yr	d	R
+m	pt	a	t
+	eich		9k
+p	oo		W
 ^r	ey		8
-n	eu		W
+o	l	y	l
+	ig	nm	9
+ter	ey		8
+	ly	ne	l9
+	ae	str	9
 c	ei		Y
 ff	ei		Y
 l	ei	b	Y
-^her	ei		I
+	oo	do	W
 	ei	tz'	Y
 m	ei	n'	Y
 n	ei	l	Y
-	gu	ard	g
+m	oo	r	U
 erf	ei		I
-	zh	o	Z
-	ey	n	8
+	cz		c
+	yr	t	R
 rv	ey		8
-ail	or		R
-orf	ei		I
+	ou	sto	yW
+par	th		t
+	ei	sl	9
 	ei	ke	9
-	ei	ty	Y?
+	hou	s	h#
 	ei	k	Y
 	ei	'	8
 rot	ei		Y
-m	or	an	R
+g	il	e'	?l
+ss	ip		?p
 	ei	nou	8
-cl	eu		Y?
-rest	ig	e	YZ
-	or	alit	R
+	ogh		O
+ut	il	e	?l
+s	ei	z	Y
+orf	ei		I
+k	oo		W
+	rr	io	r
 r	ei	ns'	8
-	ei	ndee	8
-t	ig	er	9g
-t	ha	me	E
+c	ca	'	?
+e	de	sta	d?
+	ey	d	8
+l	oo	r	4
+	ys	iq	?z
 b	as	el'	Az
 b	ase		8s
 on	or		R
-d	ha	rm	A
-ei	pt		t
+	i	ani	Y
+ere	of		Xv
 w	ei	r'	Y
+	ei	se	9
+	ei	ty	Y?
+rest	ig	e	YZ
+y	ou	r	4
+f	oo	d	W
+m	ac	a	?k
+	ey	e	9
+r	ou	b	X
+ea	li	za	l?
 p	u	s'	?
 	umpu		?mpU
-ist	or	ie	r
-ur	ha		?
-c	eu		W
-d	ha	m	?
-s	ei	z	Y
-n	ha	m'	?
-	or	igina	R
-g	or	il	R
-u	ng	est	Ng
-rc	ha	i	8
-llio	us	'	s
+	ou	lde	O
+tsm	ou		?
+rh	ys		Ys
+p	ou	r	4
+	ssi	a	S
+	ou	ntri	X
+tm	ou		?
+ym	ou	t	?
+	ou	p	W
+ore	ig		?
+t	ou	r	U
+	ou	rc	4
 nd	gu		g?
-d	eu		/
-o	r	e'	r
-l	or	etta	R
-^l	or	enzo	R
-bb	or		R
-uth	or		R
-hb	or		R
-reg	or	y	R
+	ou	i	W
+	ou	z	W
+	ou	'	W
+f	ou	r	4
+	ou	tiq	W
+m	ou	rn	4
+^v	i	g	I
+	yr	in	R
+d	oo	r	4
+	ou	rt	4
+v	oo		U
+eym	ou		4
+v	or	y	R
+	he	stral	E
+	he	mo'	Y
+^s	ir	'	R
+w	ou	n	W
+^b	ou	rn	4
+^	ou	r	A
+r	t	iar	S
+r	ti	a	S
+y	ou	th	W
+m	our		R
+^ri	ng		N
 	o	mpassio	?
 	ompa	s	Xmp?
+y	ou	n	X
+^	ge	n'	jE
+	ou	lt	O
+d	ou	g'	X
+^n	ig	e	9j
+	ou	ss	W
+	eu	rop	yU
+ta	rr		r
+uth	or		R
+	ou	sta	X
+d	ou	g	W
+	ou	ther	X
+^s	ay	s	I
+f	te	n	?
+m	ac	h'	Ak
+es	ig		9
+he	or		R
+h	ae		E
+	ae	ge	E
+	i	gnit	I
+	eig	n	8
+^mob	il	e	?l
+	he	strate	I
+t	ig	er	9g
+ls	or		R
+	ei	ndee	8
+o	r	e'	r
+	or	occ	R
+x	ci	t	9
+	or	rai	R
+	ig	ns	9
+	ly	c	l9
+ol	or		R
+	ig	ne	9
+gro	wn		n
+^	ng		EN
+^l	ou		#
+	ou	v	W
+vis	or		R
+	oo	k	U
+^w	es	t	Es
+	ig	nin	9
+	or	igina	R
+ph	or	u	R
+l	di	er	j
+mo	ul		l
+ens	ig		?
+ari	ng		N
+	o	rp	4
+am	or		R
+	or	alit	R
+rvi	ce		s
+o	he	n	?
+rm	or		R
+et	or	ic'	R
+bb	or		R
+m	or	an	R
+g	or	il	R
+hb	or		R
+	ig	n'	9
+ist	or	ie	r
+	ef	ighter'	f
 b	or	o	R
 ff	or		R
 ns	or		R
+	ae	st	E
 b	or	ato	r
 sp	or	tat	R
-ore	ig		?
-eumon	i		y
-	o	rp	4
-am	or		R
+na	ce		s
+^nak	a		A
+	wh	ore	h
+av	or		R
 ll	or		R
 ent	or		R
 um	or		R
-rm	or		R
-plu	mb		m
-	or	tuni	R
-he	or		R
-	or	ensi	R
-av	or		R
-	i	gnit	I
-	eig	n	8
-ph	or	u	R
-et	or	ic'	R
-hist	or	y	R
-ls	or		R
-f	or	ev	R
-v	or	y	R
-	or	occ	R
-	or	ai	R
-	or	rai	R
-f	or	bid'	4
-	ou	tiq	W
-ol	or		R
-	ig	ne	9
-	ig	n'	9
 sf	or	ma	R
-eb	or	a	R
-	ig	ns	9
-vis	or		R
-m	oo	r	U
-	ig	nin	9
-	ou	ss	W
-	ou	i	W
+wr	ea		Y
+	or	tuni	R
+l	or	etta	R
+kar	at	e	AtY
+	ao		#
+	or	ai	R
+^l	or	enzo	R
+en	ea		Y
 sinf	or	ma	R
-	ef	ighter'	f
-f	ou	r	4
-eym	ou		4
-m	ou	rn	4
-m	our		R
-gro	wn		n
-	ha	ot	8
-y	ou	th	W
-	sc	e	s
-y	ou	r	4
-^	ou	r	A
-	ou	'	W
-	ou	sta	X
-	ou	sto	yW
-t	ou	r	U
-y	ou	n	X
-r	ou	b	X
-	ou	lt	O
-d	ou	g'	X
-	ou	lde	O
-	ou	rt	4
-ym	ou	t	?
-	ou	p	W
-tsm	ou		?
-d	ou	g	W
-tm	ou		?
-	ou	rc	4
-w	ou	n	W
-	ou	ther	X
-	ou	z	W
-^b	ou	rn	4
-il	ea	g	I
-l	eu		W
-p	ou	r	4
-p	oo		W
-	eu	rop	yU
-o	lk	'	k
-f	oo	d	W
-r	eu	d	/
-r	eu	t	/
+^m	ou		#
+	or	ensi	R
+reg	or	y	R
+	or	inth	R
+anf	or		R
 	d	uall	j
 	ividu		?vIj?w
-	ou	ntri	X
-d	ea	f	E
+hist	or	y	R
+ail	or		R
+f	or	ev	R
 	a	ldo'	A
 	a	lda	A
 	ona	ld	An?
-^l	ou		#
-	ou	v	W
-	sc	i	s
+eb	or	a	R
+f	or	bid'	4
+	ac	ut	?ky
 	b	au	b
 	o	mbo	A
 t	omb		Wm
-sh	ea	'	8
-y	ea	h	@
+rs	ev	era	?vI
+	st	ling	s
 st	ea	k	8
 fr	ea		Y
 ^k	ea		Y
-	ay	a'	9
+	mb	s	m
 gr	ea	t	8
 y	ea	'	8
 ^r	ea	'	8
-	oo	do	W
-k	oo		W
+^fi	ng		Ng
+u	ng	er	Ng
 l	ea	no	?
-wr	ea		Y
+	o	rg	4
+	ya	ma	yA
 r	ea	dings	Y
-	oo	k	U
+il	ea	g	I
 r	ea	'	Y?
 r	ea	lm	E
 tr	ea	k	Y
@@ -1569,126 +1704,128 @@ ik	ea		Y?
 ^p	ea	r'	E
 	o	er'	O
 	oer		4r
-	ca	e	s
+	ea	se	Y
 	ea	thr	Y
 g	ea	n	?
 	ea	th	E
-l	oo	r	4
+	he	str	?
 r	ea	di	E
-en	us		yWz
-d	oo	r	4
-id	ea	'	Y?
-	ao		#
-v	oo		U
-	od	ul	Aj
-sp	ea	re	Y
-	ow	sk	#
-l	di	er	j
-z	eu		W
+	mb	'	m
+orksh	ir		R
+^h	e	m	E
+ti	ce		s
+e	la	'	l?
+sh	ea	'	8
+y	ea	h	@
+s	ea	w	Y
+d	uo		WO
+u	ng	est	Ng
 u	m	an	m
 	eum		Wm
-urr	ay		Y
-	zh	an	Z
+c	he	mi	E
+wh	oa		O
 yh	ow		#
-thereb	y		9
-r	eby		b9
-ss	ip		?p
-t	ir	'	R
-ere	of		Xv
-oc	oa		O
-ic	he	n	?
-	eich		9k
-an	sw	er	s
+i	sa	nc	s?
+	mb	ed'	m
+me	ow	'	#
+	he	mot	Y
+t	aj		AZ
+^g	ow		#
+id	ea	'	Y?
+	ac	d	?k
 hr	ow		O
-rt	yr		R
+d	ea	f	E
 pl	ow		#
-^s	ay	s	I
-	wi	ne	w9
+	ow	sk	#
+so	ul		l
+cl	ow		#
 r	ow	d	#
 ^r	ow		O
 r	ow	n	#
 o	w	or	w
-^	ay	e	9
+	za	k'	z?
 had	ow		O
-cl	ow		#
+	ea	gan	8
 kn	ow		O
 s	ow		O
-ind	sa		z
+	do	ubl	d
 ^d	ow		#
-it	em	e	m
+	ae	t	Y
 d	ow	'	O
 id	ow		O
 t	ow	n	#
 f	ow		#
-thu	mb		m
+^l	ue		U
 v	ow		#
 pr	ow		#
 ^h	ow		#
 eh	ow		#
 c	ow		#
 ^n	ow		#
-	yr	in	R
+^g	oe		O
 ^ch	ow		#
+her	re	ra	E
 ^p	o	r	4
 p	or	a	R
 v	apor		8pR
 	orr	ec	R
-	he	strate	I
-^g	ow		#
+^	ow	l	#
+	ce	rto	cE
 w	ow		#
 	or	ou	R
 r	di	ner	d
 	o	nomic	?
 	econo	m	IkAn?
-rs	em		m
+e	ir	a	r
 nea	p		@p
 	eap		Yp
-	he	stral	E
-me	ow	'	#
-fau	lk		k
-^	ow	l	#
-	ve	nin	v
-	he	mo'	Y
-	he	str	?
-	mb	s	m
-o	he	n	?
-	ce	ani	SY
-	cea	n	S?
-	he	moth	Y
-	mb	'	m
+en	ce		s
+	od	ul	Aj
+p	ir	in'	r
+^r	en	e'	?n8
+	eo	v	O
+al	ue		yW
+	rr	ed	r
+u	ir	ie	9R
+rg	eo	ns	?
+f	ue		yW?
+esh	ir		R
+t	ir	'	R
+	ie	ti	9?
 f	ir	'	R
-he	ar	d	R
-fo	lk		k
+e	ir	o	r
+ig	eo	ns	?
 	or	iza	R
-us	em		m
-t	eu		/
-^s	ir	'	R
+	rr	er	r
+we	ng		N
+il	ar	y	R
 o	r	n	r
 al	or		R
-ad	em	a	m
-p	ir	in'	r
-	em	ploym	Im
-e	ir	o	r
-u	ir	ie	9R
-il	ar	y	R
-esh	ir		R
-hr	op		?p
-l	ar	l	R
-orksh	ir		R
-	yr	t	R
-v	em	e	m
-rgl	ar		R
-^s	wo	rd	4
-e	ir	a	r
+a	kh		k
+lu	ci	a	S
+	ec	d	Ik
+ult	it	u	?ty
+l	eh	ma	Y
+ii	ng		IN
+an	ar	chis	R
+u	ll		l
+oca	li	t	l?
+ind	sa		z
+	oa	'	O?
+	ay		8
+o	sa	i	z8
+^all	ie		9
+p	at	el	?tE
+o	sa	l	z?
 	ei	r	I
 k	ei		Y
-ast	ar		R
+ea	ce		s
 an	ar	chy	R
-	op	f'	4
-	yr	n	R
+g	eo	f	E
+l	ar	l	R
 bb	ar		R
 w	or		R
-p	ar	ol	R
+e	av	il	v
 akb	ar		R
 	ar	ee	R
 ust	ar		R
@@ -1696,7 +1833,7 @@ ang	ar		R
 gg	ar		R
 fr	ar	e	RE
 vic	ar		R
-l	ar	'	R
+	ei	f	9
 v	ar	e	R
 p	ar	d'	R
 m	ar	ie'	R
@@ -1707,7 +1844,7 @@ bin	ar		R
 p	ar	ticu	R
 g	ar	ita	R
 m	ar	ina	R
-an	ar	chis	R
+d	a	rt	A
 alg	ar		R
 ul	ar	s	R
 	ar	ato	r
@@ -1721,468 +1858,483 @@ k	ar	d	R
 mm	ar		R
 sal	ar		R
 ^	ar	is	R
-ci	ss	o	z
-o	sa	l	z?
+	ie	nd	E
+i	kh		k
 	r	ata	r
 	ir	at	R
 b	ar	u	R
 m	ar	ia'	R
-	mb	ed'	m
-	o	phis	?
-str	o	phi	A
-ot	ar	y	R
-	yr	d	R
-r	ie	st	Y
-am	il	ie	l
-nn	ip		Ip?
-p	ec	ie	YS
-	ie	nd	E
-dd	ar		R
-^all	ie		9
-	ie	ta	9?
+	uh	l	W
+p	ar	ol	R
+	i	tanic	9
+t	ita	n	9t?
 u	ie	t	9?
-d	ie	t'	9?
+r	ie	st	Y
+	ie	tz	Y
+	ie	ta	9?
+ast	ar		R
+	o	mm'	A
+	en	gla	INg
+dd	ar		R
+rgl	ar		R
 br	ie	n	9I
-	ie	ti	9?
+he	ar	d	R
+d	ie	t'	9?
+hre	at		t
+	en	gli	IN
 d	ie	ts'	9I
+	ng	li	Ng?
 n	ie	ll	y
-ir	ew	o	w
-fi	re		R
-r	eh	o	h
-	hou	s	h#
+ot	ar	y	R
+l	ar	'	R
+	em	ploym	Im
+^h	ue		U
 lc	o	m	?
 c	ome	d	?mY
-	ogh		O
-	xx		ks
+	ue	de	w8
+^	ar	ra	R
 an	ie	l	y?
-m	pt	a	t
-n	im	e	Im8
+us	em		m
+	uy		9
 ^o	v		v
-i	sa	nc	s?
+it	em	e	m
 ^t	e	n	E
-	ec	d	Ik
-^mob	il	e	?l
-	ss	io	S
-h	bo	urs	b
-	ss	olv	z
+	at	ev	?tE
+ad	em	a	m
+ib	ya		Y?
+rs	em		m
+v	em	e	m
 	v	a'	v
 en	ov		?v
 y	mn	'	m
 	ov	it	?v
-	en	gla	INg
-	en	gli	IN
+s	ui	te'	wY
+	tu	la	c?
 	eng	l	IN
-ib	ya		Y?
-mi	on		OnY
+ung	eo		?
+lati	li		Il?
 o	w	ic	v
 p	ow		#
-c	uu		yW
-o	sa	i	z8
-	ya	ma	yA
-	ay		8
-nsen	su	a	sW
-	uy		9
-p	at	el	?tE
-hre	at		t
-n	su	a	S?w
+g	eo	n	I
+	ie	m	Y
+nga	ge		j
+ir	tu		cW
+n	tu	all	S
+m	ui	r	yU
+n	ue	l'	yW?
+^c	os	'	4s
+q	ue	st	wE
 	at	ell	@t?
-kar	at	e	AtY
-	mh	er	m
-wh	oa		O
-	te	ou	c
-	ight		9t
-	oc	ch	O
-	at	ev	?tE
+a	tu	to	c?
+	ci	ou	S
+	ue	u	y
+s	ui	t'	W
+b	ue		yW
+ad	er		R
+	ui	tes	wY
+	lu	or	l
+an	ya		yA
 	u	chi'	W
 	au		4
 	ucu		yWk?
 	us	at	yWz
-	rr	ed	r
-a	ok		YOkY
+ath	er		R
+	ue	g	W
 	o	nym	?
 p	atro	n	8tr?
 ll	er		R
-	cz		c
-	rr	io	r
-^com	pa	ra	p
-draw	er		r
-ed	er		R
-ev	er	a	r
-op	er	a'	r
+b	uch		Xk
+sfer	ri		I
+e	ll	'	l
+m	ue		yW
+cashi	er		r
+^q	ui	'	Y
+bi	er		r
 am	er	a'	r
 	er	ee	R
-	ae	t	Y
-emi	er		r
+	en	act	In
+	er	t	R
 ^ling	er		gR
-long	er		gR
+^	av	e'	Av8
 ali	er		r
-^	ng		EN
-^fi	ng		Ng
-	ng	li	Ng?
-we	ng		N
-	ae	str	9
-bi	er		r
-cashi	er		r
+ed	er		R
+ev	er	a	r
+draw	er		r
+long	er		gR
+b	ui		I
+unt	er		R
+^	of	'	Xv
 e	re	w	r
 w	er	e	R
-	ae	ge	E
-	vv		v
-an	ya		yA
-b	ue		yW
-f	ue		yW?
-	ue	de	w8
-q	ue	st	wE
-n	ue	l'	yW?
-x	ci	t	9
-m	ue		yW
-ii	ng		IN
-br	oa	d	4
+^p	er	a	R
 k	ue		U
-^h	ue		U
-	ue	u	y
-h	ae		E
-al	ue		yW
-	ru	a	y?w
-^	ge	n'	jE
-ca	ch		S
-inc	et		t
+ie	ll		El
+ir	ri	n	I
+k	ew	is	w
+rc	ul	e	y?lY
+	o	vell	O
+tt	er		R
+emi	er		r
+u	is	v	Y
+	un	clea	?n
+^tax	is		Yz
+m	ch		c
+e	is	u	Z
+	er	w	R
+n	ui	n	yWwI
+az	is		Yz
+	eh	m	E
+r	ke	le	k
+^a	ge	s	j
+ael	is		Yz
 	o	rit	4
 	ajor		8jR
-her	re	ra	E
-	eo	v	O
-re	d	i	d
-ir	ri	n	I
-l	ga	e	jY
-	rr	er	r
-	oa	'	O?
-	di	b	dI
-lu	ci	a	S
-	do	ubl	d
-sfer	ri		I
-rg	eo	ns	?
+	ro	nat	r?
+n	ge	m	j
+	se	phine	s?
+hass	is		Y
+	d	ay	d
+e	ge	l	g?
 	rr	ing'	r
-	ii		Y
-^ac	tu	al'	S
+^	ge	t	gE
+n	ove	l	Av?
+orn	ad		8d
+c	uu		yW
+mont	ag		AZ
+ca	ch		S
+bea	ch		c
+^	ew		yW
+op	er	a'	r
 usta	ch		S
-rs	ev	era	?vI
+	ch	ute	S
 	ch	iga	S
 a	r	cu	r
-	ci	ou	S
+^l	os	e	Wz
 ho	ch		k
 pea	r		r
-l	eh	ma	Y
+^	ch	ef	S
 	ear	c	R
 li	ch		k
 nar	ch		k
-ig	eo	ns	?
-ung	eo		?
+har	ge		j
+^g	as	'	@s
 za	ch		k
 i	ch	elle	S
-g	eo	f	E
-g	eo	n	I
+	ch	am'	c
+r	ge	ss	j?
 iar	ch		k
-^enri	ch		c
-^	ch	ef	S
-	ch	ute	S
-uer	ri	l	I
+u	is	a	Yz
+^r	aw	'	A
+varg	as		?s
+	ch	evr	S
 	ch	arg	c
 	ch	ate	S
-e	de	sta	d?
+nt	eg	e	?j
 	ch	te	k
 ^ri	ch		c
 	ch	eye	S
 	ch	ele	S
 	ch	eryl	S
+	oy	ote	9
 ^tie	r		r
 n	o	my	?
 	astrono		?strAn?
 i	er	e	r
-m	ch		c
-	cu	mu	yW
-r	t	iar	S
-r	ti	a	S
-	ic	ule	?ky
-	os	bor	4z
+ph	ew		yW
+p	ew		yW
+^enri	ch		c
+ar	ew		w
+	dd		d
+^m	os	'	4s
 chr	o	m	O
 t	o	matica	O
 ut	o	matic'	O
 	o	mati	?
 	oso	m	?sO
-	eh	m	E
+	do	es'	dX
 aer	o		O
-mo	ul		l
-^m	ou		#
-ea	li	za	l?
-rh	ys		Ys
+^d	os	'	4s
+ath	ew		yW
+^n	aw		A
+	os	wa	4z
 	s	urg	s
 n	su	r	SU
-^c	os	'	4s
-m	ac	h'	Ak
 ^r	os	'	4s
-^p	os	'	As
-^l	eh		E
-	ch	evr	S
-	ac	ut	?ky
-m	ac	a	?k
-^ind	ic	t	9
+pert	is		Yz
+ir	ew	o	w
+i	ia		?
+^l	io		9?
+	os	bor	4z
+	r	eman	r
+	aw	k	4
+fi	re		R
 	os	mi	Az
-	os	wa	4z
-a	kh		k
-^l	os	e	Wz
-^d	os	'	4s
-^m	os	'	4s
-	ac	d	?k
-	os	mo	Az
-rvi	ce		s
-	os	met	Az
-na	ce		s
-^r	en	e'	?n8
+	w	ay	w
+^	allow		?l#
+	ho	ff'	h4
+re	d	i	d
+^l	eh		E
+a	na	'	n?
+^p	os	'	As
+s	ew	'	O
+l	ga	e	jY
+	di	b	dI
+uer	ri	l	I
 	g	erso	g
 	yge		Ij?
-ea	ce		s
+^expir	ed		d
 	c	era	s
 	o	wry	#
 ^l	ow		O
 	ow	er	#
 	ow	el	#
 m	ce		@k?
-	tu	la	c?
-lati	li		Il?
-e	av	il	v
+	is	tc	9st
+	qu	ett	k
+e	re	dith	rI
 ona	le		l
 	ale	s'	8l
-i	kh		k
+on	qu	e	k
 ea	r	d	r
 be	ar		r
-^	av	e'	Av8
-m	ui	r	yU
-ti	ce		s
-	lu	or	l
-	za	k'	z?
+^son	ia		yA
+am	el	es	l
+da	re		r
+	oc	ch	O
+	el	lo'	E
 sto	re		r
-	ae	st	E
-en	ce		s
-	ce	rto	cE
-s	ew	'	O
-ult	it	u	?ty
-e	re	k	rI
-o	hn	e	n
-pe	wr		r
-	aw	k	4
-	to	uc	t
-e	re	dith	rI
-n	tu	all	S
-ph	ew		yW
+ai	re		r
+ans	as		?s
+^c	as	'	@s
+sha	re		r
 r	re	str	E
+i	re	d	R
+^s	as	'	@s
+^v	as	e'	Az
+^br	as	'	@s
+	x	istent	gz
+	aw	'	4
+rui	se		z
+r	aw		4
+	re	tz	rE
 uir	re		?
 eter	re		r?
 r	e	ll'	?
 e	o	nardo	?
 	eo	nar	E
-da	re		r
-sha	re		r
-ath	ew		yW
+^ham	as		As
+ass	en		?n
+	an	atomy	?n
 sho	re		r
+	ga	pore'	?
 ib	re		R
-	re	tz	rE
+e	re	k	rI
 se	x		ks
-	x	istent	gz
+el	ia		9?
 	ex	ist	Igz
 ts	u		W
 	uu		W
 di	r	e'	r
 d	ir	e	R
-ai	re		r
-k	ew	is	w
-ar	ew		w
 ^d	ia	r	9
-^	ew		yW
-p	ew		yW
-	oh	n	A
-^r	aw	'	A
-on	qu	e	k
-^n	aw		A
-	ui	tes	wY
-ie	ll		El
-so	ul		l
-u	ll		l
-a	tu	to	c?
-	qu	ett	k
-	aw	'	4
+	ia	mo	9
+	wh	i	w
+wi	re		r
+oy	al	e	@l
+esperat	io		I
+	ia	tus	98
+bi	t	'	t
+k	aw		Aw
+nb	ia		9?
+e	an	li	n
+p	el	es	l
+gr	as	'	@s
+uba	ra		rI
+pl	ia		9?
+	ia	try	9?
+lg	ia		?
+tea	se		z
 goo	d		d
 	ood	l	Wd
 	oo	d	U
 	o	de'	O
 	ipo	d	9pA
-	oy	ote	9
-e	ge	l	g?
-s	ui	te'	wY
-^q	ui	'	Y
-lc	ul		y?l
+	se	nta	z?
+me	an	t'	n
+^c	al	f	@
+ugh	an		n
+e	se	nc	z?
 	es	ervatio	Ez
 orb	it		?t
-	d	ay	d
-n	ui	n	yWwI
-	ro	nat	r?
-ass	en		?n
-b	ui		I
-t	aj		AZ
-ir	tu		cW
+	se	ntl	z?
+^r	es	en	Iz
+mpa	ra	t	Er?
+	se	les	s
+ebut	ed		d
+lan	d		d
+lc	ul		y?l
 r	o	cu	O
 	ocu	s	OkI
-	w	ay	w
-^	allow		?l#
-r	aw		4
-nga	ge		j
+	es	ume'	Iz
+y	ua		WA
+	an	ati	?n
+l	ua	b	yW
+e	al	th	l
 	w	ell'	w
 f	ew		yW
-oca	li	t	l?
-rc	ul	e	y?lY
-k	aw		Aw
-orn	ad		8d
-f	te	n	?
-r	ge	ss	j?
-^expir	ed		d
-i	re	d	R
-y	ua		WA
-^	ge	t	gE
-el	ia		9?
-	wh	ore	h
-	do	es'	dX
-c	ca	'	?
-^br	as	'	@s
-n	ge	m	j
-	dd		d
-	ia	mo	9
-^n	o	ne'	X
-^a	ge	s	j
-	un	clea	?n
+	n	sor	n
+	na	logu	n?
+ai	se		z
+oi	se	d	z
+eav	es		z
+mpe	ra	ti	r?
+os	en		?n
+s	al	ma	@
+	na	log'	n?
+a	ra	ck	r?
+c	al	ves	@
+^t	r		r
+gim	m	e	Y
+plea	se		z
 	ia	pe	9
-	ia	try	9?
-pl	ia		9?
+k	es	'	s
+^agn	es		Is
+igh	ed		d
+^n	o	ne'	X
+u	l	s	l
+r	ew	e	W
+	io	ri	Y4
+ok	es		s
+	es	ig	Iz
 jer	s		z
 r	si	a	Z
-	ca	st	k@
-e	is	u	Z
+	mm		m
+d	es	pr	s
 ^st	r		r
-^t	r		r
-nb	ia		9?
-^s	as	'	@s
-^son	ia		yA
+a	na	t	n?
+c	ed	on	?d
+	c	hs	k
+ar	ch		c
 t	ru	m	r?
-esperat	io		I
+	es	olu	Ez
 ^n	o	n	A
 	ona	'	On?
-ans	as		?s
-^c	as	'	@s
-lg	ia		?
-gr	as	'	@s
-	ia	tus	98
-i	ia		?
-	en	act	In
+b	p		p
+t	ra	nd	r?
+u	ra	n	r?
+hav	io		y
+l	es	to	s
+mos	es		Is
+	io	ce	9?
 fou	l		l
 dach	es		s
-	an	ati	?n
-^v	as	e'	Az
-me	an	t'	n
-^g	as	'	@s
-e	an	li	n
-^agn	es		Is
-mos	es		Is
-u	l	s	l
+rid	es		z
+ain	es		z
+r	es	er	Yz
+	es	i'	Es
+	h	aus'	h
+l	ake		8k
+loo	p		p
+al	th		T
+s	al	mo	@
 	oul		Wl
 yl	es	'	z
-varg	as		?s
-ael	is		Yz
-os	en		?n
+d	io	n	9?
+^d	es	'	I
+tt	an		?n
 	ogou		?g?
-ain	es		z
+ocus	ed		t
 i	g	el	g
 b	eige		8Z
 rey	es		Is
-	wh	i	w
+	ul	k	Xl
 ll	a	h	?
 	ahu		?hW
-	an	atomy	?n
-^e	r	i	r
-	er	ich	R
 	es	iu	Yz
+^	x	i	S
+r	ch	er	k
+^	p	t	!
 ic	o	las	?
 nic	ola		OlA
-	es	ume'	Iz
-^r	es	en	Iz
-	es	ig	Iz
-l	ua	b	yW
+kh	al	e	Xl?
+^	j	a'	y
+	le	sk	lE
+il	es		z
 	e	act	Y
 	ea	c	Y
 	achu	s	?cW
 br	ea		E
-	el	lo'	E
-r	ke	le	k
-ok	es		s
+de	al	t	l
+^	p	f	!
+a	ra	chi	rA
 	g	en'	g
 	ollage		?lAZ
-d	es	pr	s
-r	es	er	Yz
+^k	ul		yWl
+	x	ec'	gz
 d	es	e	Iz
-rid	es		z
+r	ra	r	A
 o	r	io	r
 ot	or		R
-^l	i	am	Y
-^l	ia		9?
-^d	es	'	I
-k	es	'	s
-ve	gg		j
-a	na	'	n?
-	es	olu	Ez
-hass	is		Y
-u	ra	n	r?
+	n	bo	n
+ere	v		Ev
+n	de	ll'	d?
+^	un	b	?n
+	al	m'	A
+	ja	'	j?
+	r	onar	r
+ab	le		?l
+g	h	or	h
 	r	ane	r
 	agra	n	8gr?
-uba	ra		rI
+e	t	hre	D
 ^t	o	r	4
 t	or	al	R
-u	is	a	Yz
-nt	eg	e	?j
-u	is	v	Y
-	io	ce	9?
-l	es	to	s
-d	io	n	9?
-	is	tc	9st
-az	is		Yz
-a	ra	ck	r?
-pert	is		Yz
-	j	e'	jY
-^ce	me		ImE
-tt	an		?n
-ugh	an		n
-mpa	ra	t	Er?
-e	al	th	l
-su	me		m
-hav	io		y
-il	es		z
-	dj		j
-r	ra	r	A
+ere	i		I
 h	al	f	@
+r	t	ug	c
+	k	na	!
+a	b	lin	b?
+ce	x		?ks
+oo	k		k
+who	le		l
+r	ei	n'	8
+	e	nto'	E
+u	t	'	t
 fe	ra	l	r?
-^l	io		9?
-mpe	ra	ti	r?
-a	ra	chi	rA
-	na	logu	n?
+	j	e'	jY
+us	ed		d
+	kk		k
+	or	ona	R
+va	j		h
+^uni	t		t
+x	ed		t
+k	ed	i	t
+	al	e'	8l
+mea	d	'	d
+^twa	t		t
+st'	v		Iv
+	dj		j
+kie	v	'	Ev
+inten	t	ions	c
+rrie	t		?t
+l	le	t'	I
+la	b	a	b
+^	x		z
+^u	p		p
 	o	dd	A
 t	ro	d	rO
 ^qual	i		?
-	na	log'	n?
-ocus	ed		t
+	t	urou	c
+	m	ing	m
 	a	shi'	A
 a	na	s	n?
 rv	an		?n
 l	i	ter'	Y
 	oli	te	?l9
-^c	al	f	@
-	al	m'	A
-a	na	t	n?
-kh	al	e	Xl?
+u	h	a	h
+	c	is	s
+	z	inge	z
+	g	enti	j
 ^spe	d		d
 	e	nta'	E
 ^g	e	nt	E
@@ -2194,280 +2346,301 @@ un	i	f	?
 	i	fied	I
 	i	fie	?
 r	ri	fi	I
-who	le		l
-de	al	t	l
-	y	ea	y
-	ey	e	9
-	se	ntl	z?
-	c	hs	k
-ar	ch		c
-^tax	is		Yz
-p	el	es	l
-oy	al	e	@l
-	se	les	s
-c	ed	on	?d
-t	ra	nd	r?
-	al	e'	8l
-	ga	pore'	?
+en	t	ia	S
+rewar	d		d
+ob	el		?l
+ef	t		t
+^b	l		l
+b	le	d	?l
+	ph		f
+mon	t	e'	tY
+	t	kins'	t
+ndui	t		It
+ce	d	e	Yd
+^e	r	i	r
+	t	iani	c
+ver	d	e'	dY
+	hea	r	hY
 	i	enni	9
 	i	enn	Y
 c	ien		9?n
-s	al	ma	@
-c	al	ves	@
-	se	nta	z?
-mont	ag		AZ
+cas	t	i	t
+ea	t	tl	@t
+	t	z	t
+equa	t	i	Z
 	o	drigo	?
 	odri	g	AdrY
-k	ed	i	t
-us	ed		d
-	uh	l	W
-ere	v		Ev
-ab	le		?l
-e	se	nc	z?
-^	x	i	S
-x	ed		t
-ebut	ed		d
-	y	nd	I
+due	t		Et
+hme	d		d
+	y	n'	I
+	d	e'	d
+inten	t	ion'	c
+oe	t	i	Et
+s	t	io	c
+it'	d		?d
+poe	t		?t
+^br	y		9
 ^r	y		9
 	ye	n'	yE
-igh	ed		d
-lan	d		d
-tea	se		z
-oi	se	d	z
-n	de	ll'	d?
-gim	m	e	Y
-plea	se		z
-rui	se		z
-ai	se	d	z
-	mm		m
-^	j	a'	y
-ce	x		?ks
-d'	v		?v
-l	le	t'	I
-	k	na	!
+^de	ci		s9
+sfor	t	u	c
+bre	d		d
+sifi	c		k
+	c	atin	k
+xpi	r	es	R
+dis	t		t
+nsate	d		Id
+	er	ich	R
+	c	d	?k
+y	r	es	R
+kes	t		t
+	d	uca	jy
+^o	r	'	r
+	c	iat	S
+nipulate	d		Id
+	t	ury	c
+base	d		t
 te	g	is	Ij
+^ber	l		l
 	eg	is	Ej
-^e	d	'	d
-b	le	d	?l
+v	a	lu	@
+rs	t		t
 	i	zontal'	?
 	i	zont	I
 	orizo		R9z?
 	ori	z	R9
-am	el	es	l
-fre	d		d
-kie	v	'	Ev
-loo	p		p
-	n	bo	n
-^	un	b	?n
-^	p	f	!
-mea	d	'	d
-ose	d	l	?d
-	ja	'	j?
-^u	p		p
-ce	d	e	Yd
-	ph		f
-vocate	d		Id
-bea	d		d
-oo	k		k
-it'	d		?d
-cas	t	i	t
-base	d		t
-ce	d	i	Yd
-	hea	r	hY
 	he	ar	h
-ver	d	e'	dY
-st'	v		Iv
+	m	cn	m?
 ce	d	u	Yj
-	d	uca	jy
-nipulate	d		Id
-rewar	d		d
-	t	iani	c
-hme	d		d
-mon	t	e'	tY
-	t	urou	c
+s	t	ler	!
+^l	i	am	Y
+^l	ia		9?
+	c	raf	k
+ose	d	l	?d
+ie	r	re	E
+^ro	h		!
+	z	lo	z
+	r	aqi	r
+	c	iar	S
+vocate	d		Id
+ce	d	i	Yd
 ko	h		!
-sfor	t	u	c
+i	r	an's	r
+oza	r		r
+	r	ia	r
+fre	d		d
+scu	b		b
+ct	or		R
+	c	ater	k
+	r	ex'	r
+	va	l	v?
+	r	iba	r
+i	ci	a	S
+^igo	r		r
+t	r	ad	r
+^na	r	d	r
+	r	ik	r
+u	st	i	st
+	r	o'	r
+dossie	r		8
+	r	ua	y?
+eva	r		r
+empi	r	e	R
 	o	ssib	A
 p	oss		?z
-la	b	a	b
-va	j		h
-inten	t	ion'	c
-equa	t	i	Z
-en	t	ia	S
-^twa	t		t
-	d	e'	d
-bre	d		d
-oe	t	i	Et
-rs	t		t
-	x	ec'	gz
-poe	t		?t
-due	t		Et
-r	t	ug	c
-rrie	t		?t
-dis	t		t
-b	p		p
-ndui	t		It
-ea	t	tl	@t
-inten	t	ions	c
-s	t	io	c
-	t	ury	c
-	t	z	t
-s	t	ler	!
-oza	r		r
+sad	or		R
+^e	d	'	d
+	m	int	m
+a	r	n	r
+^h	r		hr
+^wage	r		R
+	l	ely	?
+	c	ator	k
+	n	cs	N
+	r	osel	r
+	r	af	r
+	r	aw	r
+	r	acl	r
+re	l	o	l
+e	r	if	r
+one	r	y	r
+sy	n	ch	N
+mar	g	i	j
+acqui	r		R
+b	r	e'	R
+d	r	ac	r
+em	or		R
+flou	r	'	R
+di	c	atio	k
+^e	l	y	l
+om	i	nate	?
+u	r	en	r
+pho	r		r
 	o	mini	?
-	b	usiv	by
+bar	g	er	g
 	c	'e	s
 ^nom	i		?
-e	w	sk	f
-n	omi	n	4m?
-i	c	h's	c
-	r	onar	r
-	or	ona	R
-	c	ator	k
-one	r	y	r
-p	z		s
-e	t	hre	D
-a	b	lin	b?
-ta	r	is	r
-ri	c	h'	k
-	r	o'	r
-ll	ar		R
-	l	ely	?
-i	r	an's	r
-	r	acl	r
-	z	inge	z
-	kk		k
-scu	b		b
-^o	r	'	r
 bl	r		R
+n	omi	n	4m?
+^k	l		l
+andb	y		9
+gg	y		Y
+l	a	rk	A
+u	n	cle	N
+^	un	c	?n
+i	c	h's	c
+i	l	ur	ly
+	l	ka'	l
+ta	r	is	r
+mbie	n		?n
+dd	y		Y
+ll	ar		R
+ssin	g	e	j
+il	g		g
+	r	ala	r
+^ve	r	y	r
+m	c	t	?k
+^sk	y		9
+	y	omi	9
+^c	l	e	l
 l	i	at	Y
 	ia	tiv	y?
-	r	ik	r
+	y	mmetri	?
 ^wa	r	d	r
-	r	ia	r
-l	ger		gR
-em	or		R
-sad	or		R
-ct	or		R
-	r	aqi	r
-xpi	r	es	R
+	n	str	n
+	y	fi	Y
+sume	r		R
+ea	n	d	@n
+die	n	t	n
+reb	y		9
+e	r	ebr	r
 m	u	nism	y?
 ^comm	uni		y?n?
-y	r	es	R
-b	r	e'	R
-flou	r	'	R
-sume	r		R
-empi	r	e	R
-ie	r	re	E
-pho	r		r
-fai	r		r
-^na	r	d	r
-sy	n	ch	N
-^wage	r		R
-^igo	r		r
-	c	iar	S
-o	n	i	n
-^ve	r	y	r
-t	r	ad	r
-	c	d	?k
-acqui	r		R
-	c	iat	S
-ssin	g	e	j
-	m	cn	m?
+e	g	it	j
+	s	rae	z
+bb	y		Y
+^t	y	'	9
+ri	c	h'	k
+ev	y		Y
+mm	y		Y
+arr	y	l	?
+	ry	l'	r?
+of	y		Y
+inea	g		?j
+^tr	y		9
+^fi	n	an	n
+	u	nway	X
+h	y	me	9
+	n	quist	n
+ad	n	'	?n
+^l	y	'	9
+	y	ea	y
+uss	y		Y
+g	y	p	I
+u	s	le	s
 atr	i	c	I
 	psychiatri		s?k9?tr?
-	i	tanic	9
-t	ita	n	9t?
-i	l	ur	ly
-ir	y		Y
-^sk	y		9
-	n	str	n
+	y	lind	I
+^sh	y		9
+isi	n	ge	n
+	y	nn	I
+it	y		Y
+	o	ct'	4
+^impl	y		9
 	psych		s9k
 	y	x	I
-	c	atin	k
+	o	duci	?
 ^st	y		9
 	y	vo	I
-bar	g	er	g
-ea	n	d	@n
+o	s	mo	z
+to	y	o	y
+nn	y		Y
+repl	y		9
+^rel	y		9
+l	u	ral'	U
+t	i	cati	?
+penc	i		?
 	g	ei	g
-sifi	c		k
-ad	n	'	?n
-of	y		Y
-die	n	t	n
+inoi	s		z
+o	s	met	z
 	ic	at	Ik
 op	y		Y
-it	y		Y
-	y	mmetri	?
-	n	cs	N
-^tr	y		9
-isi	n	ge	n
-t	ys		9s
-w	y	n	I
-i	ci	a	S
-^impl	y		9
-h	y	me	9
-	u	ru'	W
-mbie	n		?n
-^rel	y		9
-repl	y		9
-	y	lind	I
+lt	i	mo	?
+c	u	b'	X
+ni	s	at	z
+	s	ub	s
+	i	fy	I
+^s	o	ns	X
+c	o	nstr	?
+rfr	o		?
+^	s	r	S
+	oy		/
+n	ago		?g4
+ant	y		Y
+oh	i	o	9
+m	i	nan	?
+lb	y		Y
+kudo	s		s
 	o	ni'	O
 z	io	n	9?
-m	c	t	?k
+o	s	i'	s
 oughe	s		s
 ugh	es		z
 ic	i	pa	?
+ir	y		Y
 c	ipal		?p?l
-	y	fi	Y
-kudo	s		s
-	y	nn	I
-arr	y	l	?
-	ry	l'	r?
-inea	g		?j
-e	g	it	j
-reb	y		9
-^sh	y		9
-	s	ub	s
-^dr	u	m	X
-dd	y		Y
-uss	y		Y
-inoi	s		z
-	y	n'	I
-t	i	pli	?
-g	y	p	I
-ech'	s		s
+w	o	men	I
+	u	ltie	?
+lc	o	n	?
+	i	ami	9
+ll	i	c	I
+	s	insk	s
+utt	o		?
+	u	blicit	?
+^pr	u	n	W
+	o	mbus	?
+	o	nsum	?
+on	o	c	?
 t	i	ple'	?
-sy	s		s
-	i	fy	I
-^p	i	'	9
-^t	y	'	9
-	s	rae	z
+	o	phis	?
+cl	o	th	4
+t	i	pli	?
+ll	o	t	?
+	o	bservati	A
+nan	o		O
+tt	o	n	?
+h	o	stel	A
+	o	mpel	?
+mm	o	n	?
+	o	mpute	?
 ord	i	na	?
-^l	y	'	9
-to	y	o	y
-lt	i	mo	?
-	o	lle'	A
-gg	y		Y
-om	i	na	?
+^	o	per	A
+	i	mis	?
+^c	o	ncert'	A
+	o	sm	A
+	o	mmuna	?
+	o	so'	O
+	o	niu	O
+str	o	phi	A
 	o	ntempor	?
 roz	e	n	?
 	oze	n	Xz?
-m	u	le	yW
+^	o	ven	X
 mult	i		Y
 t	ie	t	YI
 s	i	fi	?
 	in	anc	9n
-	s	fo	s
+	o	tass	?
 ^m	e	l'	E
 l	o	dy	?
-^h	i	'	9
+	o	mpose	?
 ^t	o	n'	X
 	o	graphy	A
-	o	nox	?
-^ten	s	ions	c
+orf	o	l	?
+	o	ficienc	?
 	o	nfr	?
 	o	nia	O
-^	s	r	S
+	o	ta'	O
 d	o	se	O
 m	e	l'	?
 	o	bo	O
@@ -2476,24 +2649,24 @@ sc	heme		Ym
 	i	ficat	I
 ^h	o	r	4
 r	o	ny	?
-	o	nsum	?
-	i	festo	I
+ll	o	ck	?
+	o	ndole	?
 ^s	o	me'	X
 	so	me'	s?
 s	ome		Xm
 m	ew		w
 	o	bstr	?
 	o	sl	A
-l	o	die	?
+^z	o	e'	OY
 	o	mmerce	A
 	o	fo	O
 rotoc	o		4
 	o	vs	A
 ^	o	ll	A
-	o	stalg	4
+	o	ntractio	?
 	ari	f	RY
 ^n	a	n	@
-^c	o	ncert'	A
+	o	dem	O
 	o	nfigu	?
 r	o	fe	?
 	o	gressed	?
@@ -2512,7 +2685,7 @@ c	o	nu	?
 	o	k'	A
 	o	lecula	?
 	o	mplia	?
-	o	lumbia'	?
+^d	o	'	W
 	o	wave'	?
 mer	o	n	?
 	o	ple'	O
@@ -2525,7 +2698,7 @@ l	o	l'	4
 c	o	nge	?
 b	o	rrow	A
 ^ev	o	lu	O
-b	o	de	O
+^h	o	nda	4
 	o	ncepti	?
 f	o	ll	A
 hl	o	e'	OY
@@ -2550,7 +2723,7 @@ w	o	lf	U
 f	o	s	A
 v	o	ll	A
 c	o	nsi	?
-	o	nsp	?
+pfr	o		?
 x	o	n	?
 s	o	ll	A
 	o	ssip	A
@@ -2559,7 +2732,7 @@ st	o	ls	?
 mm	o	d	?
 gibb	o	ns	I
 	o	ntinge	?
-l	o	ll	A
+nnam	o		?
 dm	o	t	?
 t	o	li	O
 aum	o		4
@@ -2569,14 +2742,14 @@ ud	o	l	4
 	o	resce	U
 	o	ndens	?
 rm	o	n'	?
-t	o	ster	A
+t	o	ste	A
 est	os		?s
 ^t	o	m'	A
 b	o	ng	A
 	o	nje	?
 	o	dyn	O
 me	o	n	w?
-	o	zn	A
+	o	sh'	A
 	o	verty	A
 p	o	llen	A
 rr	o	n	?
@@ -2630,7 +2803,7 @@ hc	o	m	X
 	o	nflicti	?
 	o	jecto	?
 ^ant	o	n'	4
-	o	mman	?
+l	o	ll	A
 	o	long	?
 	o	stu	A
 	o	gato	A
@@ -2643,6 +2816,7 @@ g	o	lf	A
 	o	nsoles	?
 ck	o	n	?
 	o	mous'	?
+l	o	ne'	O
 	o	stil	A
 	o	nic	A
 r	o	pel	?
@@ -2662,7 +2836,7 @@ f	o	'	O
 	o	llec	?
 	o	mmis	?
 t	o	mat	?
-	o	tc	A
+	o	mpeted	?
 	o	lor	X
 l	o	me	?
 	o	lonia	?
@@ -2690,17 +2864,17 @@ ec	o	gnit	I
 	imo	r	Ym4
 evel	o		?
 fr	o	m'	X
-	a	vor	8
+	o	nwa	A
 ^c	o	me'	X
 	o	mmit	?
 phot	o	n	A
 er	o	k	?
 	o	lo	A
 	oo		W
-	oy		/
-n	ago		?g4
+	o	nox	?
+nyb	o		?
 	oa	r	4
-	o	nfo	?
+ymb	o	l	?
 ^c	o	ming	X
 	o	gen	O
 	o	bjectivel	A
@@ -2714,7 +2888,7 @@ st	o	p	A
 	o	pla	?
 ag	o	n	?
 b	o	'	O
-	o	ct'	4
+p	o	ly	A
 	o	lley	A
 	o	nfu	?
 c	o	r'	4
@@ -2742,7 +2916,7 @@ r	o	th'	4
 	o	toni	?
 ^t	o	ns	X
 ^b	o	t'	4
-	o	mpel	?
+g	o	v'	X
 atr	o	n	?
 g	o	ne	4
 efr	o	n	?
@@ -2759,17 +2933,17 @@ ec	o	g	?
 	o	gre	A
 	o	wee	#
 l	o	nis	?
-pr	o	specti	?
+b	o	de	O
 v	o	catin	?
 wc	o		?
 c	o	ve'	O
 mpr	o	mi	?
 ^b	o	ts'	4
-cl	o	th	4
+y	o	ne	w?
 	o	b'	A
 l	o	nie	?
 mph	o	n	?
-on	o	c	?
+s	o	rry	A
 	o	nnec	?
 ref	o		4
 bb	o		?
@@ -2786,15 +2960,17 @@ l	o	mo	?
 e	o	d	?
 	o	bert	A
 	o	tenti	?
+	o	nfines	A
 t	o	l'	?
 n	o	ci	?
-ll	o	t	?
+l	o	die	?
 amb	o	d	O
 	o	gm	A
 	o	ntrasti	?
 	o	llis	A
 	o	mputi	?
-c	o	nstr	?
+	o	stalg	4
+	o	mie	?
 ng	o		gO
 rg	o	n	?
 	o	nsoli	?
@@ -2804,8 +2980,8 @@ rg	o	n	?
 	o	ke	O
 	o	llaboration'	?
 	o	lvo	O
-nd	i	ce	I
-an	di	c	dY
+	o	go	O
+	o	sin	O
 s	o	rro	A
 	o	mmerc	?
 iv	o	t	?
@@ -2814,13 +2990,13 @@ iv	o	t	?
 	o	mot	?
 og	o		O
 	o	ccas	?
-t	o	ns	?
+pp	osi		z?
 	o	ledo	?
 	o	nvicti	?
 nd	o	lp	A
 ^t	o	'	W
-	o	ficienc	?
-	o	mbus	?
+	o	ncei	?
+	o	mpres	?
 w	o	nt	O
 m	o	nty	4
 yn	o	d	?
@@ -2830,10 +3006,10 @@ c	o	mpan	X
 h	o	sp	A
 ri	o	n	?
 ac	o	n	?
-pfr	o		?
+	o	thel	A
 ar	o	ld	?
 c	o	st	4
-mm	o	n	?
+^h	o	ney	X
 m	o	ney	X
 car	o	l	?
 	o	nduct'	A
@@ -2843,6 +3019,7 @@ bs	o	l	?
 	o	no'	O
 ec	o	nd	?
 	o	nfirm	?
+	o	ggl	A
 	i	ano	Y
 	chia	n	c@
 	o	bliv	?
@@ -2857,13 +3034,16 @@ b	o	th'	O
 vi	o	n	?
 d	o	ing	W
 rs	e	na	?
+c	o	ge	O
 	e	nal'	Y
 	adre	na	?drE
+	o	ma'	O
+	o	nfin	?
 ish	o		?
 ^pr	o	p	A
 	o	liti	?
 c	o	na	A
-pr	o	g	O
+t	o	ns	?
 t	o	m'	?
 	o	cl	O
 	o	ba	A
@@ -2884,12 +3064,13 @@ r	o	fi	A
 	o	ncer	?
 athl	o		?
 	o	ntractu	?
-	o	dem	O
+arb	o	n	?
 	o	nclu	?
 h	o	ve	X
 	o	nday	X
-p	o	ly	A
+	o	sa	O
 rd	o	n	?
+	o	tm	A
 mm	o	t	?
 	o	tz'	A
 	o	vic	?
@@ -2904,38 +3085,38 @@ lbi	o		?
 	o	fi	O
 	scho		SO
 ^c	o	mes	X
-	o	duci	?
-ymb	o	l	?
+n	o	lu	?
+	o	tro	O
 ap	o	l	?
 	o	ntri	?
-^d	o	'	W
-rfr	o		?
+	o	gat	?
+	o	nduc	?
 	o	la'	O
 ^	ido	l	9d?
 	o	duce	?
 	o	tu	O
 	o	ppon	?
-g	o	v'	X
+	o	mplexi	?
 rec	o	n	?
 byr	o		?
 	o	mesti	?
 ^	o	nli	4
-nan	o		O
-	o	ntractio	?
+lb	o	t	?
+h	o	ll	A
 	o	gle	O
 	o	nceptu	?
-ll	o	ck	?
+	o	be	O
 ig	o	t	?
 	o	bv	A
 	o	nigh	U
-lc	o	n	?
+	o	mman	?
 ff	o		?
 	o	sch	4
-	o	bservati	A
+	o	ja	O
 	o	llu	?
 	o	llaborativ	?
 	o	llap	?
-	o	nfines	A
+	o	mmem	?
 d	o	ll	A
 ars	o		?
 	o	lish	A
@@ -2945,32 +3126,36 @@ m	o	nk	X
 m	o	th'	4
 ls	o	n	?
 	o	tic'	A
-tt	o	n	?
+	o	ge'	O
 	o	mposin	?
 pr	o	ve	W
 r	o	nt	X
 g	o	'	O
 ^pr	o	vin	?
+	o	nio	O
 reed	o		?
 	o	mbined	?
 	o	ccur	?
-	o	mmuna	?
+sc	o	m	?
+	o	su	O
+r	o	che'	O
 	o	nservatio	A
-^h	o	nda	4
+	o	lv	A
 ^c	o	ntent'	A
 	o	piu	O
-^	o	ven	X
+^	o	s	A
 dm	o	nto	?
 	o	nverte	?
 	o	'cl	?
-	o	sh'	A
-	o	tass	?
+	o	zn	A
+^c	o	ntents	A
 	o	metric	?
 	o	my	?
-	o	mpose	?
+	o	lis	O
 	o	z'	A
 	o	bj	?
-nyb	o	d	?
+alm	o	n	?
+th	o	d	?
 i	o	s	O
 	o	mpeti	?
 ^ap	o		A
@@ -2978,30 +3163,32 @@ i	o	s	O
 nn	o	ta	?
 nn	o	c	?
 l	o	mat	?
-^s	o	ns	X
+ri	o	t	?
 	o	bse	?
 	o	pr	O
 is	o	n	?
 	o	bs	A
-	o	ndole	?
+pr	o	specti	?
 	o	ncess	?
-	o	nwa	A
+	o	thet	?
 c	o	ll	A
 n	o	st	A
 ^f	o	r	4
+pr	o	g	O
 r	o	sco	?
 	o	sph	?
-	o	mplexi	?
-	o	mmem	?
+	o	lla	A
+^b	o	ny	O
 ^m	o	n	A
 pers	o		?
-	ona	tin	On8
+ebr	o		?
 	o	h	O
 m	o	nds	?
 	o	ph	O
 	o	mpil	?
 prot	o		?
 	o	pposin	?
+k	o	c	O
 	o	nk	A
 rr	o	t	?
 	o	mpul	?
@@ -3020,7 +3207,7 @@ pr	o	p	A
 	o	mbines	?
 	o	ce	O
 	o	fa	O
-lb	o	t	?
+	o	mm	A
 	o	nversi	?
 ld	o	n	?
 ^	o	ffen	?
@@ -3028,199 +3215,210 @@ ld	o	n	?
 c	o	nnie	4
 l	o	ny	?
 	o	ffici	?
-	o	go	O
+onc	o	m	?
 	o	ing	O
 	o	pin	O
-	o	nfin	?
-r	o	che'	O
+	o	da	O
+	o	chi	O
 ntr	o	p	?
+m	o	ni	?
 	i	si'	Y
 	arisi		RIZ
-	o	tro	O
-ri	o	t	?
+gr	o	s	O
+	o	nfo	?
 	o	tography	?
-	o	gat	?
-	o	nduc	?
-^c	o	ntents	A
+	o	nsp	?
+arg	o		O
+	o	nath	A
 	o	cia	O
-	o	mpres	?
-	o	ge'	O
+	o	tc	A
+	o	te	O
 c	o	min	?
-	o	mpeted	?
+	oc	h'	Ak
 	o	fe	O
 m	o	ns	?
 r	o	st	A
 	o	nor	O
 	o	ts'	A
-w	o	men	I
+	o	lic	A
 	o	x	A
 	o	tl	A
-	o	be	O
-^h	o	ney	X
-y	o	ne	w?
+	o	pe	O
+rc	o	l	?
+t	o	n'	?
 	o	ca	O
 c	o	nser	?
-	o	sa	O
-s	o	rry	A
-^z	o	e'	OY
-	o	thet	?
+	th	ine	D
+s	o	m	?
+sp	ea	re	Y
+	o	p	A
 p	o	ti	4
-	r	ena	r
-	o	mpute	?
+	o	lumbia'	?
+t'	l		?
 	o	to	O
 	o	natio	O
-	o	lv	A
-	o	lla	A
+tr	o	ni	A
+	o	no	A
 ^r	o	b	A
 	o	ga	O
-th	o	d	?
+b	o	ni	O
 	o	je	A
 	o	d'	A
 	o	tt	A
-n	o	lu	?
+	o	lle'	A
 	o	bi	O
 	o	bt	?
-^b	o	ny	O
-	o	mm	A
-orf	o	l	?
-	o	da	O
+	o	ss	4
+v	o	c	?
+d	o	g	4
+	vv		v
 	o	f	4
-^ham	as		As
+br	o	n	A
+pr	o	t	O
 	o	nit	?
 	o	nten	?
-onc	o	m	?
+nd	i	ce	I
 b	o	d	A
 	o	mpla	?
-eva	r		r
-^	o	s	A
-h	o	ll	A
-	o	pe	O
-rc	o	l	?
+tr	o	t	A
+v	ero		ErO
+uni	c	h	k
+m	o	d	A
+	o	dr	?
 	o	ds	A
 	o	t'	A
-	o	sin	O
+b	o	t	A
 h	o	b	A
 ^int	o	'	W
-arg	o		O
-	o	p	A
+^i	ro		R
+nrea	l	istic'	l
 	o	th'	A
 im	o	t	?
 m	aso		8s?
 s	o	ns	?
 l	o	t	A
-uni	c	h	k
-ebr	o		?
-arb	o	n	?
-	o	chi	O
-	o	ncei	?
+	r	ena	r
+	ch	ol	k
+an	di	c	dY
+hre	d		d
+t	o	s	O
 post	a	g	I
 	ostage		AstIj
 s	o	n'	?
-gr	o	s	O
+r	o	n'	A
 s	o	b	?
-t	o	n'	?
+	iro		IrO
 	o	ths	4
-v	o	c	?
-	ch	ol	k
-s	o	m	?
-	o	thel	A
-	o	te	O
+	ona	tin	On8
+d'	v		?v
+^c	ir		R
+	ri	fi	r?
+	y	spa	9
 c	o	t	A
-	oc	h'	Ak
+	nch		nc
+	o	nr	A
 ps	o		?
 st	age		8j
-^i	ro		R
-	o	no	A
+	m	u	m
+	ch	ia	k
 ant	on		?n
-	o	nath	A
-m	o	d	A
-	o	dr	?
+abb	i	'	9
+dshi	r		R
 	amo	n	?mX
-br	o	n	A
+ca	re		r
+ai	l	e	l
 	o	nc	A
 m	o	nd'	?
 p	o	t	A
-	o	lic	A
+	o	sto	4
 	o	di	O
-d	o	g	4
-h	o	t	A
-ca	re		r
-m	c	l	?k
-	os	b	4z
-	o	ss	4
-^lo	i	s'	?
-dossie	r		8
-b	o	t	A
-	ois	'	wA
-b	o	ni	O
-v	ero		ErO
-^ro	h		!
-	g	las	g
-n	yo		y?
-dshi	r		R
-cust	o		?
-pp	osi		z?
-nrea	l	istic'	l
-	c	ek	c
-hre	d		d
-d	r	ac	r
-	o	mo	O
-ege	d	l	?d
-	ul	k	Xl
-e	x	io	kS
-onda	r		r
-ant	y		Y
-f	or	d	R
-u	n	cle	N
-^	un	c	?n
-	i	ndin	9
-m	c	r	?k
-^	i	dl	9
-e	g	l	g
-rea	l	i	?l
-	y	spa	9
-	m	u	m
-nivers	i		?
 le	m	a	m
-to	ne		n
-c	l	o	l
-ai	l	e	l
-wh	y		9
-	i	gato	?
+h	o	t	A
+s	ch	o	k
+rig	i	n	?
+	os	b	4z
+n	yo		y?
+^lo	i	s'	?
+p	z		s
+ege	d	l	?d
+	ois	'	wA
+ctr	i	n	?
+	for	t'	fR
+rea	l	i	?l
+f	or	d	R
+p	i	nt'	9
+^fle	d	'	d
+cust	o		?
+	y	et	y
+a	h	a	h
+engu	i		?
 now	l		l
-	nch		nc
-	g	ehr	g
+sy	s		s
+m	c	l	?k
+	o	mo	O
+	i	via	I
+	c	ek	c
+e	x	io	kS
+	i	nda'	I
+e	w	sk	f
+forn	i	a	y
+n	i	vers	?
+t	i	dy	9
+ur	i	ne	?
+w	i	v	9
+^p	o	m	A
+	i	phone	9
+al	i	br	?
+st	i	ne'	Y
+	i	ments	?
+d	ot		Ot
+tr	i	ed	9
+om	i	na	?
+^n	i	co'	Y
+nivers	i		?
+m	c	i	@k
+to	ne		n
+ob	i	ns	?
+ou	i	se	Y
+^pr	om		Am
+	i	est'	Y
+	i	gato	?
+c	l	o	l
+	i	ndli	I
+^	f		f
+^h	i	'	9
 	i	moto	Y
-rph	i	ne	Y
-	ch	ia	k
-^ber	l		l
+ph	i	ne	Y
+	y	pn	I
+mul	i		9
 re	i	ns	I
-mn	i	s	n?
+er	i	ne	Y
 sl	a	mis	?
 	sla	mi	zlA
 b	i	ology	9
-m	i	nal	?
-earb	y		9
+dr	i	ed	9
 rg	i	ns	?
-	i	via	I
+k	i	los	Y
 gl	i	a	Y
 sual	i	za	?
 ^h	i	v	9
 ph	i	'	9
-is	i	b	?
+	i	festo	I
 el	i	c	I
 ^r	i	can'	Y
-ob	i	ns	?
-d	i	ve	9
+^tr	i	'	9
+m	i	mi'	Y
+	fi	ed	f9
 s	i	nai	9
 lill	i	a	Y
 ^visibil	i		I
+em	i	l	I
 t	i	ga	I
 	i	miz	?
-d	i	llac	?
+tt	i	tu	?
 	i	trog	9
 oll	i	er	y
-^n	i	co'	Y
+crut	i		?
 	i	ry	9
 	i	king	9
 ham	i	l	?
@@ -3228,30 +3426,31 @@ escr	i	b	9
 ^	i	'	9
 ss	i	b	?
 	i	ring	9
-p	i	cy	9
+	i	fl	9
 d	i	ving	9
-cr	i	e	9
+	i	llio	I
 rgin	i	a	y
-rig	i	n	?
+l	i	p	I
 nad	i	ne	Y
 t	i	ned	I
-	i	zen	I
+ssass	i		?
 r	i	go'	Y
-	i	mis	?
+s	i	kh	Y
 ^br	i	an'	9
 ^d	i	ed'	9
+ef	i	a	9
 ot	i	f	Y
-sub	i	s	Y
+f	i	j	Y
 t	i	sta	Y
-forn	i	a	y
+orab	i		Y
 	i	nent	?
 	i	mate	?
-	i	nase	9
+^p	i	'	9
 	i	mp	I
-batm	a		@
+	i	gati	?
 am	i	na	?
-ef	i	a	9
-lgr	i	ms	?
+	i	ges	9
+	i	mary	9
 rd	i	nal'	I
 eterm	i		?
 d	i	nal	?
@@ -3268,13 +3467,13 @@ k	i	ped	Y
 lim	e	n	E
 l	ime		9m
 r	i	ol	Y
-k	i	los	Y
-w	i	v	9
+st	u	c	X
+l	i	vel	9
 r	i	ven	I
 arad	i	s	9
 ndar	i	n	?
-	i	mburs	I
-	i	mary	9
+	i	mbu	I
+^d	i	e'	9
 r	i	cin	9
 	u	cch	W
 s	u	cc	?
@@ -3288,7 +3487,7 @@ cc	i	d	?
 	i	ndly	9
 	a	tino	A
 ^p	at	i	@t
-	t	io	S
+rgu	i		yWI
 ^exam	i	ni	I
 	i	vid	I
 mar	i	o'	Y
@@ -3299,45 +3498,47 @@ c	i	pat	?
 	i	stiano	Y
 ap	i	t	I
 	i	ta'	Y
+mn	i	s	n?
 a	smi		zmI
-abb	i	'	9
+sc	i	ple	9
 ^k	i	nd'	9
 w	i	ld	9
 ax	i	m	?
 ew	i	nd	9
 ns	i	b	?
 b	i	nary	9
-cab	i	n	?
+and	i	t	?
 n	i	lat	?
 	i	kon	9
-tr	i	ed	9
+	i	sexu	9
 osp	i	c	?
-t	i	dy	9
+rr	i	o	Y
 t	i	min	9
-im	i	l	?
+d	i	ve	9
 ^l	i	es'	9
 ot	i	va	?
 	i	que'	Y
 or	i	c	I
 max	i		Y
 	i	llenniu	?
-	i	vilia	?
-	i	ami	9
-rm	i	nat	?
+^p	i	o	9
+lnsh	i		I
 rt	i	z'	Y
 yr	i	l'	?
 c	i	nat	?
 	i	max	9
-^b	i	'	9
+od	i	c	I
 	i	bly	?
 er	i	o	Y
 yl	i	nders	?
 ^v	i	v	Y
 ut	i	ny	?
 	i	tun	9
+pl	i	e	9
 ^f	i	nit	9
 maur	i	c	Y
-em	i	l	I
+	i	la'	I
+aust	i	n'	?
 	i	nfo	I
 ^b	i	so	9
 in	i	ne	?
@@ -3347,10 +3548,10 @@ h	i	nd'	9
 ns	e	ll	?
 wn	se		z?
 	i	ew	y
-ou	i	se	Y
+^	i	dl	9
 st	i	ny	?
 ^mil	i	tary	I
-^tr	i	e	9
+	i	nase	9
 ^c	i	ta	9
 essibil	i		I
 h	i	ny	9
@@ -3359,13 +3560,17 @@ os	i	s	?
 ind	i	ca	?
 acc	i		Y
 	i	cult'	?
+urr	i	ca	?
 m	i	tin	?
 	i	um	Y
 pract	i		I
+p	i	cy	9
 t	i	tr	9
 b	i	ble	9
-	i	ldre	I
-mul	i		9
+^ph	i		I
+sk	i	es	9
+	i	fin	9
+k	i	nds	9
 ^	i	v	9
 ^n	i	ce	9
 m	i	nd	9
@@ -3389,15 +3594,16 @@ ud	i	c	I
 ef	i	t	I
 f	i	cat	?
 w	i	li	9
-	i	taria	?
-ch	a	pel	@
+al	og		4g
+	i	nati	?
 arl	i	ns	?
 ec	i	ta	9
 r	i	mari	9
 	i	plinary	?
+	i	ndin	9
 	u	lnerabl	X
 	ul	ne	?l
-ssass	i		?
+sub	i	s	Y
 nus	u		w
 ^ed	i	t	I
 rg	i	l'	?
@@ -3405,18 +3611,18 @@ us	u		?w
 p	i	dem	I
 s	u	an	W
 	ua	nc	WA
-^d	i	e'	9
+s	u	als	w
 v	i	l'	?
 	i	ment'	?
 v	i	den	I
 gent	i	ne	Y
 sibil	i		?
-ur	i	ne	?
-pl	i	e	9
+umn	i		9
+vor	i	t	I
 bel	i	z	Y
 s	u	ali	w
 s	u	all	w
-s	u	als	w
+equ	i	ty	?
 is	u	a	?w
 as	u	a	w
 	sua		sw8
@@ -3424,7 +3630,7 @@ as	u	a	w
 f	i	nal	9
 dr	i	v	9
 x	i	ma	?
-epr	i	v	9
+^sent	i		?
 ouven	i		I
 	i	pad	9
 tam	i	n	?
@@ -3440,18 +3646,20 @@ k	i	wi	Y
 opt	i	ma	?
 im	i	na	?
 chr	i	st'	9
-^om	a	n	A
-o	ma	n'	m?
+v	i	v	9
+^b	i	'	9
 	i	ox	9
 rt	i	n's	?
 rt	i	ne	Y
 	i	fes	?
-p	i	ou	9
+im	i	l	?
 x	i	c	I
-ad	i	m	?
+	i	tatin	?
 	i	lep	?
+	i	taria	?
+^tr	i	e	9
 r	i	bal	9
-^p	i	o	9
+^ret	i	na	?
 m	i	ld	9
 est	i	m	?
 t	i	gu	Y
@@ -3474,9 +3682,9 @@ d	i	ta	?
 aul	i	ne	Y
 l	i	noi	?
 n	i	nth	9
-	i	gati	?
+	i	tis'	9
 	i	llesp	?
-	i	ges	9
+	u	lou	y?
 rr	i	l	?
 stal	i	n'	?
 cons	i		I
@@ -3491,25 +3699,26 @@ cl	i	v	9
 igu	i	t	yW?
 	i	ness	Y
 ^l	i	e'	9
-s	i	kh	Y
-penc	i		?
+^min	i	mum'	?
+	i	form	?
+	i	vilia	?
 ^b	i	o	9
-l	i	vel	9
+muff	i		?
 ^t	i	es	9
 is	i	t	I
-tt	i	tu	?
+	i	ldre	I
 	i	tera	I
 ^d	i	es'	9
-n	i	vers	?
+is	i	b	?
 	i	sitio	?
 enal	i	ne	?
-	i	phone	9
-	u	lou	y?
+	i	bert	I
+ub	i	l	?
 tr	i	gu	Y
 ^prom	i		?
 	i	mam'	9
-er	i	ne	Y
-r	i	mal	9
+gno	s		s
+	ose	d	Oz
 gr	i	nd	9
 b	u	la	y?
 	abu	l	AbU
@@ -3529,218 +3738,221 @@ r	i	nat	?
 b	i	nd	9
 l	i	ner	9
 	i	ping	9
-	i	ments	?
-and	i	t	?
-urr	i	ca	?
+rt	i	f	?
+ch	i	ld	9
+	i	lat	9
 ir	i	u	I
-hr	i	v	9
+cab	i	n	?
 r	i	day	9
 b	i	tan	I
-	i	sexu	9
+	y	u	y
 n	i	tra	9
-rr	i	o	Y
-orab	i		Y
+str	i	butio	?
+n	i	ted	9
 	i	ntesti	I
-k	i	nds	9
+ad	i	m	?
 b	i	o	Y
 tr	i	v	9
-oh	i	o	9
+^m	i	ni'	I
 m	i	di'	Y
 ^t	i	e'	9
 am	i	ne	?
-lnsh	i		I
-p	i	nt'	9
-	i	tatin	?
+hr	i	v	9
+st	i	tu	I
+eumon	i		y
 f	i	at	9
 fl	i	e	9
 f	i	o	Y
 d	u	ly	W
 r	u	ly	W
 	uly		Wl9
-f	i	j	Y
+ec	i	se	9
 	i	deous	I
 en	i	m	?
 xam	i		?
 p	i	nal'	9
-vor	i	t	I
+cr	i	e	9
 er	i	ve	9
 br	i	tn	Y
 lar	i	t	?
-	i	nati	?
-st	i	ne'	Y
+epr	i	v	9
+tok	y		Y
 	y	se	9
 	i	o'	Y
-	i	est'	Y
-^min	i	mum'	?
-	i	form	?
-d	eny		In9
-	i	nos	Y
-v	i	v	9
-n	i	ma	?
-rel	i	es	9
-str	i	butio	?
-	i	tis'	9
-^compl	i		?
-engu	i		?
-mpl	i		I
-g	i	nin	?
-rgu	i		yWI
-dr	i	ed	9
-stil	i		?
-k	i	nder'	9
-umn	i		9
-ctr	i	n	?
-nf	i	d	?
-rt	i	f	?
-^p	i	es	9
-equ	i	ty	?
-n	i	ve	9
-^tr	i	'	9
-m	i	mi'	Y
-sc	i	ple	9
-al	i	br	?
-^tox	i		?
-muff	i		?
-^sent	i		?
-	i	nas'	Y
-	i	ndsi	9
-e	r	if	r
-aust	i	n'	?
-^m	i	ni'	I
-crut	i		?
-n	i	ted	9
-	i	ma'	Y
-ub	i	l	?
-r	i	o	9
-^ret	i	na	?
-t	i	mum	?
-	t	heir	D
-	i	lo'	9
-t	i	c	I
-	c	p	?k
-rr	y		Y
-sk	i	es	9
-gr	i	ma	?
-	i	lat	9
-	ri	fi	r?
-	i	nary	?
-	agi	na	?j9
-i	r	a'	r
-t	i	met	?
-mbr	y		Y
-	t	kins'	t
-umpi	r		R
-	y	ke	9
-	r	sai	r
 hlor	i	n	Y
 	i	tes'	9
 h	ite		9t
-	ite	m	9t?
-ch	i	ld	9
-bal	k	a	lk
-ec	i	se	9
-	en	ess	n
-	y	mer'	?
-	y	k	I
-nsate	d		Id
-p	io		Y?
-iefl	y		Y
+d	eny		In9
+	i	nos	Y
+	i	lo'	9
+n	i	ma	?
+rel	i	es	9
+l	y	l	9
+fai	r		r
+^compl	i		?
+p	i	ou	9
+mpl	i		I
+g	i	nin	?
+^	i	te	9
+earb	y		9
+stil	i		?
+k	i	nder'	9
+	t	io	S
+	y	de	9
+nf	i	d	?
+m	y	t	I
+^p	i	es	9
+ff	y		Y
+n	i	ve	9
+	y	ar	y
+r	i	mal	9
+wh	y		9
+^dr	y		9
+^tox	i		?
+^sp	y		9
+	s	urf	s
+	i	nas'	Y
+	i	ndsi	9
+d	i	llac	?
 hr	y	sl	9
+i	r	a'	r
+cup	y		9
+	c	p	?k
+	i	ma'	Y
+	es	ur	Ez
+r	i	o	9
+iefl	y		Y
+t	i	mum	?
+onda	r		r
+	r	sai	r
+t	i	c	I
+bea	d		d
+rr	y		Y
+re'	l		?
+gr	i	ma	?
+bal	k	a	lk
+	i	zen	I
+	i	nary	?
+	agi	na	?j9
+^m	y	'	9
+t	i	met	?
+mbr	y		Y
+	y	ne'	9
+	y	ri	I
+	y	ke	9
+	y	te'	9
+w	y	n	I
+	y	nd	I
+ull	y		Y
+ar	y	l	?
+'o	r		r
+l	u	enz	W
+l	y	i	9
+lgr	i	ms	?
+	es	u	Yz
+	y	k	I
+ech'	s		s
+p	io		Y?
+rt	y		Y
+bur	g		g
 	y	ll	I
 r	y	o	9
-	y	pn	I
-'o	r		r
-nn	y		Y
+onst	i		?
+l	u	enti	W
+hbr	u		?
 ramo	s		s
 	amos		8m?s
-e	r	ebr	r
+o	g	in	g
 ^sl	y		9
-ff	y		Y
-rc	u	m	?
-^sp	y		9
+t	ys		9s
+r	g	e'	j
+	u	stai	?
 c	u	in	yW
 c	ui		?
-^dr	y		9
+	g	oo	g
 	u	ir	w
 r	equ	i	Ekw
-andb	y		9
-	y	ar	y
-cup	y		9
-	y	pt	I
-m	y	t	I
-fl	y		9
+	g	ir	g
+m	c	r	?k
+t	l	ey	l
+	en	ess	n
+c	l	ed	?l
+ui	g	i	Yj
 nd	y		Y
-	s	urf	s
-ei	g		g
-b	l	er	l
-	y	u	y
+	u	tter	X
+	n	ero	n
+	n	ck	N
+	u	nctuati	?
+	u	ndef	?
 ^	y		y
-^	x		z
-ar	y	l	?
-m	c	i	@k
-	es	ur	Ez
-	es	u	Yz
-re'	l		?
-l	u	enti	W
-l	u	enz	W
+mm	u	nitio	y?
+riq	u		8
+e	g	l	g
 fl	ue		W?
-	y	de	9
-^m	y	'	9
+	y	mer'	?
+kb	u	s	?
+ht	u		?
+	g	aw	g
+e	g	er	g
+	s	k	s
+p	u	ll	U
 d	l	'	?l
-gno	s		s
-	ose	d	Oz
-h	u	mi	yW
-	y	ri	I
-a	h	a	h
-o	g	in	g
+	y	pt	I
+fl	y		9
+l	y	e	Y
+	u	ltivatio	?
+^	u	ndi	?
+i	g	er'	g
 	og	i	Aj
-	g	oo	g
-ull	y		Y
-rt	y		Y
-n	s	v	z
-t'	l		?
-l	y	i	9
-	s	ang	s
-am	c		k
+m	u	le	yW
 	g	ear	g
+	u	bul	W
+^p	l	e	l
+	u	nfair'	4
+	u	ndermined	?
+c	u	ad	w
+	u	berty	yW
+agn	u		?
 ps	u	l	?
-tok	y		Y
+etch	u		?
 rb	u	l	y?
 b	u	le	yW
-	s	k	s
-bur	g	e	g
-'ti	s		z
+	u	ania	?w
+r	s	ed	s
+^dr	u	m	X
+	u	co	W
 b	u	sch'	U
-g	s	e	s
+ej	u	d	?
 op	u		y?
 	ul	e	Wl
-ui	g	i	Yj
+	u	nderwen	?
 val	u		yW
 lb	u	m	?
 f	u	s'	?
-c	l	ed	?l
-	u	bsidia	?
-	n	ck	N
-^p	l	e	l
+'ti	s		z
+b	u	rial	E
+ec	u	t	yW
+ei	g		g
+	n	ct	N
 d	u	at	W
 	u	w	W
-^	u	np	?
-	u	berty	yW
-r	g	e'	j
-c	u	tt'	?
+^q	u	e'	yW
+	u	ru'	W
+t	u	die	X
+^t	u	ition'	yW
 	u	stee	?
-riq	u		8
-	u	ndergo	?
+d	u	ty	yW
+	u	nid	?
 g	u	nm	X
 	u	ngra	?
 lab	u		?
-ntaneo	u		?
+rc	u	m	?
 m	u	s'	?
-rg	u	s	?
+ll	a	s	?
 	u	ra'	U
-r	u	s'	?
-	u	teru	yW
 k	u	b	yW
+	u	teru	yW
+ic	u	lture	?
 p	u	la	y?
 nfl	u		?
 	u	ltz	U
@@ -3749,34 +3961,34 @@ andf	u		U
 g	u	ab	yW
 	u	nim	?
 	u	ctuati	?
-	u	nderly	?
+r	u	p'	?
 	u	kra	yW
 	u	nv	?
 d	u	nde	?
 p	u	te	yW
-m	u	nd'	?
+f	u	ry	yU
 	u	ndes	?
 ab	u	ses	yW
-^q	u	e'	yW
-	u	nfair'	4
+nkr	u		?
+br	u	t	W
 	u	ltic	?
 	qu	e'	k
-d	u	ty	yW
-^	u	nl	?
+h	u	ge	yW
+rg	u	s	?
 ib	u	to	y?
 n	u	p	?
-ll	a	s	?
+	u	su	yW
 	u	pplemente	?
-	u	ltie	?
-m	u	da	yW
+^	u	ns	?
+m	u	nd'	?
 ^f	u	ll	U
-	u	nid	?
+	u	nderstan	?
 	u	specte	?
 z	u	ri	U
 tc	u		?
-	u	gat	?
-^	u	nf	?
 c	u	ate'	y?
+^	u	nf	?
+	a	sch	@
 	u	bdu	?
 l	a	sc	A
 ol	as		?s
@@ -3787,98 +3999,100 @@ ttrib	u	ted	y?
 fic	u		?
 p	u	ddi	U
 rk	u		?
-d	u	al	W
+	u	blim	?
 	u	phol	?
-nnoc	e		?
+	u	ffic	?
 p	u	t'	U
 	u	ltil	?
 	u	nati	W
 ob	a	ll	?
 b	ally		@lY
 	ll		l
-n	ovel		Av?l
+	u	ou	yW
 	li	ma	l9
 	l	ess	l
 ^	earl		Rl
+r	u	s'	?
 e	ril		r?l
 	i	liz	?
 	li	ed'	l9
-oc	al		?l
+	i	mati	?
 	lo	ve	lX
 s	tl	e	?l
 en	el		?l
 r	l	es	l
 d	u	nh	X
-	u	nu	?
+	u	bsidia	?
+	u	ndergo	?
 d	u	s'	?
 c	u	s'	?
 bs	e	que	?
 s	eque	nt	?kwE
 d	u	l'	W
 g	eles		?lIs
-kb	u	s	?
+	u	fu	W
 ser	u		?
-p	u	ts	U
-ob	el		?l
+c	u	ti	yW
+f	u	me	yW
 ndoc	u		y?
 ^ven	u	e'	yW
 	u	br	W
 s	u	s'	?
 ^	u	po	?
-mm	u	nitio	y?
+cc	u	p	y?
 	u	mbai	U
 rc	u	t	?
 c	u	bs	X
-	u	blicit	?
-	u	ltivatio	?
-rg	u	ndy	?
+	u	nh	?
+^om	a	n	A
+o	ma	n'	m?
 	u	ja	yW
-	u	nway	X
+n	u	m'	?
 e	u	ni	W
 	u	pplie	?
 g	u	pta	U
 	u	ri'	U
-	u	ndercov	?
+	u	sef	yW
 h	u	go	yW
 	u	ctivi	?
-r	u	p'	?
-f	u	ll	?
+^	u	nl	?
+oc	al		?l
 	u	ppr	?
 p	a	blo	A
 	a	blo	@
 d	ia	b	9?
-agn	u		?
+c	ub		yWb
 	u	pi	W
 ck	u		?
-	u	bstitutio	?
+c	u	e	yW
 k	u	s'	?
 s	u	la	?
 	u	nw	?
-b	u	rial	E
+	u	nni'	W
 b	u	ta	y?
 	u	sag	yW
 ound	u		?
-f	u	me	yW
+t	u	i	W
 b	u	tc	U
 	u	bma	X
 p	u	a	yW
 ^r	e	my	E
 	re	my	r?
 je	re		rI
-en	u	'	yW
+tg	u		?
 	u	perb'	U
 	u	nderstoo	?
 tcl	u		?
 n	u	men	yW
-	u	su	yW
+^	u	be	yW
 	u	cy	W
 r	u	r	U
 	u	bcon	?
-l	u	ral'	U
+	u	bj	?
 ns	u	l'	?
 c	u	sh	U
 pl	u	s	X
-	u	ndermined	?
+	u	gat	?
 	u	ndue	?
 	u	spen	?
 ^	u	nr	?
@@ -3888,9 +4102,9 @@ w	a	v	8
 	ave	ri	@v
 	e	ssa	E
 t	ere	s	rI
-^t	u	ition'	yW
+c	u	tt'	?
 	u	hr	U
-	u	ou	yW
+	u	pa	W
 ar	u		W
 dd	a		?
 	a	ck	@
@@ -3899,17 +4113,17 @@ mat	a		?
 	ata	b	8t?
 	u	ppo	?
 	u	fe	W
-^	u	ndi	?
-	u	ania	?w
+	u	nderway	?
+tit	u		W
 tt	u	c	?
 	u	ltime	?
 f	u	l'	?
-rr	u	n	?
+m	u	da	yW
 	u	ak	w
 d	u	rabl	U
-ld	u		?
+rg	u	ndy	?
 ^h	u	be	yW
-b	u	sh	U
+d	u	al	W
 ^n	u	t'	X
 	u	nm	?
 p	u	k	yW
@@ -3922,13 +4136,13 @@ k	u	shi	W
 r	u	ma	W
 r	u	z	W
 d	u	des	yW
-	u	fu	W
+ld	u		?
 mos	u		?
 f	u	g	yW
 d	u	nno	?
 	u	ther	X
-c	u	b'	X
-c	ub		yWb
+l	u	s'	?
+ol	u	t	W
 	u	xuri	?
 rm	u	latio	yW
 ng	u	l	gy?
@@ -3936,7 +4150,7 @@ ng	u	l	gy?
 	u	burba	?
 ^	u	nt	?
 g	u	t	X
-ec	u	t	yW
+c	u	a	y?w
 t	u	ni	W
 	u	na'	W
 	u	nit	yW
@@ -3948,7 +4162,7 @@ b	u	k	yW
 f	u	si	yW
 	u	nju	?
 	u	stratio	?
-	u	sel	yW
+	up	r	Wp
 r	u	sso	W
 	u	til	yW
 atch	u		?
@@ -3956,12 +4170,13 @@ atch	u		?
 d	u	m'	?
 	u	pe	W
 rm	u	l	y?
+sp	u	t	yW
 ng	u	s	gI
-	u	blim	?
-	a	hom	?
-etch	u		?
+	u	stific	?
+s	u	sh	W
+	u	bstitutio	?
 m	u	ni	yW
-tg	u		?
+	u	lgari	?
 g	u	me	y?
 	e	ficits	E
 	efici		Ef?s?
@@ -3969,7 +4184,7 @@ uli	u		?
 neli	u		?
 	iu	s	YI
 	i	u	y
-	u	nderwen	?
+	u	bm	?
 scond	u		?
 qu	a	rt	4
 	uar	t	WR
@@ -3979,28 +4194,30 @@ hab	it		?t
 	u	ndane	?
 ^	u	ndo	?
 mm	u		yW
-tit	u		W
-	u	co	W
-ht	u		?
-t	u	i	W
+f	u	ll	?
+	u	lminatio	?
+	u	nderly	?
+	u	ci	W
+t	u	m'	?
+	u	nesc	yW
 h	u	mo	yW
-f	u	ry	yU
+en	u	'	yW
 	u	nin	?
 m	u	la'	yW
-	u	lminatio	?
+b	u	sh	U
 p	u	s	U
-	u	nni'	W
+im	u	l	y?
 	u	blicat	?
-h	u	ge	yW
+dl	u		?
 ng	u		gw
 mp	e	tu	?
 	etu	s	Yt?
-p	u	ll	U
+	u	nio	yW
 	u	zuk	?
 	u	ce	W
-nessm	a		@
-t	u	die	X
-	u	nderstan	?
+	u	ndertoo	?
+h	u	mi	yW
+^rev	e	re	I
 b	u	ll	U
 t	u	rin'	U
 	tur	i	cR
@@ -4010,17 +4227,18 @@ dr	u	m	?
 	er	ed	R
 th	ere		Er
 ^	ther		TR
-r	ei	n'	8
+rib	u		yW
 	th	er	D
 arm	u		?
 t	u	s'	?
+^h	u	n	X
 n	s	o	s
 	sour		s#R
 	ou	rs	4
 	our		R
-	u	ffic	?
+c	u	me	yW
 od	u	l	?
-	u	lgari	?
+	u	no'	W
 	u	rie	E
 	u	ndam	?
 k	u	p	?
@@ -4030,76 +4248,79 @@ j	u	dy	W
 ^	u	na	?
 	u	lat	y?
 	u	by	W
-dl	u		?
+b	l	er	l
 	u	pplementa	?
 u	u		?
-	u	nderway	?
+	u	bsc	?
 p	u	tation'	y?
 	u	siv	W
-s	u	sh	W
+	u	mo	W
 d	u	p	W
 	upo		yWp4
-hbr	u		?
-ic	u	lture	?
-im	u	l	y?
-t	u	m'	?
+trange	s		Is
+	u	nu	?
+l	u	stra	?
+	u	tu	yW
 ta	tu		cW
 or	tu		cW
 d	u	rat	U
-	u	stai	?
+fe'	s		s
+^	u	np	?
 ake	u		?
-c	u	ti	yW
-	u	bj	?
+^	u	ne	?
+bod	y		Y
 	e	ric	E
-	u	sef	yW
+	s	ek'	s
 	u	sio	W
 	us	i	yWz
 r	u	dy	W
-cc	u	p	y?
-nkr	u		?
-c	u	e	yW
-	u	ndertoo	?
-	u	nh	?
-l	u	s'	?
-rib	u		yW
+	u	me	W
+	u	o	w
+	e	rely	I
+g	s	e	s
+cr	y	'	9
+	u	sel	yW
+	g	am	g
 ^	u	ni	yW
-n	u	m'	?
+	e	scap	I
 g	u	i	!
-	u	pa	W
-^	u	ns	?
-^m	a	nn	@
+ntaneo	u		?
+	y	ter	I
+h	e	f	E
+nc	e	st	E
 r	ime	r	9m
 gen	er		R
 mp	u	t	yW
 	u	biq	yW
 	u	lar	y?
 l	ul		Wl
-	u	mo	W
+lui	d		Id
 c	u	la	yW
-	u	ndef	?
-l	y	e	Y
-	n	ct	N
-l	u	stra	?
-	m	cf	m?
-nc	e	st	E
+icem	e		I
+ndrai	s		s
+	e	vale	E
+^ten	s	ions	c
+te	g	ie	?j
+n	u	a	yW
 c	e	st	I
 oi	ce		s
 	u	ing	W
-	u	nesc	yW
+umpi	r		R
 	u	ltiplic	?
-	u	no'	W
-c	u	ad	w
-g	h	or	h
-z'	s		Iz
-bb	y		Y
-	u	tu	yW
-l	y	l	9
-	u	o	w
+	g	ehr	g
+	e	mbodied	I
+rr	u	n	?
+	s	de	s
+	e	ceptors	?
+	e	nea	I
+^ti	s	'	z
+toma	s	'	s
+rf	e	ri	I
 	e	dc	E
-c	u	me	yW
-c	u	a	y?w
-^	u	be	yW
-ej	u	d	?
+s'	s		Iz
+smo	s		s
+	s	eman	s
+y	s	io	z
 ho	me		m
 	ome	t	Am?
 c	o	me	?
@@ -4107,32 +4328,35 @@ c	o	me	?
 t	hom		Am
 	o	ma	O
 ^str	o	m	A
-sc	o	m	?
+r	e	ml	E
 nd	o	m	?
 str	o	m	?
 u	l		l
-ndrai	s	i	s
+r	e	sh'	E
 cau	s		z
-^fle	d	'	d
+	m	cf	m?
+	n	c'	N
 rp	e	n	?
-ah'	s		z
-	g	am	g
+r	e	der	E
+	e	rrati	I
+v	e	ga'	8
 	s	uan	s
-smo	s		s
 i	s	ney	z
-^hitm	a		@
+	e	merg	I
 d	e	vel	I
 	eve	l	Ev?
-fe'	s		s
-	s	ek'	s
-trange	s		Is
-o	s	i'	s
+	s	ang	s
+g	e	dy	?
+^w	e	d	E
+	e	xpo'	E
 ^n	e	s	E
-cr	y	'	9
+^z	e	l	E
 omp	e	l	E
-	s	de	s
-lui	d		Id
-y	s	io	z
+l	e	c'	I
+^n	e	l	E
+^k	e	l	E
+^p	e	titi	?
+	e	grat	?
 d	e	mna	?
 	ondemn		?ndEm
 	emna		Emn?
@@ -4142,30 +4366,30 @@ n	o	n	?
 el	o	n	?
 ss	o	n	?
 	o	nb	A
-ch	eo		?
+r	e	fer'	I
 e	do	n	d?
-un	a	mi	A
+^d	e	ns	E
 n	s	ey	z
-s'	s		Iz
+nnoc	e		?
 ^	e	xte	I
 	e	nia	Y
 	e	gain'	I
 ^f	e	n	E
-icem	e		I
-eg	e	nd	?
+n	e	lla	E
+j	e	sty	?
 ten	e	s	?
-e	g	er	g
+r	e	ssl	E
 nvern	e		E
 n	e	ss	I
 	dne	s	n
 yn	es		z
-a	s	ma	z
+	u	ndercov	?
 gr	e	n'	E
-toma	s	'	s
+it	e	m	?
 d	e	di	E
 d	e	d	I
 ^si	de		d
-ui	de		d
+	e	ncore	A
 d	eb	a	?b
 gl	e	n	E
 	e	siz	I
@@ -4174,21 +4398,21 @@ unl	e	s	E
 	e	gn	E
 ^lam	e	n	E
 	e	claratio	E
-f	e	n'	?
+ans	e	n	?
 	e	gga	E
 ^z	e	n	E
-n	e	o	Y
-d	e	scr	I
-d	e	cr	I
+	e	mic	E
+t	e	nsi	E
+	e	xpressl	E
 	e	matog	I
 	a	ttac	?
 ^	att		@t
 wick	e	d'	?
 '	e	m	?
-ng	e	la	?
+	e	tto	E
 ^ch	e	'	8
 c	e	nic	Y
-wh	e	n'	I
+wh	e	n	E
 	e	cenc	Y
 ^	e	co	Y
 mpr	e	hens	Y
@@ -4200,19 +4424,19 @@ tel	e	c	?
 	a	cul	@
 i	ra	c	r?
 b	e	f	I
-	e	cog	E
+ui	de		d
 ^giv	e	n'	I
 	e	torica	I
 cum	e	nt'	E
 abet	e		Y
 t	es	'	s
 nsa	te		t
-nipula	te		t
-d	e	con	Y
+	e	xpert	E
+n	e	lle	E
 en	e	n	?
 cel	e	t	I
 	e	cam	Y
-	e	sea	Y
+^b	e	ns	E
 	e	nza	E
 h	e	z	E
 nak	e	d	?
@@ -4221,7 +4445,7 @@ nforc	e		!
 parc	e		?
 lymphom	a		?
 om	as	'	?s
-	e	pea	I
+nipula	te		t
 	e	ques	I
 d	e	cor'	I
 	e	lev	E
@@ -4230,20 +4454,20 @@ z	e	ro	I
 s	e	le	?
 k	e	ll'	?
 app	e	l	?
-d	e	g	I
+	e	ffec	I
 ^s	e	n	E
 	e	xplanati	E
 p	e	dro	8
 ^ev	e	n'	I
-gu	e	st	E
+ch	e	ll'	?
 r	a	je	?
 r	aj		AZ
 ^k	e	n'	E
-ff	e	l	?
-r	e	sn	E
+pr	e	v	Y
+d	e	scr	I
 zz	e	l	?
 dw	e	s	E
-	e	xposit	E
+gu	e	st	E
 	e	ncyc	I
 b	e	g'	E
 	e	ncy	?
@@ -4252,22 +4476,23 @@ ick	e	l	?
 a	ge	n	g?
 ^w	age		8j
 ^l	e	t	E
-l	e	tt'	I
-	ifle		9f?l
+l	e	tt	I
+^t	e	s	E
 ^r	e	s'	8
 	e	sponder	I
 unn	e	l	?
+	e	cc	E
 ^r	e	ste	E
-nn	e	ll'	?
+nn	e	ll	?
 	e	tti'	E
 ^	e	stat	I
-nessm	e		E
+	e	cog	E
 ann	e	l	?
 lan	e	t	?
 	e	llat	?
 ^b	e	'	Y
 	e	nes'	Y
-pplem	e	nts	E
+bo	ne		n
 	e	diu	Y
 ^h	e	n	E
 mpr	e	hend'	Y
@@ -4316,7 +4541,7 @@ tt	e	l'	?
 att	e	st	E
 jar	e		I
 bs	e	n	?
-^	e	n'	E
+d	e	cr	I
 r	e	tary	?
 ump	e	t	?
 ^	e	re	I
@@ -4325,29 +4550,30 @@ r	e	por	I
 r	e	tin	E
 c	e	lo	I
 sv	e	n	E
-	e	rrati	I
-	e	crea	E
+ht	e	n	?
+f	e	n'	?
 t	e	vie	Y
 ool	e	st	I
 	e	riodicall	Y
 	e	xcer	E
-kob	e	'	8
+^h	e	t	E
 mm	e	nt	E
 r	e	fers	I
 	e	cutio	?
-	e	rely	I
+r	e	ps	E
 t	e	nti	E
 uv	e	n	?
 	e	lieva	?
-vert	e	n	?
+d	e	nti	E
 av	e	nu	?
 ist	e	nt	?
 	e	xpectat	E
 c	e	ntl	?
 all	e	g	?
 mperf	e	ct'	I
+	e	nna	E
 	e	store	I
-r	e	g'	E
+^n	e	gro	Y
 gadg	e		?
 orm	e	n	E
 	e	pt	E
@@ -4368,14 +4594,14 @@ rrespond	e		?
 '	e		E
 r	e	no'	Y
 lic	e	n	?
-d	e	mar	I
+ck	e	ns	?
 	e	xports	E
 	e	re'	I
 ^p	e	n'	E
 ^b	e	d'	E
 k	e	tt'	I
 an	e	n	?
-	e	hr	E
+ff	e	l	?
 ist	e	ria	Y
 	e	ncoun	I
 ^	e	la	I
@@ -4385,12 +4611,12 @@ v	e	n'	?
 b	e	ne	E
 	e	npo	?
 s	e	tt'	I
-	e	stor	E
-^w	e	d	E
+eg	e	nd	?
+ph	e	n	?
 d	e	ces	?
 r	e	th'	I
 	e	pair	I
-elm	e	t	?
+	e	sea	Y
 h	e	rish	E
 l	e	nce	?
 l	e	ts'	?
@@ -4398,8 +4624,8 @@ l	e	ts'	?
 	e	scrip	?
 	e	nau	I
 	e	xploi	E
-r	e	v'	E
-j	e	sty	?
+nessm	e		E
+	e	pea	I
 	e	mia	Y
 	e	noun	I
 l	e	ntl	?
@@ -4410,7 +4636,7 @@ t	e	rro	E
 	e	sper	E
 	e	xplorati	E
 	e	tray	I
-z	e	ki	I
+n	e	o	Y
 c	e	ne	Y
 	e	mova	I
 r	e	sin	E
@@ -4427,7 +4653,7 @@ r	e	mb	E
 	e	ndat	?
 	e	dicta	I
 or	e	st	I
-r	e	fer'	I
+el	e	ti	Y
 m	e	nt'	?
 ph	e	m	?
 	e	freshed	Y
@@ -4437,13 +4663,16 @@ v	e	t	E
 ^d	e	n'	E
 z	e	n	?
 ^r	e	fr	I
+	e	sq	E
 	e	liu	Y
 ^ch	e	s	E
-	e	ffec	I
+cr	e	s	E
+d	e	con	Y
 rc	e	na	?
 s	e	n'	?
 hor	se		s
 ^ei	se		z?
+pplem	e		E
 	e	hic	Y
 r	e	fe	E
 tt	e	nh	?
@@ -4455,7 +4684,7 @@ ig	e	n	?
 ^d	e	'	8
 	e	xport'	E
 t	e	go	?
-tand	e	m	?
+and	e	m	?
 	e	dio	Y
 ^l	e	nt	E
 b	e	liever	?
@@ -4464,6 +4693,7 @@ os	e	cu	I
 	e	quit	E
 ben	e		?
 	e	verit	I
+magn	e	t'	?
 ^	e	xti	I
 	e	cite	?
 ant	e	'	Y
@@ -4472,7 +4702,7 @@ ant	e	'	Y
 	e	cov	I
 grav	e	l	?
 gr	ave		8v
-ing	e	l	g?
+	e	xposit	E
 nv	e	l	?
 v	e	st	E
 ear	e	s	I
@@ -4494,6 +4724,7 @@ v	e	nl	?
 al	e	n	?
 hw	e	s	E
 sh	e	'	Y
+	e	fere	E
 	e	nigm	I
 	e	gs	E
 long	e	s	gI
@@ -4502,9 +4733,10 @@ r	e	new	I
 r	e	pa	Y
 	e	cut	?
 rm	e	nta	?
+	e	lf'	E
 osp	e	l	?
 ^g	e	m	E
-	e	ncore	A
+	e	col	E
 r	e	ff	E
 k	e	ti	?
 	e	nquir	I
@@ -4531,7 +4763,7 @@ m	e	gan	8
 r	e	scr	Y
 d	e	li'	E
 r	e	hi	Y
-^t	e	s	E
+	e	gyp	Y
 	e	plie	Y
 	e	verel	?
 r	e	na	Y
@@ -4549,7 +4781,7 @@ r	e	st'	E
 r	e	tty	I
 ed	e	nt'	?
 d	e	si	I
-w	e	de	Y
+	e	hr	E
 	e	vor	E
 nt	e	s	E
 ll	e	st	I
@@ -4562,22 +4794,23 @@ fac	e	t	?
 b	e	lie	I
 r	e	ds	E
 resc	e		?
-	e	xpo'	E
+r	e	g'	E
 x	e	s	I
 	e	vict	I
 r	e	int	Y
 	e	cord	I
 g	e	nce	?
-	e	scap	I
+r	e	ston	E
 h	e	s'	I
 rr	a	ci	r8
 ^terr	a	'	A
 rr	a	te	8
 	erra		Er?
 nt	err		R
-	rr	e'	r
+ng	e	la	?
 lv	e	n	?
 ^b	e	n'	E
+	e	mi'	E
 	a	line	?
 ^	ida		9d?
 	e	cay	I
@@ -4586,8 +4819,10 @@ op	e	n	?
 	e	finin	I
 	e	mman	I
 l	e	sti	I
-pr	e	v	Y
+r	e	lud	8
 	e	ntucky	?
+or	e	h	!
+	e	her	E
 t	e	le	E
 ^t	e	'	Y
 	e	volu	E
@@ -4597,15 +4832,16 @@ d	e	ci	I
 hov	e	l	?
 l	e	st	E
 	e	st'	I
-ga	me		m
+v	e	ng	E
 r	ge	s	j
+ul	e	n	?
 l	e	nt'	?
 	e	ndorf	I
 ot	e	n	?
 z	e	l'	?
 	e	rio	I
 isherm	e		I
-	e	mbodied	I
+ndr	e	d	I
 	e	ntine	?
 	e	tua	E
 	e	cific'	I
@@ -4616,6 +4852,7 @@ krist	e		?
 	e	ntici	?
 	e	dicat	E
 nt	e	nc	?
+sch	e	d	E
 d	e	br	E
 	e	leases	I
 	e	talli	?
@@ -4634,6 +4871,7 @@ w	e	v	E
 	e	glec	I
 	e	conci	E
 ^n	e	ro	I
+d	e	val	I
 ^t	e	d	E
 us	e	a	Y
 	a	ic'	8
@@ -4651,12 +4889,13 @@ drat	e	d	?
 ^m	e	'	Y
 id	e	nt'	?
 wirel	e		I
-v	e	ga'	8
+ll	e	t	?
 ^sh	e	d	E
 ust	e	n	I
 g	e	nom	Y
 fl	e	sh	E
 lab	e	l	?
+g	e	tt'	I
 dg	e	t	I
 	dge		j
 ^d	e	no	I
@@ -4664,6 +4903,7 @@ dg	e	t	I
 fic	e	n	?
 en	e	m	?
 wick	e	t	?
+^r	e	ver	I
 rn	e	g	8
 d	e	sp	I
 al	e	s	E
@@ -4677,20 +4917,21 @@ her	e	n	?
 ph	e	t	?
 	e	joic	I
 nik	e		Y
-l	e	c'	I
+	e	stor	E
 	e	llect	?
 	e	sponsibly	I
 agm	e		?
 tersh	e		E
 ^st	e	m	E
+kl	e	ss	?
 r	e	ck	E
 	e	dicam	I
 ss	e	ng	I
 	e	placement'	I
-magn	e	t'	?
+odsh	e		E
 	e	deem	I
 	e	dict	Y
-	e	grat	?
+r	e	sn	E
 	e	sponsiv	I
 h	e	q	E
 ^r	e	d'	E
@@ -4707,8 +4948,8 @@ r	e	m'	E
 r	e	f'	E
 r	e	for	I
 fuge	e		Y
-ht	e	n	?
-rf	e	ri	I
+	e	neri	?
+	e	crea	E
 rim	e	te	?
 tr	e	mis	Y
 	e	nsat	?
@@ -4717,9 +4958,9 @@ tr	e	mis	Y
 	e	ngi	E
 marv	e	l'	?
 	e	ngrav	I
-r	e	ps	E
-el	e	ti	Y
-h	e	f	E
+n	e	k	I
+	e	molis	I
+mp	e	tin	Y
 	e	bola	Y
 k	e	l'	?
 r	e	gre	I
@@ -4733,12 +4974,13 @@ r	e	gre	I
 g	e	lo	?
 	e	spectivel	I
 arm	e	n	?
-hm	e	n	?
+hm	e	n	E
+k	e	nd	E
 d	e	str	I
 k	e	ls'	?
 ^s	e	rie	I
-orr	e	nt	?
-r	e	ston	E
+	e	lec	I
+	e	xp	I
 ar	e	n	?
 g	e	di	?
 	e	male	Y
@@ -4757,7 +4999,7 @@ rv	e	ne	Y
 	e	call	I
 	e	steem	I
 p	e	ris	E
-g	e	dy	?
+ak	e	n	?
 r	e	ttie	I
 ^l	e	d	E
 	e	tari	I
@@ -4774,15 +5016,15 @@ rp	e	s	Y
 b	e	si	I
 	e	places	I
 um	e	nti	?
-	e	merg	I
+w	e	de	Y
 v	e	llo	?
 min	e	n	?
 rst	e	n	?
 x	e	t	I
-	e	molis	I
+u	e	rie	I
 	e	becc	?
 id	e	ntl	?
-ev	e	nso	?
+v	e	nso	?
 xp	e		E
 sequ	e		?
 	e	pli	E
@@ -4791,7 +5033,7 @@ et	a	n	?
 	anus		8nIs
 ^	e	qui	I
 d	e	lay	I
-	e	xp	I
+pen	a		?
 sash	a		?
 	asha	'	AS?
 r	e	n'	?
@@ -4800,7 +5042,7 @@ m	etre		YtR
 helen	a		?
 	ena	'	Yn?
 	e	sts	E
-	e	col	E
+ud	e	n	?
 ^	e	ra	I
 ^w	e	'	Y
 	e	ditio	I
@@ -4809,12 +5051,12 @@ pock	e		?
 h	e	l'	?
 ^	e	rie	I
 	e	dd	E
-n	a	sa'	@
-n	asa		8z?
+r	e	pp	E
+cn	e	'	Y
 	e	volver	I
-r	e	lud	8
-vis	a	b	?
-v	isa		Yz?
+	e	domi	I
+elm	e	t	?
+orr	e	nt	?
 ig	e	l	?
 m	e	sa	8
 ^	a	re	A
@@ -4825,47 +5067,48 @@ m	e	sa	8
 	sure		ZR
 	lure		lUr
 	page		p8j
-v	e	ng	E
-	e	gyp	Y
+rd	e	n	?
+tut	e		!
+end	e	n	?
 aml	e	t	I
 	e	ligiou	I
 	e	gina	I
 pr	e	l	Y
 ^m	e	n	E
 	e	lissa	?
-ndr	e	d	I
+wannab	e		Y
 	e	nsue	I
 rr	e	t	I
 r	e	str	Y
 	e	cono	E
 ck	e	t	I
-^p	e	titi	?
-u	e	rie	I
+vert	e	n	?
+p	e	l'	?
 	e	nign'	I
-	e	lec	I
+kob	e	'	8
 	e	scho	Y
 r	e	si	I
 ^k	e	'	E
 n	e	nt'	?
 n	e	nts	?
-^n	e	gro	Y
+^n	e	'	8
 	a	blishments	@
 	esta	bl	Ist@
 ^l	e	ro	Y
 ^f	e	'	8
-n	e	k	I
+d	e	na	I
 ask	e	t	?
-mp	e	tin	Y
+h	e	tt'	I
 	e	menta	?
 t	e	mi	E
 	e	scu	E
 ok	e	n	?
 rv	e	lo	?
-r	e	pp	E
+n	a	sa'	@
 an	e	t	I
 	a	ni'	A
 	uara		Er?
-odsh	e		E
+b	e	tt'	I
 d	e	sce	I
 	e	venu	E
 cor	e		!
@@ -4873,8 +5116,8 @@ ss	e	l	?
 	e	rgea	A
 	e	late	I
 pan	e	l	?
-	e	domi	I
-eartl	a		@
+rou	s	er	z
+d	e	ce	I
 h	e	re	I
 arn	e	l	?
 	ee		Y
@@ -4885,39 +5128,39 @@ sd	e		?
 k	e	t'	I
 ^sh	e	n	E
 k	e	n'	?
-	e	neri	?
+er	e	nt'	?
 torr	e	s	E
-ph	e	n	?
+ub	e	l	?
 	e	nie	Y
 	e	dw	E
-ch	e	ll'	?
+ou	se		s
 	e	nbau	?
 	e	df	E
 d	e	let	I
-ak	e	n	?
+n	g	e'	j
 lo	ne		n
 n	e	tr	?
 	e	lu	I
 	e	nba	I
-cn	e	'	Y
+	e	mann	!
 ^	e	den	Y
 r	a	ding	8
-p	e	l'	?
+pl	y	w	9
 	a	wa	?
-t	owa		?w4
-rd	e	n	?
+due	l		?l
+	u	nctionali	?
 ^	e	ma	I
-end	e	n	?
-h	e	tt'	I
+^th	e	'	?
+^	l		l
 d	e	k	I
-^n	e	'	8
-^	u	ne	?
+d	e	g	I
+z	e	ki	I
 mm	e	l	?
 d	e	nc	?
-wannab	e		Y
-d	e	na	I
-due	l		?l
-^	l		l
+^	e	n	E
+ing	e	l	g?
+^col	e		!
+	lu	nd'	l?
 e	l	e	l
 ib	e	l'	?
 	lege		lIj
@@ -4929,8 +5172,8 @@ is	te	n	?
 	e	ned	?
 ^tom	a		A
 	ai		8
-o	le	s	l
-	i	ly	?
+t	owa		?w4
+	ala	w	?lA
 f	ine		9n
 fo	re		r
 	e	lim	I
@@ -4938,19 +5181,19 @@ fo	re		r
 	igh		9
 	i	mes	9
 pr	e	di	Y
-er	e	nt'	?
-d	i	l	I
-ub	e	l	?
+	i	br	9
+n	asa		8z?
+r	e	v'	E
 	i	ba'	Y
 ar	a	de	8
-d	e	ce	I
+jes	s	e'	Y
 	a	lysi	@
-	e	ceptors	?
-b	e	tt'	I
+	rr	e'	r
+	i	ly	?
 	ea	r	I
 ^s	e	'	8
 	i	to'	Y
-	i	nor'	9
+o	le	s	l
 ou	s	ed	z
 	i	nc	I
 	a	sek	A
@@ -4960,11 +5203,11 @@ ou	s	ed	z
 dl	e	s	?
 	obl		Abl
 em	i	g	?
-	i	fe'	9
+d	e	mar	I
 or	ea		Y?
-st	i	tu	I
-rou	s	er	z
-ou	se		s
+ga	me		m
+^	u	no	?
+	i	za'	Y
 	us	e	yWz
 cig	a		A
 	gar	'	gR
@@ -4972,178 +5215,184 @@ cig	a		A
 r	eu		W
 l	ea		Y
 	i	nou	?
-	lu	nd'	l?
+was	te		t
 	a	ncee	@
 	u	'	W
 	eu		yW
 	i	me'	9
-	u	me	W
-	i	br	9
-	na	ly	n?
-	i	nal'	?
+	r	ak	r
+	u	nera	yW
+ad	el		?l
+	cci		cY
 	u	man	yW
-	u	ba	W
+	i	nor'	9
 	u	v	W
 ^fi	anc		Ans8
-ver	r		r
+	u	cl	W
 	u	ma	W
-	u	ssa	W
+	e	man'	!
 	i	zi	9
 o	l		l
 	li	da	l?
-app	le		?l
+in	u		?
 pl	e	m	?
-	u	do	W
+^c	y	'	9
 	u	mi	W
+	uh		X
 	u	la	W
-	y	rann	I
-	u	nctionali	?
-	ala	w	?lA
+am	es		z
+a	t	r	t
+	na	ly	n?
 	u	lo	yW
 ^la	s	'	s
-was	te		t
+	i	fe'	9
 l	as	'	@s
-or	u		?
+	n	gle	N
 	re	me	rY
-ad	el		?l
-n	u	a	yW
-	y	ter	I
-sle	d		d
+	eba	n	Eb?
+	u	ba	W
+ume	n		n
+	oi		/
+gin	g	e	j
 	a	rizona'	E
 	ar	iz	R
-	uh		X
-m	c	w	?k
-aw	y		y
-onst	i		?
-bod	y		Y
-	u	nera	yW
-pl	y	w	9
 	c	esc	c
-^c	y	'	9
-	ed	es	Yd
-	y	z	9
-b	y	lo	?
+oa	n	n	@
+	u	do	W
+ir	g	il	j
+ffi	c	e	s
+	i	re	9
+am	c		k
+d	i	l	I
+pro	s	'	z
+sle	d		d
+	u	ca	W
+ll	u	m	?
+ver	r		r
 	u	phe	?
-m	c	a	?k
+^pet	it		Y
 	s	ua	Z
 	as	u	?s
 ^za	r		r
 	b	as	b
 egend	a		E
-nd	ar		R
+or	u		?
 tran	c	es	s?
-ffi	c	e	s
+app	le		?l
 	y	clon	I
-i	g	i	j
-n	k	led	k?
-	k	led	?
+s	ew	i	O
+new	s		z
+m	c	w	?k
 ^ki	a	'	R
 i	a	'	?
+	i	nal'	?
 	cia		S?
 	a	li'	A
 m	ura	l	yUr?
 eg	ia		?
-chi	l	e	lY
-te	g	ie	?j
-gin	g	e	j
-s	ew	i	O
+vis	a	b	?
+v	isa		Yz?
+	g	las	g
+n	k	led	k?
 	a	ngel	@
 e	va	n	v?
-n	g	e'	j
-	n	gle	N
-ulie	n		?n
-ir	g	il	j
+pion	a		A
+anto	s		s
+aw	y		y
+mont	a		@
 	n	ca'	N
-oa	n	n	@
-	n	x	N
-	h	ood	h
+	ed	es	Yd
+i	g	i	j
+	i	do'	Y
 r	a	bl	?
 	ara	b	@r?
 	h	ead	h
-^hi	s	'	z
-udie	n		?n
+^ste	r	oids	r
+sof	a		?
 u	s	li	z
-	r	ak	r
-i	g	er'	g
-ute	s	t	Is
-jes	s	e'	Y
-^ti	s	'	z
-^	f		f
+z'	s		Iz
+nd	ar		R
+^m	a	nn	@
+tiou	s		s
+	n	x	N
+th	a	l'	4
 ^i	s	'	z
-pro	s	'	z
+^	a	ge	8
 udai	s		Iz?
 er	s	b	z
-augh	s		s
-n	a	rdo	A
+ola	n	de	n
 bern	a	r	A
 n	a	rdi	A
 n	ar	d	R
 n	s	ingt	z
 	s	m'	z?
-new	s		z
-g	g	led	?
-^lui	s		Ys
+omel	a		@
+an	s	b	s
+udie	n		?n
 n	s	in	s
 afe	s	t	Is
-re	s	i	z
+g	g	led	?
 ro	s	e'	z
-m	s	a	s
-anto	s		s
+augh	s		s
+gh	s	'	z
 ie	s	ta	Es
 ^p	a	ll	@
 	a	tina'	A
 ^l	ati		@t?
-an	s	b	s
-^lou	s		z
-lao	s		s
-n	s	wic	z
-e	s	em	z
-k	a	mp	@
+ctor	a		?
+a	s	ma	z
+	k	led	?
+m	s	a	s
+	h	ood	h
+^hi	s	'	z
 fisc	a	l	?
 	ca	lly	k
-r	s	e	s
-	s	ast	z
+lat	a		?
+	a	dor	?
+t	a	va	A
 	a	ssai	?
 mer	a	ld	r?
 	ra	ld	r?
 ^ran	s		s
 m	a	rrio	E
-^	a	ppo	?
-	a	nsk	@
-tiou	s		s
+nessm	a		@
+ute	s	t	Is
+^hitm	a		@
 acom	a		A
 sm	a	n'	?
 	a	ller'	4
 tef	a		A
-	a	nell	?
-^h	a	st	8
+lao	s		s
+m	a	tic	@
 	s	est	s
 	a	lso'	4
-^m	a	lle	@
+eartl	a		@
 t	a	lit	@
 tt	a	b	?
 il	a	'	?
 el	a	n'	?
 	a	tan'	8
-ug	a	l	?
-^b	a	lle	@
-gh	s	'	z
-superm	a	n	@
+^lui	s		Ys
+^	a	ppo	?
+	a	ndi'	@
+f	a	s	@
 	a	sq	A
 im	a	l	?
 n	a	ld	A
 	a	lus	?
 ym	a	n'	?
 	a	kot	?
-	a	laria	?
+	a	rsk	A
+	a	hom	?
 	a	mela	@
-w	a	llo	A
+e	s	em	z
+nth	a		?
 	a	tori	?
 	equa	t	Ikw8
 m	a	tsu	A
 	a	tria	8
 k	a	s'	?
-nn	a	b	?
+gm	a	'	?
 n	a	tel	?
 rocc	a		?
 h	a	ngi	8
@@ -5163,12 +5412,13 @@ ed	a	to	?
 	a	dju	?
 ^r	ea	d	Y
 	a	car	?
-ss	a	nt	?
+t	a	no	A
+k	a	mp	@
 	a	bolis	?
-ll	a	gen	?
+	a	nell	?
 ol	a	k	?
 ^t	a	ng	@
-	a	ssar	A
+	a	nsk	@
 	a	ven't	@
 ^pi	a		@
 	a	too	?
@@ -5183,8 +5433,8 @@ tl	a	nd'	?
 	a	lmig	4
 	a	mel'	@
 ull	a		?
-op	a	'	?
-ain	a	b	?
+r	a	nto	@
+ug	a	l	?
 c	a	tiv	?
 c	a	llo	@
 	a	ternal	?
@@ -5220,9 +5470,9 @@ n	issa		YsA
 	sh		S
 	hugh		hyW
 pr	os		As
-p	es		s
+	a	vai	?
 ro	se		z
-ty	pe		p
+^m	a	lle	@
 	a	phy	?
 bm	a		?
 m	a	keo	@
@@ -5232,23 +5482,23 @@ th	a	'	?
 sen	a		?
 	a	lls	4
 n	a	lis	?
-	a	ct	@
+	s	t	s
 	a	ler'	8
-	a	cific'	?
-em	a	'	?
+	ous		?s
+	eou		#
 ^or	a		?
-	ora	m	R@
+ven	o		?
 	a	terpi	@
 	a	vi'	A
 ^surf	a	ced	I
-	a	men	?
-rs	a	l	?
+	iou		?
+n	ges		jIz
 	a	ppare	?
 d	a	vi	8
-	av	ie	v
+	ideo		IdY?
 ^ch	a	se	8
 an	a	da	?
-^	a	nnoy	?
+nn	a	b	?
 g	a	ll'	4
 ^	a	sso	?
 r	a	nda	@
@@ -5261,7 +5511,7 @@ n	a	ma	?
 	a	zet	?
 ^m	a	ns	@
 	a	masc	?
-	a	cia	8
+^b	a	lle	@
 	a	rah	E
 	a	z'	@
 adr	a		?
@@ -5271,27 +5521,27 @@ eter	a		?
 mmedi	a		?
 ^h	a	lo	8
 c	a	sino	?
-er	a	n	?
-rm	a	'	?
-	a	zil	?
-i	a	gr	@
-	a	lloo	?
+ch	a	pel	@
+nt	as		?s
+w	a	llo	A
+	a	cific'	?
+em	a	'	?
 	a	tlantic'	?
-^	a	ria	A
+	ora	m	R@
 nf	a	m	?
-	a	via	8
+icr	o		O
 	a	pertu	@
-^t	a	l'	A
-	a	mai	?
+	a	men	?
+rs	a	l	?
 r	a	pis	8
 	a	cl	?
-f	a	lling	A
+	av	ie	v
 	a	mand	?
 ^d	ia		9@
 	i	ana	Y
 s	tia		cI
 s	a	lz	4
-^tr	i	a	9
+	ocr	e	OkR
 ^n	a	than'	8
 th	a	m'	?
 l	i	a	y
@@ -5309,17 +5559,16 @@ r	a	ngi	8
 g	a	ng	@
 	a	fia	A
 h	a	le	8
-nth	a		4
 	a	ban	?
 li	a	m	?
 	a	dap	?
-^br	a	'	A
+	a	ct	@
 	a	llmark'	A
 ^m	a	l'	@
 hog	a		A
 ear	a		?
 	a	ttributi	@
-ic	a	b	?
+	o	gr	?
 n	a	tiona	@
 egh	a		?
 	a	llev	?
@@ -5329,10 +5578,10 @@ oid	a		?
 sw	a	m'	@
 al	a	c	?
 ^gr	a	nt	@
-mst	a	n	@
+l	o	g	4
 m	a	tiv	?
 w	a	ll	4
-	a	ta'	A
+^tr	i	a	9
 ns	a	b	?
 cl	a	ri	E
 	a	llou	4
@@ -5345,18 +5594,18 @@ en	a	c	I
 v	a	e	Y
 	a	kart	?
 sh	a	lt	@
-	a	nism	?
+	a	mai	?
 b	a	e'	9
 apit	a		?
-^	a	llah	A
-	a	nid	?
+f	a	lling	A
+	a	via	8
 	a	tory	?
 	ora	t	R8
 urf	a		?
 r	a	nts	?
 nt	a	b	?
 k	a	ti	8
-ahm	a	d	A
+batm	a		@
 ^t	a	tu	8
 	a	thet	?
 ^st	a	n	@
@@ -5372,39 +5621,39 @@ ol	a	n'	?
 ^n	a	ti	8
 h	a	ria	A
 v	a	s'	?
-	a	siv	8
-neyl	a		@
+	a	ta'	A
+eyl	a		@
 st	a	llat	?
 j	a	pa	?
 br	a	vo	A
 	a	riu	E
 er	a	s	8
-	a	mus	?
+rm	a	'	?
 dell	a		?
-^	a	da'	8
-mp	a	'	?
+i	a	gr	@
+mst	a	n	@
 	a	ler	?
-ped	a		?
+^	a	ria	A
 ^w	a	lt	4
 pos	a		?
 	a	borig	@
-	a	jax	8
+ic	a	b	?
 f	a	e	9
 	ae		8
 	a	nge	8
 	a	lmos	4
 	a	pab	8
-n	a	s'	?
+^br	a	'	A
 	a	bour	8
 	a	cross	?
 y	a	ger	I
 ^ch	a	si	8
-mbr	a	nc	?
-^adv	a	ntageo	?
+ss	a	nt	?
+	e	me'	Y
 an	a	ger	I
 	a	lthou	4
-ad	a	m	?
-	a	dria	8
+	ag	er'	8g
+^r	age		8j
 	a	rra'	A
 c	a	me'	8
 ryst	a		?
@@ -5414,8 +5663,8 @@ on	a	l'	?
 w	a	tt	A
 j	a	mi	8
 	a	rr'	A
-cul	a	tiv	?
-ct	a	re	A
+^s	age		8j
+tr	age		8j
 ^	a	ls	@
 eal	a		?
 	a	rrie	E
@@ -5430,17 +5679,17 @@ t	a	tu	@
 	a	mar	A
 ^nap	a		?
 b	a	'	?
-	a	biliz	8
+	a	nid	?
 l	a	mo	@
 n	gla		l?
 	a	ples	8
-	a	dul	?
+	a	siv	8
 	a	rie	E
 r	a	tern	@
 	a	pea	?
 	a	pe	8
 tt	a	'	?
-ot	a	'	?
+^adv	a	ntageo	?
 w	a	x	@
 i	a	n'	?
 ^v	ia		9?
@@ -5450,11 +5699,11 @@ og	a	n	?
 	a	mino	?
 	a	com	?
 	a	tives	?
-i	a	tr	@
-d	a	bl	?
+^t	a	l'	A
+	a	lloo	?
 us	a	n'	?
 f	a	th	A
-it	a	b	?
+^	a	llah	A
 rbar	a		?
 ^	a	bor	?
 	abor		8bR
@@ -5465,10 +5714,10 @@ uth	a	m	h@
 om	a	li	A
 m	a	cho	A
 c	a	m	@
-dev	a		?
-	a	mas	A
-z	a	l	A
-urope	a		Y?
+ad	a	m	?
+	a	dria	8
+cul	a	tiv	?
+ct	a	re	A
 g	a	s'	?
 ot	a	l	?
 ^r	a	'	A
@@ -5491,14 +5740,13 @@ m	a	ns'	?
 rmedi	a	te'	I
 	a	day	?
 w	a	lt	?
-uy	a		A
+nt	a	'	?
 ol	a	nd'	?
 ol	an		An
 	a	sion	8
 t	a	lin'	A
 m	a	kin'	@
-iev	a		?
-aw	a	rd	4
+aw	a	r	4
 w	ard		Rd
 em	a	n'	?
 	a	bou	?
@@ -5510,13 +5758,13 @@ mel	a		?
 ic	a	n'	?
 	a	mir	A
 g	a	lac	?
-	a	pho	?
+	a	vor	8
 	a	lbany	4
-rt	a	b	?
-	a	nessa	?
-	a	ppall	?
+	a	biliz	8
+i	a	tr	@
+	a	nism	?
 i	a	tel	I
-p	a	rr	E
+	a	dul	?
 ^p	a	ls	@
 kar	a		?
 rr	a	tiona	@
@@ -5544,7 +5792,7 @@ ry	a	n	?
 ^	a	lo	?
 ^h	a	s'	@
 nappropri	a		I
-yl	a	n	?
+yl	a		?
 hm	a	n	?
 isl	a	m'	A
 	a	mou	?
@@ -5573,9 +5821,9 @@ esl	a		?
 ^edn	a		?
 t	a	nts	?
 ul	a	'	?
-gm	a	'	?
+ck	a	'	?
 l	a	tan	8
-c	a	led	8
+n	a	s'	?
 k	a	b	?
 un	a	t	?
 	a	terni	?
@@ -5588,7 +5836,7 @@ a	ra	'	r?
 	para		pErI
 ar	age		AZ
 bern	a		?
-^p	a	l'	@
+	age		Ij
 bar	a		?
 b	a	l'	?
 tn	a		?
@@ -5612,7 +5860,7 @@ don	a		?
 	a	lli	@
 	a	djo	?
 	a	ho	A
-nt	a	st	@
+nt	a	s	@
 	a	ssoc	?
 ntr	a	nc	?
 mm	a	'	?
@@ -5621,9 +5869,10 @@ n	a	rr	E
 serv	a		?
 tu	a	lit	@
 al	a	'	?
-^sal	a		?
+ot	a	'	?
 	a	re	E
 	a	las	?
+h	a	te	8
 	ega	l	Yg?
 	afa		?fA
 	ua		wA
@@ -5632,7 +5881,7 @@ d	a	nis	8
 	a	ffil	?
 	a	gai	?
 	a	ffi	@
-ctor	a		?
+^h	a	st	8
 c	a	se	8
 r	a	x	@
 ^c	a	ns	@
@@ -5644,12 +5893,12 @@ spart	a		?
 	a	lut	?
 arr	a		?
 j	a	so	8
-^	a	ge	8
-	ag	er'	8g
-^r	age		8j
-^s	age		8j
-tr	age		8j
-	age		Ij
+superm	a	n	@
+dev	a		?
+	a	mas	A
+z	a	l	A
+urope	a		Y?
+^p	a	l'	@
 onsul	a		?
 	a	stou	?
 lph	a		?
@@ -5679,24 +5928,23 @@ tsm	a	n	?
 m	a	l'	?
 ^	a	tt	?
 	a	mid	?
-igm	a		?
 nt	a	ti	?
 t	a	nc	?
 op	a	q	8
 use	a	'	?
 am	a	'	?
-	a	nan	?
-	s	t	s
-n	ges		jIz
-	ous		?s
-	eou		#
-	ideo		IdY?
-ven	o		?
-icr	o		O
-	o	gr	?
-l	o	g	4
-	iou		?
-	ocr	e	OkR
+ll	a	ge	?
+	a	mus	?
+d	a	bl	?
+^	a	da'	8
+mp	a	'	?
+it	a	b	?
+ped	a		?
+rt	a	b	?
+	a	nessa	?
+	a	ppall	?
+	a	jax	8
+p	a	rr	E
 m	a	le	?
 apl	a	n	?
 ch	a	se	?
@@ -5713,9 +5961,8 @@ r	a	tel	?
 ntr	a	l	?
 c	a	sin	8
 ed	a	l	?
-	a	tiz	?
 sh	a	ll'	@
-sof	a		?
+	a	rom	E
 	a	nine	8
 	a	nary	?
 	a	cil	?
@@ -5735,7 +5982,8 @@ nk	a	n	?
 	a	ffec	?
 c	a	s'	?
 i	a	nt	?
-m	a	ter'	@
+m	a	ter'	8
+^l	a	ch	@
 chw	a		4
 ax	a		?
 ^	a	nal'	8
@@ -5743,6 +5991,7 @@ ax	a		?
 u	a	tel	I
 	a	bes	8
 m	a	mma'	A
+	a	cs	@
 sper	a	t	I
 ^	a	mish	A
 	a	ppra	?
@@ -5766,6 +6015,7 @@ rn	a	tiv	?
 	a	nil	?
 l	a	zy	8
 	a	nipu	?
+ns	a	l	A
 dm	a	n	?
 am	a	s'	?
 	a	ssem	?
@@ -5783,6 +6033,7 @@ l	a	bl	?
 	a	pos	?
 	a	cat	8
 	a	bru	?
+rn	a	b	?
 	a	bet	?
 m	a	bl	?
 m	a	tel	?
@@ -5795,7 +6046,7 @@ an	a	ls	@
 fic	a	c	@
 cr	a	dl	8
 	a	bil	?
-h	a	gen	8
+mbr	a	nc	?
 cr	a	tiv	?
 ^	a	ssu	?
 s	a	ll	@
@@ -5831,7 +6082,6 @@ cc	a	b	?
 n	a	nt'	?
 	a	voi	?
 	a	stry	8
-terv	a		?
 p	a	ters	@
 herm	a		?
 n	a	lly	?
@@ -5867,6 +6117,7 @@ r	a	ci	8
 eg	a	tiv	?
 oy	a		?
 wh	a	ts	?
+han	a		?
 n	a	co	?
 ^	a	rro	E
 	a	lsk	A
@@ -5876,23 +6127,24 @@ tr	a	di	?
 ^	a	po	?
 ^	a	von	8
 in	a	'	?
-ck	a	'	?
+h	a	nn	@
 kl	a	nd	?
-nt	as		?s
+	a	led	8
 bb	a		?
 ob	a	m	A
 i	a	nc	?
 t	a	s'	?
 ere	a	s	@
+r	a	ss	@
 sk	a	'	?
 ltim	a	t	?
-nt	a	'	?
+	a	pho	?
 ^r	a	ging	8
 	a	dar	8
 ak	a		A
 p	a	l'	?
 c	a	'	?
-	a	vai	?
+mb	a	t	@
 	a	gle'	8
 	a	ccou	?
 ic	a	s	A
@@ -5917,7 +6169,7 @@ up	a		?
 w	a	r	4
 t	a	nt'	?
 r	a	chel	8
-t	a	co	A
+tm	a	n'	?
 	a	pprec	?
 	a	ging	I
 	a	nei	?
@@ -5934,6 +6186,7 @@ w	a	nte	4
 ^sw	a		A
 mp	a	nt	?
 n	a	val	8
+enn	a		A
 	a	lai	4
 w	a	st	8
 l	a	rit	E
@@ -5944,7 +6197,7 @@ rn	a	l	?
 	a	fflic	?
 ^	a	lar	?
 merch	a		?
-	a	rom	E
+p	u	ts	U
 	an	al	?n
 	oa		O
 	a	fe	8
@@ -5953,8 +6206,7 @@ roj	a		?
 ^corpor	a		?
 	a	llo	@
 	a	jo	?
-av	a	l	?
-mb	a	t	@
+p	es		s
 mbl	a		?
 al	a	nce	?
 	ach	er	?k
@@ -5965,15 +6217,15 @@ lor	a		?
 	a	kows	?
 tk	a		?
 	a	he	?
-v	a	lle	@
+v	a	l	@
 nd	a	l	?
 	a	lay	8
 end	a	n	?
 ot	a	n	?
 rat	a		?
 	a	talit	?
-lat	a		?
-	a	dor	?
+r	s	e	s
+^org	a	n	?
 	a	han'	?
 m	a	nsh	?
 	a	ldi'	A
@@ -5981,7 +6233,7 @@ ov	a	n	?
 n	a	th	?
 ul	a	n	?
 n	io		y?
-	o	nd	A
+hi	a		A
 lah	a		@
 	ou		#
 q	u		w
@@ -5993,22 +6245,22 @@ l	io		y?
 tex	a		?
 n	a	n'	?
 	e	pen	I
-a	cha		c?
+er	a	n	?
 	e	ning'	?
 ot	a	b	?
-ppr	o		W
+	a	laria	?
 r	a	bi	?
 	ui		W
 	ice		9s
 	ey		Y
 	a	za'	A
 	oe		O
-ym	o	n	?
+ahar	a		?
 	a	ssert	?
 shn	a		?
 	d	es	d
 	ead		Ed
-	o	v	O
+wh	a	t	X
 v	io		9?
 in	d		d
 	dow		d#
@@ -6018,34 +6270,35 @@ yam	a		A
 k	ow		#
 	ow		O
 	o	l	O
-	o	wi	?
+^sal	a		?
 	io		?
 	o	niz	?
 	o	nn	A
 	ar	r	@
-tm	a	n'	?
+ty	pe		p
+	a	me	8
 ^th	e		Y
-epr	o		?
-	e	ge'	Y
-	i	ze	9
+hl	a	n	?
+ahm	a		A
+ppr	o		W
 	ya	n	yA
-	rr		r
+	a	cia	8
 	ar	o	R
 	ya		9?
-	n	gra	n
-	n	ga	N
-	n	gr	N
-n	g	en	j
-i	ng		N
-	gg		g
-	gur	a	gyR
-	e	lic	E
-	r	ana	r
-o	ra		r?
-	u	bm	?
-s	ch	o	k
-ms	u		?
-	fi	ed	f9
+^	a	nnoy	?
+	o	nd	A
+	o	v	O
+op	a	'	?
+	alu		?lX
+	a	by'	8
+b	a	s'	?
+ym	o	n	?
+th	e	m	?
+	a	zil	?
+	a	ssar	A
+ns	o		?
+	o	wi	?
+un	a	mi	A
 a	ca	d	k?
 	al	ou	l
 	ea		Y
@@ -6055,6 +6308,7 @@ a	ca	d	k?
 	a	ming	8
 	a	's	?
 	a	list'	?
+	e	sis	?
 	a	ze	8
 	a	lism	?
 	a	man	?
@@ -6062,7 +6316,7 @@ a	ca	d	k?
 	a	fo	?
 	a	fa	A
 	a	vem	8
-	a	me	8
+	a	tiv	8
 	a	lists	?
 	a	ved	8
 	a	tin	8
@@ -6085,43 +6339,43 @@ ers	a		?
 h	s		s
 	a	vey	8
 	a	vy	8
-	h	of	h
-hi	a		A
-hl	a	n	?
+^ti	re		R
+epr	o		?
 	a	din	?
 infr	a		?
 ^r	a	di	8
 	sch		S
-ahar	a		?
+	e	lic	E
 	any		?nY
 omp	a	n	?
-	oi		/
+	ie	rm	I
+	i	na'	Y
 	ine	s	9n
 	a	no'	A
-	a	by'	8
+p	a	ti	?
 	e	mm	E
-	e	je	I
+wl	a		?
 ud	a		?
-	a	tiv	8
-petr	o		O
+etr	o		O
+	i	a	Y
 	r	i'	r
 	aser		8zR
 	ator		8tR
 n	e	st	I
-h	ed		t
+	i	ze	9
 ^pi	er		r
 	ie		Y
 en	a	n	?
 m	a	to	?
 	e	ling	?
-	e	ns'	?
-	e	mati	?
-	alu		?lX
-	e	man'	!
+ain	a		?
+c	u	lty	?
+	as	e'	8z
+sr	e		I
 	e	h'	E
 	h	ole	h
-th	e	m	?
-	e	mann	!
+luc	i		?
+	n	gra	n
 d	e	li	I
 	e	da'	8
 	e	ne'	Y
@@ -6132,40 +6386,40 @@ ur	e	n	?
 	e	ra'	E
 	e	bell	I
 ^n	e	d	E
-sr	e		I
-	e	me'	Y
-	i	za'	Y
-	e	ke'	I
-	e	lman'	?
-	e	ve'	Y
-^ti	re		R
+	e	fe	I
 d	e	me	I
-^all	e	n	?
-	as	e'	8z
-	e	ms'	?
+	rr		r
+	e	ke'	I
+	e	lman	?
+	e	ve'	Y
+	n	ga	N
+	n	gr	N
+n	g	en	j
+i	ng		N
+	gg		g
 d	a	s	@
-	i	re	9
+a	cha		c?
 	e	cke'	I
-	i	do'	Y
+	e	ms'	?
 	i	ni'	Y
-	i	na'	Y
+h	ed		t
 	th		T
-	ce	s'	s
-	i	ned'	9
+uy	a		A
+ed	e	l	?
 	re	z	rE
 	eh	n	E
-	ce	me	s
+^	one		wXn
 	ce	d	s
 	e	be'	Y
-^pet	it		Y
+	s	ast	z
 	e	c'	E
 	che	n	cE
 b	eg		Ig
 	eg	i	Yj
 	cha	mbe	c8
-	r	ala	r
+	e	ge'	Y
 	i	no'	Y
-	d	gr	d
+	i	ke	9
 	e	ded	Y
 l	s	io	S
 n	s	io	S
@@ -6179,18 +6433,18 @@ emi	s	e	s
 	ari		ErI
 	em	an	Im
 	r	eo	r
-	i	bert	I
+ttr	e		?
 a	t	s	t
 	wat		w4t
 	a	te	8
 migr	a		?
 yr	a		?
 orn	a		?
-wh	a	t	X
+	i	'	Y
 fic	a		?
 ^r	e		Y
 	e	lab	I
-^ste	r	oids	r
+	i	din	9
 bon	a		?
 	er		R
 at	e		!
@@ -6199,44 +6453,45 @@ wd	e		?
 ip	e		!
 gw	e		E
 ut	a		?
+^	i	c	9
 	e	cl	I
-	e	fe	I
+ch	eo		?
 ies	e		I
-en	e	f	?
-yst	e		?
-uk	e		!
+en	e	f	I
+	e	ns'	?
 	e	son	I
 iv	e		!
 sev	e		?
 tch	e		?
 tel	e		?
-ttr	e		?
+mis	a		?
 t	tle		?l
 	ech		Ek
 pr	e	c	Y
 	e	ces	?
-^	one		wXn
+man	u		y?
+t	e	ve	Y
 	tt		t
 	admit		?dmIt
-z	es		Iz
-ed	e	l	?
-	e	boo	!
-	r	ash	r
-	i	'	Y
+	gur	a	gyR
+	i	ned'	9
+nn	a	m	?
+ng	le		?l
+	i	de	9
 	i	pe	9
-	e	less'	!
+ov	e	n	?
 	yme		9m
-in	u		?
+	i	co'	Y
 	i	ja	9
-	tur	a	cR
-s	ed	'	t
+ld	e	n	?
+	i	ko'	Y
+uk	e		!
 	i	ri	I
-	aw		4
 	s	bia	z
 ^le	s		s
 ^ye	s		s
 	es	e	Yz
-luc	i		?
+	r	ana	r
 	e	cur	I
 	e	'	!
 rk	e		I
@@ -6244,16 +6499,17 @@ harv	e		?
 ick	e		I
 eid	e		?
 pp	e		I
+hin	e		!
 eck	e		?
-iff	e		?
+iff	e		I
 x	e		?
 eis	e		?
 ^a	l		l
 	anes		8nz
-^	i	c	9
-nk	e		?
+ess	or		R
+	e	je	I
 itt	e		?
-	i	co'	Y
+rth	e		?
 	al	k	4
 ^w	a	l	4
 	a	liz	?
@@ -6261,27 +6517,28 @@ itt	e		?
 ch	a	l	?
 	a	lm	A
 dd	e		?
-ns	o		?
+o	ra		r?
 	e	dly	?
 k	e	b	!
-lev	e		?
+^m	ine		9n
 	e	tiz	?
-	s	p	s
+og	le		?l
 lt	a		?
-ck	e	ns	?
+s	ed	'	t
 	ane		8n
-r	i	tie	?
+ah'	s		z
 	el	y	l
+	e	boo	!
 am	e	l	?
 z	le		?l
-	i	ners	9
-t	e	ve	Y
+t	a	co	A
+	i	be	9
 	s	iv	s
 eff	e		I
-m	c	m	?k
+z	es		Iz
 d	le		?l
 a	ke		k
-ng	le		?l
+	r	ash	r
 	ed	'	d
 ull	e		?
 hell	e		?
@@ -6297,70 +6554,72 @@ r	osi		As?
 arg	e		?
 r	o	b	A
 umm	e		?
-ado	r		r
+ms	u		?
+	aw		4
 	i	ning	9
-	i	a	Y
+	e	pe'	Y
 	osi		AzI
 s	es		Iz
-ov	e	n	?
-	or	'	R
-mpt	o		?
+wi	ne		n
+	u	llo	W
+	e	po	I
 	ar	a	R
 cat	a		?
-eit	e		?
+uck	e		?
+lv	a		A
+	e	mak	!
 no	te		t
-	e	de'	Y
+nk	e		?
 ouns	e		?
-rth	e		?
+	zz		z
 ea	se		s
 oo	se		s
-	u	nctuati	?
-	u	ca	W
+^all	e	n	?
+	ce	s'	s
 nz	e		?
 	i	te'	9
-st	i	na	?
-ck	le		?l
+	e	de'	Y
+k	le		?l
 a	pe		p
 	e	h	I
 	e	te	Y
 vand	e		?
-	e	ven	Y
+	e	cra	?
 	e	vo	I
 	e	berr	!
 	ef	u	f
-e	nge		Ng?
-	i	be	9
-ld	e	n	?
-^	ev	a	Yv
+	u	da	W
+	tur	a	cR
+	u	k'	X
 k	ew		yW
 ib	i		I
 	i	ner'	9
-	i	de	9
+ado	r		r
 	u	ri	yU
 us	e		?
-	u	ci	W
-ce	d		t
-r	s	o	s
-	ecre		YkrI
-^m	ine		9n
+	u	k	W
+m	c	a	?k
+	e	less'	!
+ask	e		?
+	or	'	R
 o	s	el	s
 boi	s		sY
 rco	s		s
 	os	e	Oz
-	i	ko'	Y
-p	a	ti	?
+mpt	o		?
+	s	fo	s
 g	na		n?
 rt	ar		R
-	i	ne'	9
+	d	gr	d
 oi	s		z
 	s	co	s
 crim	s		z
 pri	s	o	z
 	s	on	s
 b	as		8s
-	ag	i	@j
+	ch	t'	k
 	u	sa	W
-	ur		R
+	i	ne'	9
 	rg	et	rg
 	f	led	?
 	ff		f
@@ -6391,10 +6650,10 @@ pm	a		?
 km	a		?
 pt	a		?
 	a	ll	4
-wl	a		?
+amm	a		?
 ay	a		?
 hom	a		?
-ask	e		?
+	i	ners	9
 lg	a		?
 	a	gue	8
 ill	a		?
@@ -6402,41 +6661,44 @@ ng	a		?
 wm	a		?
 ish	a		?
 asm	a		?
-	i	o	Y
+r	s	o	s
 e	ga		g?
 	a	cy	8
-mis	a		?
+lev	e		?
 ric	a		?
 	ew		W
 del	a		?
-^imp	o		4
+	e	ven	Y
 ash	a		?
-man	u		y?
-av	e	l	?
-	e	pe'	Y
+	al	y	?l
+	u	ge	W
+	ur		R
 e	s	c	s
 j	e		E
-ess	or		R
+	s	p	s
 	i	pol	9
 itm	a		?
-	u	k'	?
-	i	din	9
+st	i	na	?
+eit	e		?
 r	s	a	s
 flore	s		z
-	u	llo	W
+m	ut		yWt
 ^e	s		s
 c	ho	r	4
 r	s	b	s
 	ors		Rz
 	o	r	4
+ge	n	s	n
 or	ge		j
 pre	s	'	z
 ^we	s		s
+og	u		?
+que	s		s
 	es	'	z
 rav	e		?
 	wa		wA
 	e	o	Y
-mod	e		?
+m	a	sa	A
 	en	st	?n
 gd	o		?
 el	e		?
@@ -6449,209 +6711,244 @@ bb	e		I
 cin	e		?
 nn	e		I
 ow	e		?
-os	o		?
+oll	e		I
 r	ico		?kO
 rl	e	s	?
+m	c	m	?k
 nr	e		I
 ^rev	e		?
-	e	cra	?
+	ecre		YkrI
 r	e	ma	Y
-gg	e		I
-	u	bul	W
+m	c	b	?k
+h	a	ge	8
 	u	to	W
 g	o		A
 	o	gu	O
-	n	c'	N
+	u	ssa	W
 ^b	o		A
 b	o	n	?
 m	c	o	k
-	u	bo	?
+	o	g	A
 	i	ling	9
-	u	lu	W
-rr	e	s	?
+rm	i	na	?
+	ce	me	s
 	o	ns	A
 	o	n'	A
 ^d	o		A
 d	o	m'	?
 or	o	n	?
-	e	spo	I
+^imp	o		4
 a	sa		s?
 ti	ga		g?
 	a	bl	8
 met	a		?
 t	a	st	8
-	o	g	A
+av	e	l	?
 th	o		?
 	o	nv	?
-	i	tin	9
-	edo		YdO
+	e	mati	?
+os	o		?
 i	o	n	?
 m	c	s	?k
-m	c	b	?k
-ll	u	m	?
-	u	cl	W
+rr	e	s	?
+gg	e		I
+e	al		l
 	mc		m?
 	ck		k
 	kha		kA
 	a	zi	8
 k	a	z	?
 lin	e		?
-	eme	n	Em?
+rud	e		?
+mod	e		?
+ta	na		n?
 	o	co	O
 k	o	n	?
 	u	de	W
 	u	th	W
 	o	c	A
-c	u	lty	?
+	u	be	W
+	i	tin	9
 x	u		?
-	u	ge	W
+rb	u		?
 t	wo		W
 	o	th	X
-	u	stific	?
-	u	tri	W
+	a	mo'	A
+	edo		YdO
+yd	e		?
 	u	go	W
+	u	te	W
 	ef	o	f
+	e	ner'	Y
 n	ine		9n
-ag	u		?
-	u	bsc	?
+	e	spo	I
+	al	z	Al
 	al	a'	Al
 pp	a		?
 em	i	na	?
-	i	ke	9
+r	i	tie	?
+^u	n		n
 	u	r	U
 	ed	uc	Id
 g	a	l	?
+	u	tri	W
 	ah		A
 at	a		?
 et	u		?
-	u	da	W
+r	ed	o	d
 c	a	la	?
 rf	u		?
-og	u		?
+	al	u	?l
+	en	so	In
 n	u	t'	?
 rt	u		?
 	u	li	W
 ok	u		W
-rb	u		?
+ost	e		?
 i	u		?
-	u	be	W
-	al	z	Al
+	i	o	Y
+	ga	n'	g?
+	u	bo	?
 	u	bi	W
-^	u	no	?
-on	es		z
+rd	an		?n
+	eme	n	Em?
+nd	ra		r?
 am	u		?
 	u	ga	W
-	u	nio	yW
-	wh		w
+	nn		n
+l	es		z
 	u	ne	W
 	u	di	W
 if	u		W
-	u	k	W
+rm	an		?n
 	al	ti	4l
 d	ha		A
-ta	na		n?
-	ch	t'	k
-m	ut		yWt
+	ag	i	@j
+p	le	t	l?
+^	ev	a	Yv
+ol	et		8
 	u	ta	W
 ub	le		?l
 	e	fi	?
-^a	na		n?
-nd	ra		r?
+	s	inge	s
+	uz		Wz
 f	u	l	U
-	al	y	?l
+^fr	y		9
 	u	ti	W
-r	ed	o	d
-p	le	t	l?
-de	ma		m?
-l	es		z
+rt	le		?l
+chi	l	e	lY
+	na	l'	n?
+^a	na		n?
+	a	nan	?
+	u	a	w
 ^	is	o	9s
-	zz		z
+	hn		n
+ag	u		?
 an	u		?
 	il	e	9l
-	u	te	W
-	ga	n'	g?
-	na	l'	n?
-rd	an		?n
+s	te	m	t?
+hi	de		d
+ad	ig		9
+on	es		z
+	ma	ti	m?
+	u	lu	W
+^l	uc		Wk
 	is	ing	9z
-	is	or	9z
-e	al		l
+^l	ac		Ak
+i	ze		z
+r	ho		O
+	wr		r
+	fe	l'	f?
 r	en	c	?n
+m	s	o	s
 	ab	a	Ab
 ipie	n		?n
-	is	a'	Ys
-ev	il		?l
+	cq		k
+	on	et	?n
+i	r	'	r
+e	re		r
 	mi	gr	m9
 	i	gra	?
-nt	r	es	R
+r	el		?l
 c	he	m	E
-	uz		Wz
+	y	o	y
 im	u		?
-	wr		r
-or	y		Y
-utrie	n		?n
+	y	ram	I
+de	ma		m?
+trie	n		?n
+r	n		n
 ie	n	t	En
 	eb	a	Yb
 	n	ti	n
 ess	en		?n
-ud	en		?n
+	ry	n	rI
 nf	an		?n
-	ri	va	r9
+	dg		j
 ig	an		?n
-ad	ig		9
-	on	et	?n
-	y	o	y
+	wh		w
+	ri	va	r9
+^bio	s		s
+n	s	wic	z
 af	y		Y
-	fe	l'	f?
-	cq		k
-^l	uc		Wk
-^u	n		n
-	y	ram	I
-^fr	y		9
+c	y	n	I
+l	e	ba	!
+si	s		s
+^lou	s		z
+ai	n		n
+	n	ey	n
 ^b	y		9
-i	r	'	r
+	is	or	9z
 	r	o	r
 	ir		R
 f	y		9
 	y	'	Y
 	iny		9n?
-ol	et		8
-	hn		n
-nd	el		?l
-p	r	e'	rY
-bas	in		?n
-arg	in		?n
-om	s		z
-^ree	s	e	s
 	c	hr	k
-r	el		?l
+^luca	s		s
+	e	ler'	?
+h	in	e	9n
+te'	s		s
+ei	l		l
+nt	r	es	R
+tee	n		n
+	s	j	s
+om	s		z
+nd	el		?l
+nst	an		?n
+^ree	s	e	s
+^ne	s		s
+	em	ar	m
+per	l		l
 sa	n	i	n
-	hh		h
-c	y	n	I
-	nn		n
+	s	itan	z
+bas	in		?n
 y	l		l
 	n	co'	N
 	n	k	N
 rb	an		?n
-rm	an		?n
+	fu	s	f?
 	l	e'	?l
 	hl		l
 	le	b	?l
 	e	bu	I
-ri	s	en'	z
+ev	il		?l
+len	s		z
 i	s	abel	z
 	ch		c
-^l	ac		Ak
-^aire	s		Yz
-^bl	in		9n
-l	s	b	z
-ran	s	f	s
+	hu	n	h?
+x'	s		Iz
+	is	a'	Ys
+arg	in		?n
+z	y		I
 g	s	i	s
+rlo	s		s
 d	s	ma	z
 hau	s	'	s
-e	r	s	R
-	dg		j
-^	kh		k
+dalla	s		s
+n	s	v	z
 	s	aw	s
+^	kh		k
+tl	e	b	!
 p'	s		s
 soro	s		s
 ebut	s		z
@@ -6660,26 +6957,33 @@ ebut	s		z
 o	s	ing	z
 t	s		s
 re	s	q	?s
-^luca	s		s
+u	g	e	j
 france	s		Is
 adra	s		s
 ^	g	ers	g
 lu	g		g
-	s	itan	z
+^bl	in		9n
 t	g		g
+n	s	ic	s
 c	g		g
+ew	s		z
 te	g	y	?j
 	g	eek	g
 	g	ert	g
 ber	g		g
 	g	y	j
+^fella	s		s
+n	s	e	s
 	g	e	j
+ke'	s		s
+e	s	d	z
 	g	in	j
 	ng		N
 se	s		Iz
 vi	s	i	z
 v	is		9z
 cu	s		s
+re	s	i	z
 nva	s		s
 	gh		g
 ui	c	id	Is
@@ -6687,9 +6991,10 @@ ui	c	id	Is
 	c	ello'	c
 	c	e	s
 	cc		k
+l	s	b	z
 	ac	cu	?k
 k	s		s
-c'	s		s
+ine	s	e	Yz
 ueen	s		z
 ^da	s		s
 au	s	'	z
@@ -6703,16 +7008,18 @@ f	s		s
 stro	s		s
 th'	s		s
 c	s		s
+ran	s	f	s
 n	s	l	s
 p	s		s
 ce	s		Iz
+ri	s	en'	z
 ady	s		s
 ^an	s		s
 i	s	bo	z
 pe'	s		s
 u	s	'	s
 ge'	s		Iz
-y	s	ic	z
+u	s	in	z
 o	s	ni	z
 	s	da	z
 a	s	ur	Z
@@ -6728,83 +7035,86 @@ juda	s		s
 	s	wort	z
 idea	s		?z
 eard	s		z
+c'	s		s
 ri	s	ba	z
 ea	s	l	z
 f'	s		s
-ew	s		z
+ar	y		Y
 ge	s		Iz
-^fella	s		s
+	y	rann	I
 	s	lo'	z
-^bio	s		s
+re	s	no	z
 ^lo	s		s
-te'	s		s
+jona	s		s
 u	s	an	z
-rlo	s		s
+	m	id	m
 	s	n'	z?
 tea	s		z
-dalla	s		s
+	y	w	Y
 i	s	mi	z
 i	s	m	z?
-x'	s		Iz
+or	y		Y
+a	s	's	s
 b	s	er	z
 	m	it	m
-	m	issi	m
+	m	is	m
 	om		Am
-re	s	no	z
+	y	m	I
 au	s	e	z
 k'	s		s
 d	s	ey	z
-ine	s	e	Yz
-nea	s		z
+ati	r	e	R
+d	sm		zm
 ^o	s		s
 	s	do	z
 	s	u	s
-ke'	s		s
+	g	ic	j
 ^ro	s		z
-len	s		z
-	y	s	I
+b	y	l	?
+ui	s		z
 d	y	l	I
 g	s		z
-^ne	s		s
+^aire	s		Yz
 	s	el	s
 xa	s		s
-a	s	's	s
+rth	y		Y
 plea	s		z
-n	s	e	s
+eal	y		Y
 brow	s		z
-u	s	in	z
+	y	z	9
 m	s		z
-ui	s		z
+ab	o		?
 an	s		z
-jona	s		s
+p	r	e'	rY
+die	g		8g
 	r	zy	R
 	s	'	z
-z	y		I
-	y	w	Y
+u	g	it	j
+e	r	s	R
 s	y		I
-ar	y		Y
+ulie	n		?n
 l	y		I
 ud	y		Y
+y	s	ic	z
 lick	r		R
 	y	l'	?
 en	y		y
-	y	m	I
+er	g	i	j
 po	s		z
 ivie	r	a	Er
 livie	r		8
-ati	r	e	R
-die	g		8g
+rui	n		In
+nea	s		z
 pshi	r		R
 si	r	e'	R
 t	r	e'	R
 e	r	'	R
 geor	g		j
 	c	y	s
-rui	n		In
-er	g	i	j
-sur	g		j
+	y	s	I
+rve	n	i	Yn
 	g	iene	j
-u	g	it	j
+joe	l	'	?l
 ro	n	co	N
 ra	n	co	N
 	g	ile	j
@@ -6816,27 +7126,27 @@ l	g	i	j
 llaborate	d		Id
 ncrea	t		@t
 tur	g		j
-ulie	t		Et
+li	n	q	N
 	t	led	?
 a	d	ua	j
 bbea	n		?n
-rve	n	i	Yn
+ce	d		t
 	g	mai	jY
-a	l	iti	?l
+	z	ure	Z
 p	l	ed	?l
 	l	ema	?l
 	n	colog	N
 y	b	e'	bY
 	c	ury	ky
 	h	ew	hy
-joe	l	'	?l
+	b	usiv	by
 poe	m		?m
 vie	t		Et
 arie	l		?l
 noe	l		El
 crea	t		8t
 	x	ce	k
-	h	r	!
+lit	z		s
 lea	h		?
 	h	s	!
 oa	h		?
@@ -6847,13 +7157,18 @@ oa	h		?
 	z	er'	z
 	z	el	z
 	z	e'	z
-	z	ure	Z
+	t	heir	D
 t	z		s
 ee	m	p	Em
 t'	v		?v
 t	l	es	?l
 at	'	d	I
 	'	mon	?
+a	l	iti	?l
+bb	l		?l
+ulie	t		Et
+	h	r	!
+g	h	e	!
 	a		@
 	b		b
 	c		k
