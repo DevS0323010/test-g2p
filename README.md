@@ -1,5 +1,5 @@
 # test-g2p
-[![Coverage](https://img.shields.io/badge/coverage-72.7%25-blue)](#)
+[![Coverage](https://img.shields.io/badge/coverage-74.3%25-blue)](#)
 
 A lightweight, rule-based English Grapheme-to-Phoneme (G2P) converter designed for educational and research purposes.
 
