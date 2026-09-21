@@ -1,5 +1,5 @@
 # test-g2p
-[![Coverage](https://img.shields.io/badge/coverage-74.3%25-blue)](#)
+[![Coverage](https://img.shields.io/badge/coverage-76.0%25-blue)](#)
 
 A lightweight, rule-based English Grapheme-to-Phoneme (G2P) converter designed for educational and research purposes.
 
@@ -24,7 +24,7 @@ You can integrate the rules into your own project by parsing the `rules.txt` fil
 | `prefix` | Context before the target. Use `^` for word start, `'` for word end/apostrophe. Leave empty for no constraint. | `[a-z'\^]*` |
 | `target` | The letter sequence to transcribe. | `[a-z']*` |
 | `suffix` | Context after the target. Leave empty for no constraint. | `[a-z']*` |
-| `transcription` | Output phoneme using a custom ASCII encoding (see [Mapping](#mapping)). Use `!` for silent letters. | Any string |
+| `transcription` | Output phoneme using a custom ASCII encoding (see [Phoneme Mapping](#phoneme-mapping)). Use `!` for silent letters. | Any string |
 
 **Rule Priority:** Rules are evaluated **top-to-bottom**. The first matching rule takes precedence, making earlier rules higher priority.
 
