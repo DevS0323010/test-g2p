@@ -1,13 +1,20 @@
 let rules = [];
-fetch("rules.txt")
+
+// load rules on page load
+
+document.addEventListener("DOMContentLoaded", async () => {
+    fetch("rules.txt")
     .then((res) => res.text())
     .then((text) => {
         lines = text.trim().split("\n");
         lines.forEach((line) => {
             rules.push(line.split("\t"));
-        })
+        });
+        document.getElementById("rule-count").textContent = rules.length;
     })
     .catch((e) => console.error(e));
+    
+})
 
 
 const lookup = {
@@ -100,7 +107,7 @@ function applyRules(word) {
                 continue;
             transcription[pos] = getIPA(rules[i][3]);
             logs.push(
-                `<code id="midlight">Rule ${String(i).padStart(4, ' ')}: </code><i>${positions[j] >= 1 ? " " + trimmed.substring(1, positions[j]) : ""}</i><code id="midlight">${rules[i][0]}</code><u><b id="highlight">${rules[i][1]}</b></u><code id="midlight">${rules[i][2]}</code><i>${positions[j] + match.length <= trimmed.length - 1 ? trimmed.substring(positions[j] + match.length, trimmed.length - 1) + " " : ""}</i><code id="midlight"> &rarr;</code> <code id="highlight">/${transcription[pos]}/</code>`);
+                `<code id="midlight">Rule ${String(i).padStart(5, ' ')}: </code><i>${positions[j] >= 1 ? " " + trimmed.substring(1, positions[j]) : ""}</i><code id="midlight">${rules[i][0]}</code><u><b id="highlight">${rules[i][1]}</b></u><code id="midlight">${rules[i][2]}</code><i>${positions[j] + match.length <= trimmed.length - 1 ? trimmed.substring(positions[j] + match.length, trimmed.length - 1) + " " : ""}</i><code id="midlight"> &rarr;</code> <code id="highlight">/${transcription[pos]}/</code>`);
             for (let k = pos; k < pos + matchLen; k++)
                 letterUsed[k] = true;
         }
@@ -122,7 +129,7 @@ function transcribe() {
         return;
     }
     const result = applyRules(word);
-    document.getElementById("transcription").innerHTML = result["result"];
+    document.getElementById("transcription").innerHTML = word + " → " + result["result"];
     document.getElementById("logs").innerHTML = result["logs"];
 }
 
