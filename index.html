@@ -1,80 +1,102 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Test G2P</title>
+        <style>
+            :root {
+                font-family:
+                    system-ui,
+                    -apple-system,
+                    sans-serif;
+                color-scheme: light dark;
+            }
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Test G2P</title>
-    <style>
-        :root {
-            font-family: system-ui, -apple-system, sans-serif;
-            color-scheme: light dark;
-        }
+            body {
+                margin: 40px auto;
+                padding: 0 16px;
+                line-height: 1.5;
+                text-align: center;
+            }
 
-        body {
-            margin: 40px auto;
-            padding: 0 16px;
-            line-height: 1.5;
-            text-align: center;
-        }
+            input,
+            button {
+                font: inherit;
+                padding: 8px 12px;
+                border: 1px solid #ccc;
+                border-radius: 6px;
+            }
 
-        input,
-        button {
-            font: inherit;
-            padding: 8px 12px;
-            border: 1px solid #ccc;
-            border-radius: 6px;
-        }
+            button {
+                cursor: pointer;
+                background: #0066cc;
+                color: #fff;
+                border-color: transparent;
+            }
 
-        button {
-            cursor: pointer;
-            background: #0066cc;
-            color: #fff;
-            border-color: transparent;
-        }
+            button:hover {
+                background: #0052a3;
+            }
 
-        button:hover {
-            background: #0052a3;
-        }
+            h3 {
+                margin: 0px;
+            }
 
-        #transcription {
-            margin-top: 24px;
-            font-size: 1.2rem;
-        }
+            #transcription {
+                margin-top: 24px;
+                font-size: 1.2rem;
+            }
 
-        #container{
-            display: flex;
-  justify-content: center;
-        }
+            #container {
+                margin: 0px;
+                display: flex;
+                justify-content: center;
+            }
 
-        #logs {
-            font-family: monospace;
-            font-size: 0.9rem;
-            color: gray;
-            margin-top: 16px;
-            text-align: left;
-        }
+            #rule-logs, #stress-logs {
+                font-family: monospace;
+                font-size: 0.9rem;
+                color: gray;
+                margin-top: 16px;
+                text-align: left;
+            }
 
-        #highlight{
-            color: white;
-        }
+            #highlight {
+                color: white;
+            }
 
-        #midlight{
-            color: lightskyblue;
-            white-space: pre;
-        }
-    </style>
-</head>
+            #midlight {
+                color: lightskyblue;
+                white-space: pre;
+            }
+        </style>
+    </head>
 
-<body>
-    <h1>test-g2p</h1>
-    <div>Current Rule Count: <span id="rule-count">Loading...</span></div>
-    <br>
-    <input type="text" id="input" placeholder="Enter word">
-    <button id="transcribe-btn">Transcribe</button>
-    <h2 id="transcription">Press Enter or the transcribe button to transcribe</h2>
-    <div id="container"><div id="logs"></div></div>
-    <script src="script.js"></script>
-</body>
-
+    <body>
+        <h1>test-g2p</h1>
+        <div>
+            Current Rule Count: <br />
+            <span id="rule-count">Loading...</span>,&nbsp;<span
+                id="stress-count"
+                >Loading...</span
+            >
+        </div>
+        <br />
+        <input type="text" id="input" placeholder="Enter word" />
+        <button id="transcribe-btn">Transcribe</button>
+        <h2 id="transcription">
+            Press Enter or the transcribe button to transcribe
+        </h2>
+        <h3>Transcription Logs</h3>
+        <div id="container">
+            <div id="rule-logs"></div>
+        </div>
+        <br>
+        <h3>Stress Logs</h3>
+        <div id="container">
+            <div id="stress-logs"></div>
+        </div>
+        <script src="script.js"></script>
+    </body>
 </html>
